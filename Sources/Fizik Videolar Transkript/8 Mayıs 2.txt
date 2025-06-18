@@ -1,0 +1,72 @@
+
+The positive and the negative charges will stop accumulating or will stop going towards edges towards edges or sides. Yeah. Okay. So so these magnetic and electric forces should be equal to each other. So then, QVB will be equal to q times e, the same formula that we have seen before.
+
+So this is going to be equal to v times b is equal to electric field. And so at some point, so when there is so imagine you have a plate here, and there's an electric field like this building up. Well, positive charges are here, and negative charges are there. And there is a potential difference between these two edges. So this electric field and then there's some sort of, like, thickness d or, like, d, It has a d length, on that thin, scale or thin axis.
+
+So it's going to be delta v divided by d is equal to the electric field. So, so here, for example, we can calculate. So the whole effect is basically used for to calculate the magnetic or to measure the magnetic field. So, so here, for example, b is equal to e divided by b. And then, so here, e is delta v divided by d times 1 over the velocity.
+
+So how can I calculate the, the velocity? It's basically so it's a drift velocity, and we can write so this velocity is the velocity of the plate, and this v is the drift. So remember, the current will change the n number of charges within that volume times q times the cross sectional area times the drift velocity. So that's the current definition. And so this is a drift velocity that we're going to write as BD.
+
+Vd subscript. So I can write vd as also in terms of this. So, here, the drift velocity is equal to I divided by n q a. So here, this is I. And, so if I take this one and plug back 1 in here, so magnetic field will be equal to delta v, the modified d.
+
+And instead of b d, we are going to write d d current I here and n times q times a. And then and then yeah. Tell me. So, okay. So, so from this, we can we can figure that.
+
+So what's if there's a small thickness to this plate, this is the cross sectional area, k, that we are talking about. So the current is basically going like this. So here, if you wanna calculate the the or measure the magnetic field, You should measure the potential difference between these two, edges, and then, we can measure the the current coming in here, So with some type of, some electronic components, you can measure the the the the current as well. So you measure this one. You measure that one, and you already know these, from the metal.
+
+Okay. Alright. So this was the end of chapter 27. And in this chapter, we talk about magnetic force acting on on, moving charges and on wires. We want to talk about the sources of magnetic field.
+
+So that will be, chapter 28 or so. So the next question is, on sources of magnetic, field. Yeah. I mean, muscle is how to produce so let's just write this charge in motion produce magnetic fields. So if we have a charge, for example, like this, and then, charge queue.
+
+So let's just say, so we are looking at a point here, p. And, so at this point, what does this charge produce? So this charge, the presence of the charge produces electric fields, So imagine this thing goes with velocity v. Now it's going to produce an electromagnetic field into the page like this. So this magnetic field, this formula for this one is, mu 0 divided by 4piqvcross r divided by r squared.
+
+Okay. So what does this all mean? So what is r? So r is the distance from the charge to the point that you are looking at. So this is r vector.
+
+So then what is r hat? R hat is r vector divided by its magnitude. Right? So it's a unit vector. So so this whole thing gives you the direction of the magnetic field, and it depends on r, the distance, r squared.
+
+So whenever r increases, the magnetic field should go down. And then there is, and, also, a. So this is permittivity of space or vacuum. So it's a constant. So this is 4 pi times 10 to the minus 7 or something.
+
+So that something is Tesla meter per ampere. So that is mu 0. So this is the cousin of epsilon 0. And epsilon 0, electric So here, for example, the electric field, what was the equation for the electric field? So that's going to be q divided by 4 pi epsilon, and one over r squared, and r hat is the direction of the electric fields.
+
+So our new equation is this 1. So here, what is v cross r? So that is the magnitude of v, the magnitude of r hat times sine theta, and that's the angle. So if you have, for example, if the charge is here, velocity is there, and let's just say the point p is here, so that means, for example, this vector r hat is in that direction. So the angle between them is theta.
+
+That's still in the in this point p. The magnetic field will be still in this, direction. So anywhere, actually. So if if a charge is going in this direction so any point towards its right, the magnetic field is so that's the direction of the magnetic field. So what about the direction here?
+
+So now this is for example, so let's just get here. So it's going to velocity, and then we are looking at a point p here. So what is the direction of the magnetic field here? So that's going to be an r vector like that. So, again, we are doing v cross r.
+
+R. So anything on the left will be pointing in our page. So that's the magnetic field on the left and right. So what about the magnetic field just along the way it goes? So let's just say it goes in this direction.
+
+So here, the magnetic field is 0. So it cannot create a magnetic field on the path it's going. So if this is going velocity v, so if this point is just on here, so that means this r so, basically, r is in this direction as well. So v cross r hat will be 0. So you cannot create any magnetic field just on this path and then on the back as well.
+
+We are at magnitude size 0. Okay. So mu 0. It's mu, 0. So this thing, has has a relation with the speed of light as we have started in our lecture.
+
+So epsilon 0 is the electric permittivity, permittivity of space, and it has a value of 882 8.82 times 10 to the minus 12 something. And, if we take mu0 and epsilon0, multiply them, and take a square root and so it's going to be speed of light. And is 4 pi. So here pi is 3.14 and 10 to the minus 7. So this is Tesla.
+
+So what's the unit for this one? I have written it up. So let's just figure out. So b is equal to, it says mu zero divided by 4 pi. Is that it?
+
+Right? And this is q. So there's a charge here, v times r hat divided by r squared. So what is the unit for? So what is in terms of, you know, units?
+
+So you have magnetic field times r squared divided by qv, times r hat, something like that. Right? But this is unitless. There's no unit for unit vector. And So this is Tesla meter square divided by meter per second.
+
+Right? So here, this will be, Tesla meter cancels out one of the meters here, and then that's going to be per second. So this is ampere. So this is test log meter divided by ampere. And that's the unit for mu zero.
+
+That's what we should write it here. I mean, what is measured by 4 pi is 10 to the minus 7. Alright. So, okay. So next, let's just discuss.
+
+So I'm I'm gonna make that connection, and I'm gonna let you go in few minutes. So since the moving charges create a magnetic field so if I put bunch of charges within a wire, right, and they are all moving. So so this is equivalent to a current carrying wire. Right? So you can also create a magnetic field like this.
+
+And, so from this, the connection is going to come from again. So what we are doing here is that, for example so these charges are, you know, hardest in this array. So what is the magnetic field at point p? And what we need is, to calculate or to find the magnetic field for each particle and add a add them up. So that's going to be the, the magnetic field, created by I current or high current carrying wire.
+
+So b is mu 0 by 4piqvrhat divided by r square. So that's our connection here. So we have bunch of them. So how many of them are there? So we have, let's say, n of them.
+
+So number of, charges are within the wire can be given in some values. So, so in a wire, we model the wire with some thickness, and so there's an there's an area. There is some sort of length here. Right? L.
+
+So the volume is, going to be some number n times the volume. Right? Volume of this thing. So this is area a. So that's going to be n times a times l is going to give us the number of charges.
+
+And then, so the amount of charge so if you if you multiply this with this one, right, so, we take, again, mu 0 4 pi qvrhat divided by r square. So what I wanna do is I want to multiply with n times a times l, so that's going to be the magnetic field of the wire. Okay. So what we know, our definition, n a l and then, not l. N a times q times z.
+
+The definition of the term is n times, q times, a times the drift velocity. K? So this whole thing can be written as a current. So I can write here next. So this will be mu zero by 4 pi.
+
+So I times so there's a l here. So I'm going to write l as a vector, l times r hat divided by square. So that's the magnetic field of the wire. So if you have a wire, I, which has some sort of length here, and what is the, magnetic field at point p that's going to be given with this formula. Well, since the wire has, so let's just say a little bit of length d l.
+
+So I should write here d l as well, and I should write here d b because depending on the situation, how can the Sounds So, so this thing is, let's just say, this is the other piece of the wire, which is, current carrying like this. So if you look into a point p, and then there is an r hat in this direction, and we can always say that it's going to be a magnetic field into the page. So it's this d b, and this is r, and the formula is given with this. Yeah. Sure.
+
+Sure. And with that,

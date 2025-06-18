@@ -1,0 +1,96 @@
+
+So one of the properties of magnets so if you have a magnet like, if we have a magnet like this, and this is n and s, so a magnetic field will come out. Magnetic field. We call this p out, and it goes in towards the the south direction. The magnetic field is in towards south. So it looks like this.
+
+So if you follow it up, so it goes up like this and then comes down to to the south pole like that and like this n and s. So Earth itself is a magnet as well. And, so when we think about Earth so Earth itself is a magnet. Okay. So, so for example, our compass puts a lot.
+
+So it shows, for example, the north like this and south like this. So it's a it's basically the needle is also a. On Earth, the north side or the compass shows towards your geographical north. Right? Like this.
+
+On Earth, like that. But so, for example, if you put this magnet here, the compass here, north and south like that. So it shows towards north. But in reality, the, the earth here. The polarity of earth as a magnet is reversed.
+
+So this is earth. And so which means that the south part part of the, of the compass is attracted with the north part side of the the the Earth's magnetic field. So it's going to be like this. So and the south part of the big magnet, Earth magnet is, attracting the north part of the compass. And when I'm a shake layer of this.
+
+So there is so, so here, this this is the magnetic field like that. So b b going in like this. So the magnetic field of earth is on the order of, 0 point, so we call this 1 Gauss or 10 to the minus 4 Tesla. So magnetic field, the unit for that, for the magnetic field is Tesla. We use it.
+
+For example, Earth's magnetic field is around 10 to the minus 4 Tesla. So Earth has around minus 10 to the 4th. The the fridge magnets And it's like 100 times or 10 times greater than this. So it's 10 to the minus 3 to 10 to the minus 2 Tesla. And, so this MRI machines or n NMR machines, so magnetic resonance, MR.
+
+So it's around, like, 1 or 2 Tesla. And some research labs, who's doing a research on magnetic fields can go up to, 40 45 Tesla, you know, which is a big quantity. So 1 Tesla so the the the shortest story is 1 Tesla is a huge magnetic field. So here, again, we are talking about magnetic fields, but, we don't know how to create them yet. And, we're not gonna deal into that or we're not gonna, think about that unless the next, chapters.
+
+But so far, what we know, the magnetic fields, the source of the magnetic fields are the managed. And, on a charged, particles particle in a magnetic field. So so the thing is if, if there's a charge, let's say, a positive quantity, and then if there is, let's say, under some magnetic field, the magnetic field, the magnetic field like that. And then imagine this is moving in this direction with the velocity v. So the force on a charged particle is qvcrossb.
+
+So that is the force acting on a charge, which is in a magnetic field. Right. So, so here, this is a, again, a cross product or a vector product, which means that, so remember, v cross b as a magnitude wise. So that's the magnitude of v, magnitude of b, and the sine theta, the the the angle between those two vectors. So now for the setup, so what is b and v?
+
+So in this picture so there's a 90 degrees here. So what is v cross b direction? See, the. So the the the the magnitude of that of that course is so the magnitude will be qvbsign data. And the direction, we're gonna find it with right hand rule.
+
+So, again, if we are, thinking in terms of I, j, and k, so let's remind ourselves. So imagine this is I and this is j, and this one is k hat. So I cross j. So that's going to be k. Right?
+
+I cross j. So, j cross k is going to be equal to I hat. And, so what else? K cross I hat will be equal to j hat. So this is a right right hand, expression of this thing.
+
+So if you start from I, j, and k, and then, so I j k like this. So if you go in this direction, I j k is supposed to quantity in between them. So k cross I is in this direction. K cross I is equal to j. J cross k is equal to plus I.
+
+I cross j is equal to k. But if you go in the opposite direction like that, so I j k here again, but you are going in this direction, then you will put a negative sign. So so that means, for example, I cross k will be equal to minus j hat. Right? So I cross k, k cross j, for example.
+
+K cross j will be equal to minus I hat. And similarly, j cross I will be equal to minus k hat. So this belongs here, and that belongs here. Now I would not So let's, go back to our main formula. So f equals qvcrossb.
+
+So that is the the force acting on a charge moving charge. So what is the unit for f? Let's do a unit analysis. That is Newton, and this is coulomb. This is meter per second, and this is Tesla.
+
+Right? So this one is equal to that. So 1 Tesla is equal to them. 1 Tesla is equal to Newton second divided by coulomb or, so Newton second meter coulomb. So we can write this thing as Newton meter, clone per second as well.
+
+So which is equal to Newton meter times ampere as well. So these are all expression of, Tesla in terms of other other things. So you can write also, this one as, what is Newton? Newton is kilogram meter per second square. So I can write this thing as meter per ampere.
+
+So that will be kilogram. K. Maybe I'll write it here. So that's going to be kilogram and divided by, 2nd square ampere. So that's another expression for 1 Tesla.
+
+Alright. So in our example, so q is given as 1.6 times 10 to the minus 19 coulomb, and it's the positive quantity. So that means it's a proton, and it will be a protonal model. So magnetic field is given as 2 Tesla, which is in k hat direction. And the magnitude of the velocity z axis, and velocity is on x y plane.
+
+Okay. So they have described what the velocity the the vector of the velocity. So the question is what is f? So we have to find the magnitude and the direction. And it.
+
+So if I have for example, if I make, so I had I can do this like k j hat like this and k hat in that direction. So it's 90 degrees here. It's j hat. So what's happening here is that the velocity is in on this plane, this x y plane. So here like that.
+
+So the the velocity is, I'm sorry. X z plane. X z. X z plane. So it's going to be on this.
+
+The velocity is on this plane and making, 30 degrees with, z. So this is the velocity, and it's making, 30 degrees with z like that. Okay. So there's a 30 degrees with z axis or k hat. So this is x or I hat, y or j hat direction, and the magnetic field is in k hat direction.
+
+So this is the magnetic field. So what is the direction of force? JHat. JHat. Come on.
+
+Okay. So we can do it. Yeah. I'm gonna right hand rule. So it's going to be b in this direction, and velocity, which is a perpendicular to, to magnetic field is in I hat direction, and this is k hat direction.
+
+So the answer will be in j hat direction. So, so that will be the post. So, maybe I can write it in terms of some vectors in terms of vectors. For example, what is the velocity? So the velocity, if I write it in vector form, is going to be velocity times sine theta will be in I hat plus velocity of the magnitude of this one, cosine theta will be in k hat direction.
+
+So f is equal to qvcrossb. So q velocity, sine theta I hat cross, Let me let me write it this way. So q. Velocity is v. So I mean, I'm gonna rewrite this thing.
+
+Sine 30 I hat plus velocity cosine 30cosine 30 khatcross, is going to be b khat. So I'm gonna write this thing as b k hat. In terms of magnitudes, I'm using it like this form. So here so that's going to be q, v, and b. I can take it that out.
+
+So qvandb in parenthesis. So sine30ihatcrosskhatplus cosine30khatcrosskhat. So this thing will be 0, and this thing will be I cross k will be equal to j hat. So I'll post the j hat. So it's going to be qvbsine30 j hat is our answer.
+
+So let's plug in the values. 1.6 times 10 to the minus 19. Velocity is, 3 times 500, 3 times 10 to the 5. Sorry. 10 to the 5.
+
+And, magnetic field is 2. So at the end, we should get newton here. Right? So that's going to be in j hat direction as well. So the magnitude of that one and, again, sorry, there's a sine theta, which is times 1 half here.
+
+So times one half times Newton times j hat. Okay. So this one is 4.8 times 10 to the minus, 14 Newton. Well, that's our answer. So, what would the, the motion look like?
+
+And, So there will be a force. So this is a positive okay. In the right moment. So there's a velocity here like this and magnetic fields like that, and then there's a force acting on it like this. So these are all 90 degrees.
+
+Right? So these are all 90 degrees 90 degrees. So what would the motion be look like here? And the other side of the show. So this thing will move, a trajectory like this.
+
+So at this point, for example, the force will be in this direction. So there will be a, velocity in that direction, and magnetic field is like So at this point, for example, the force will be again in this direction. Velocity is like that. Magnetic field like this. So they will all be perpendicular to each other at all times.
+
+We're gonna go ahead then. Don't reject it. Alright. So in our next 5 minutes, Okay. F equals to v b, sine theta.
+
+So if that theta is, like, 90 degrees, then the force will be maximum. So the way that we are calculating it is like this. So the velocity can be in parallel with, the magnetic field and perpendicular with magnetic field. Okay. So if you multiply this, b parallel times b, you will get 0 here.
+
+But b perpendicular cross b, you will get a force nonzero here, nonzero, thing that will give you a force in in that direction. So let's talk about the concept of magnetic flux. So we will call this phi b, which is b times the physical area. So remember, the electric flux was c e, which is equal to e dot a. So we use it for in the law.
+
+Right? We use this in the law. We can also define a magnetic flux, which is b.a. So a physical, let's say, area, so which is perpendicular here. And and then if there's a magnetic field going in and out of the surface, so like this, A lot of parallel axis in there.
+
+So it's the magnetic field goes like that. So we can calculate the flux through that, physical area, and that is, b times a times cosine theta because now this is a dot product Since a is in this direction and b is in that direction, and there's an angle in between them, so that is cosine theta. So it's going to be the flux with the maximum when theta is 0. But, this is the definition of the magnetic flux. And sometimes we call this p as web ash, as a unit, which is Tesla times meter square.
+
+But you're not really, responsible for this phone, but it's Webex is WP. We don't really have a name for electric flux. Yeah. Electric electric Alright. So so remember, our gas law so the gas law, what does it, say?
+
+So the electric flux is equal to e times d a, as an integral, and this is equal to q in over epsilon 0. So similarly so this is the the first Maxwell equation. Okay? And the second Maxwell equation is, for, let's say, the law for magnetism. So if you write it like that so for magnetism is the magnetic flux will be equal to b.da, and that will be equal to 0.
+
+So this is the second Maxwell equation. For a dipole, for example, positive and negative charge plus q minus q. So the electric fields are like that. So it's coming out like this, and it's coming into negative like that. So imagine if we take a Gauss surface like this and if I calculate the flux here.
+
+So this will be 0. Why? Because q in over epsilon 0, this guy is 0. Right? So within that gas surface, the net chart will be plus the minus.
+
+So So that is the that is the the case. And for this one, for the Gauss, or the magnetic field, So when you think about a north and south situations like that, so the magnetic field comes out and then comes in like this. So if we have so if you pick, for example, a Gauss surface like that and then calculate so for this one, this is equivalent to the picture here, and that will be 0. So that means no matter what you do with the magnetic field, b dot d a, you will always get 0. So this means that there is no magnetic monopole for now, let's say.
+
+Should I never say a So there's no no monopole.

@@ -1,0 +1,70 @@
+
+And we cannot declare it JB's or to declare it JK should. So what is the equivalent capacity? Capacity. Yes. So first of all hello?
+
+Hello? Hello? What we see here is these are all hello? So this part, these are in series. So then these are in series.
+
+This is 1 over c 1 plus 1 over c 1 plus 1 over c 1, and you reverse it, and you get c 1 divided by 3. And c 1 is given as 6.9 micro, carat. So c 1 by 3 is 6.9 divided by 3, and that's 2.3 microcarat. So, next. So what we have is set of these.
+
+So this part is 2.3. So this is this guy, which is, 4.62.3. So this is the point c and d. So these are in parallel. That means 2.3 times 4.6, and that's going to give you 6.9 So here, again, 6.9.
+
+So these are the points c and d. So this part will be again so this part will be, again, 2.3 microfarad. And with this one, again, it's going to give you another 6.9 Markov Herat. And at the end, we get this 1, this 1, and that 1, which is 6.96.9, 6.9, and we get 2.3 microfarad at the end between point a and e. So what is the charge here?
+
+Q. What is the charge here? And charge there. A and b will have okay. And b a b potential is 4 24.
+
+So the next step here will be this 1, this 1, and that 1. The another step was this 1. So instead of this, we will have this. So we need to go back up to this step in order to calculate the charge. What's the charge here?
+
+So q total here is c times the potential difference. So 2.3 times 420, And that is micro. To to to 966 microcolon. So if you go one step back here, what are the charges here? On the cute panel?
+
+It's the I know. 966 microcolon. 966 microcolon. 966 microcolon. K.
+
+So if you go back, 1 step. 6996. But what about the charge here? So this is, 4.64.6 micro path, and this is 2.3 micro current. So what is the charge here?
+
+Right. So this one so the total charge here So the way that we write, if I call this q 1 and q 2 so q 1 is, so if I call this point, let's say, x and y, so q one has 8 times, and q two will have 2.3 times b x 1. So if you take the ratio, q 1 by q 2 is 2. And total q, So 9 and 66 microcolon is q 1 plus q 2, and that will give you 3q2. So q2 will be, 2 no.
+
+Divide by 3. 322 microcoulomb, and q one is, 644 microcoulomb. Okay. So we've done this. And what about BCD potential?
+
+So that's the last question. So let's call this this is 4.6. This is 4.6. 4.6, and this one is 2.3 microfarad. Okay?
+
+So in this case, if I know the potential within these two points of So what is DCD potential? So I know this one, x and y. So this is the x y potential. I know the x y. So from here, for example, the charge.
+
+So q one is equal to 4.6 times d x y. Q one 644 divided by 4.6 is vxy. 140. 140 volts is this volt. So this is 140 volts.
+
+So this means so if I just take this moment. Okay. So this one from here, see if you can have one here. And I chose a video Tissue. I'm gonna wait.
+
+So this is 4.6. And, and this one, for this x and y point. So this is 6.9, and this one is another 6.9, 6.9, and 6.9. So these two points are c and d. So potential of vxy is equal to vxc+cd+ vdy.
+
+Right? And since these are all same capacity, so these are all equal to each other. Right? V x c is equal to v c d is equal to v y d. Why is that?
+
+Because they have the same capacity. So you can divide it by 3. So v x y is equal to 3 times vcd. In this case, VCD will be 140 divided by 3 because the capacities are the same. So c are the same So here so, so vxy is equal to folks say loud say it's out there a little quick.
+
+I'm sure it's. Yeah. I mean, system inject. So we have initially this 1. So this is let's call c 0, and this has a displacement of d.
+
+So c 0 is epsilon 0 a divided by d. Okay. And this one, when we put a material in between or metal in between. And so here, this is d minus a divided by 2. And here, d minus a divided by 2.
+
+So here, the capacitance here is is c one epsilon 0 a d minus a divided by 2. It comes up here. Again, this is equal to c 2 here. So, so in series, arrangement, this is what we get. So it's going to be c 1 squared divided by 2 c 1.
+
+So that's going to be c 1 divided by 2, And c 1 is this value. So c 1 by 2 is, epsilon 0 a 2 a divided by d minus a and 1 over 2 here. So epsilon 0 a d minus a. Express the capacitance as a multiple of capacitance 0 when the metal slab is not present among many others. Discuss what happens to the capacitance in the limits of a goes to 0 and a goes to d.
+
+So the unit couple's thermos bone, unit couple's star statermutable. So discuss what happens when a goes to 0. So when a goes to 0, the new capacitance, c one prime, goes to c zero dot. Unit. J separation.
+
+So if a goes to d, so that's going to be so it's a limiting problem. Right? So it's going to be epsilon 0 a d minus a. So as as this goes to d, so this goes to infinity. Switch to your moments, and then let me just check it.
+
+So this is the point a, and this is point b. So if I call this point c so what is v a c? So it is the capacitance here. So if I call this 6 microfarads, so the AC is equal to the charge of q a c, you know, whatever that is. So q one divided by c one.
+
+That's it. So this is let's call this c one. So we are going to do the same thing here. V a d. So v a d is also let's call this q2 divided by c2.
+
+So let's call this q2, and this is c2. So so we need to find the charge. And you clear. K. Yeah.
+
+What else do I have to do with this? So what is the charge here? So what is the total charge? So total charge is, so v a b times c equivalent of this or c a d. And so this is given as 210 with the CAB with the equivalent potassium It is on.
+
+Q e j. It's not j. It's the dot you see me b a c then. Q 1 by c 1 420 divided by 6 months or 70 volts. Yeah.
+
+Yeah. And choose on both. So review here. What is the potential difference across each capacitor after the switch is closed? How much charge flow through the switch when it was closed?
+
+On. The. Which outer outer which which outer outer which is on. Them. Altus Optus Microphone.
+
+And, Shuvatandash, Altice Optus Microcolon. Restony, Altice Optus initial. And it say so you saw the airline 5050. 30. 30.
+
+30. 30. 30. 30. 30.
+
+30. 30. 30. Initially, switch off to the middle initial. And

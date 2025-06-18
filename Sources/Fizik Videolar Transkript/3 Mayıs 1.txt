@@ -1,0 +1,126 @@
+
+There is no magnetic monopole. No magnetic monopole there. Monocode. So, let's, keep talking about the magnetic force. So what is the magnetic force?
+
+Or, of course, due to magnetism. Force due to due to magnetic fields. So in order for this to be a a force, for example, this charge has to move with a velocity v, and and then there must be some type of magnetic field. And let's just take our magnetic field to be inside into the page. So cross means into the page, b magnetic field, and course is equal to 2 b cross b.
+
+Okay. So whenever we talk about a so we know what is the essence of this cross multiplication. So the result will be perpendicular to both both vectors. Right? So so, for example, I can, think this velocity as b parallel plus b perpendicular to b, magnetic field.
+
+So in this case so any vectors so in this case, the, the velocity now here is, let's say so velocity now is perpendicular like this. So it's perpendicular to the magnetic field. Alright. So this is the the perpendicular, and let's imagine there's also some type of velocity. Let's just say this is out of pace, so I'm gonna call this v parallel.
+
+Okay. So what's going to happen in this case? So we know that v parallel cross b is, equal to 0, this thing. Right? And v perpendicular times so that means the perpendicular b times sign 90.
+
+So this is the one. So it is itself. It's the magnitude. So so there is no force from the parallel, magnetic field, but there's a force from the perpendicular one. So how would be the the the motion of this particle?
+
+Yeah. Alright. So for this one, let's just pick, for example, I hat in that direction and j hat in that direction, and, k hat will be in this direction. So in this case, for example, what is the the the force direction? The force will be qv perpendicular times b.
+
+And what's the direction for the force? So the course would be in this direction or on the one. Okay. Alright. So how is that going to look like?
+
+So if there were only, velocities, if there were only the perpendicular one, right, so if that's the case where there's a perpendicular force and a force like that, the perpendicular velocity force like that and the magnetic field like this, So that this thing is going to do a circular shape like this. Right? So there will be a a full circle here that I couldn't really draw very well, but you get the idea. So it's going a good circle like this. So this is just due to the perpendicular one.
+
+But there is also a velocity component which is parallel. So what's that going to look like? Right? So as it is rotating like this place it is so so as it is rotating like this and there's a velocity towards you as well. So it's going to move towards you.
+
+So it's a spiral motion. So this force will be due to the perpendicular one. And if you look from the side view, let's say, side view like this, so the side view, we're going to see it something like this. K. So, so now, what we know so this is, this type of motion is uniform circular motion.
+
+Remember from physics 1? So what does this entitle to? Like, there's an acceleration towards the center. That acceleration is v squared divided by r, which is the radius like this. Right?
+
+So what is the, the component of this? This is the perpendicular one. Right? So that's the perpendicular one. And this velocity is the one that is which is the parallel.
+
+Right? So this this thing is going like this. And and from this view so from this view, it looks like this. It's coming towards you. And also, it's doing a cyclic motion.
+
+It's a circular motion like this. So let's, figure out the forces. So what we know, the the, the force that is towards the center is, equal to m times a and which will be a radial acceleration like this. So what is the force? Q times v perpendicular times b.
+
+That's equal to m times, again, v perpendicular squared divided by r. So in that case, so one of those cancels out. So v perpendicular will be equal to, qbr. Yeah. Yeah.
+
+Okay. So we know that this is a constant value. It doesn't change. Right? If it changes, what happens?
+
+Alright? Let's think about that. So this thing is a constant, value. So that means the let's say, the amount of displacement it has in one period, delta t. So for example, if you write it as, like, the circumference or a circular motion, 2 pi r divided by the the period.
+
+So you can write it like this. So these two things are equal to each other. So you can get rid of r's and just write a value with a period value as well. Okay. So let's think about r.
+
+So our question was whether it's going to increase or decrease. Right? So so the velocity itself is equal to qbr divided by m and keeping qbm constant. And let's just say if the if this thing is increasing, then the radius should increase. K?
+
+So that's so this is proportional. Right? This increases. That increases. And you can always change the magnetic field.
+
+So what happens if you change the magnetic field? So that means so meaning that either you keep this constant or that constant, you have to pick. You have to say, actually. Okay. So, you can do all sort of stuff here.
+
+So here, what I want to emphasize is that, we can also measure this length. So this length has a a special name, pitch length. So we can, so if we call this, let's what what was the name for that? Pay me the shade there. Okay.
+
+So so let me call this, like, capital l We can also have some type of relation between this. Right? L. So l is v for, parallel times some time. So what is that special time?
+
+We're gonna call it as period. Right? So because it's the full rotation. And the the the length of that pitch will be the parallel times, the, the period. So we can, solve for period for this one and that one, for example.
+
+So if we write these, so qbr divided by m is equal to 2pi r divided by period. So r cancels out, so t will be equal to 2p timesm divided by 2 times p. So here, you can plug that information here and find out what that length should be. So in our example, the charge is given as 1.6 times 10 to the 19 coulomb minus 19. And, the mass of the proton is 1.67 times ten to minus 27 kilogram, and, b x is 0.5 Tesla, and v x is, 1.5 times 10 to the 5 meter per second.
+
+V y is 0, and v z is, 2 times 10 to the 5 meter per second. So these are given to us. So the question is, what is, the force acting on the particle? What is the acceleration of the particle? And next question is, what is the radius of the the circular motion?
+
+And what is the the l, which is the length pitch length. Okay. Alright. So these are all realistic values. Sorry.
+
+So it's a proton. We know the mass. We know the charge of the proton, and we have a fairly high, magnetic field. But it's conditions, and that would be the the velocity of the proton that has been accelerated and come to a velocity. Okay.
+
+So what is the force? So force here will be 2v timesb. And so this velocity will be like parallel plus the perpendicular, okay, timesb q that is f. So in this case, the force that has a times this. The parallel one will not contribute to force.
+
+And this force the magnitude of the force will be this quantity. And, so which one is parallel? Which one is perpendicular? So since this is in x direction, I hat direction, so this is also I hat direction. So this is v parallel.
+
+And this will be in k hat direction, which will be b perpendicular. So this is the force. So of course, will be 1.6 times 10 to the minus 19 times the velocity, which is the perpendicular one, which is this guy, 2 times 10 to the 5 times the magnitude of the magnetic field. So if we multiply this, this is a rather small force, which is 1.6 times 10 to the minus 17 no. 14 Newton in, in some direction.
+
+So what is that direction? So if we multiply this, so what is, v perpendicular? So this is 2 times 10 to the 5 in k hat direction cross 0.5tesla in, again, in xi hat direction. So what we are doing is k cross I. So that's going to give you so it's going to be in j hat direction.
+
+So 1.6. So it's it is a very small force, but when we calculate the acceleration, it's not that small. Acceleration is force divided by m. Since m is small, then this force is actually a huge force. So m is 1.67 times 10 to the minus 27.
+
+And, so that for the acceleration is 9.6 times 10 to second squared. Yeah. Check-in the. Alright. So that's the acceleration.
+
+So the next question is what is r? So I always use I don't use, like, memorized formulas. So f equals m times v squared 1 by r, so which is again, that is the perpendicular. And that's equal to q times v perpendicular times b. So we can calculate from here.
+
+And so r will be q times b divided by m times b. Alright? So this thing will be, just plug in the value, and, so that's going to be, okay. So whatever value is. It's 1.6 10 to the minus 19 times 0.5 divided by m 1.67 times 10 to the minus 27 at.
+
+We'll now show the the input distance and acceleration evolution or done damage. They will load this as. But let's just keep doing from here. So 1.67 times 10 to the minus 27 times our perpendicular velocity, which is 2 times 10 to the 5 divided by 1.6 times 10 to the minus 19 times 0.5. So this value comes out to be, alright, so 4.4.2 times 10 to the minus 3 meters or 4.2 millimeters.
+
+Alright. So what is the l? The parallel times the period. So period is, so you can write this thing as v parallel. What is the period?
+
+Period is 2 pi r divided by b perpendicular. Right? Values times 14 times, this guy times r, so 4.2 times 10 to the minus 3. The parallel is 1.5 times 10 to the 5 divided by 2 times 10 to the 5. So this thing, will be 19.7 millimeter.
+
+So it's roughly 2 centimeters. And when you say that, it is something, So the, name northern lights or, Aurora. So we live on Earth. Right? So there there is, so on Earth, which is surrounding us, is some type of so this is our atmosphere.
+
+So this is our atmosphere, which is, I'm not. So which is not to scale, actually. So so when there is some type of high energy so there's some high energy lights from, sun. Right? So whenever they get into our atmosphere, so our atmosphere has nitrogen, hydrogen, oxygen, and others.
+
+So all sort of gases, carbon dioxide, pull up the pump. So what's going to happen is that when there is an atom that is coming a very high energy light energy light that makes into, like, a positive quantity and an electron is stripped from. Okay? So what's going to happen is that so this thing is a positive and a negative two charges. So right now, this is happening here now.
+
+So when there is a magnetic field on earth, right, so we know that the So if we follow this magnetic field like this, since we're gonna so so they always have some type of velocity. So what's going to happen is that, so the the plus one will be moving towards maybe something like this. Well and then the other one will be moving towards that. Well, they can move into the same direction. So it's just So so these particles will be more concentrated at the post.
+
+So that's why we see them on the north and the south pole. And here, since they are concentrated, so those charged ions, will be interacting with atmosphere, and then they will be, all sort of, like, collisions happening in the atmosphere, and they are giving out lights. And what are the you you clear? This is the particle. Of course, for electric trash.
+
+Atmos fire, the key up on LALA molecule electric trash. Tesla. Alright. So, with my maybe last 8 minutes or so, I'm going to talk to you about, velocity selector. So it's a setup for velocity selectors.
+
+Yeah. So imagine, so this is actually in, mass spectrometers. That is the setup that we have. And so imagine, there is a channel with, let's say, an opening here, just a little opening here. And, so what we do is we have magnetic fields all in this setup.
+
+So we have magnetic fields like this into the page. Everything is immersed in this magnetic field. And what we now have, let's say, a positive particle like this, positive particle. So what I want to know, or I I want to see that the this particle is going to go through straight from here and comes out here. So this is this will have some velocity.
+
+Okay. So in order for this to happen, I need to apply so, definitely, there will be a magnetic force here, but I wanna apply another force which will be in opposite direction, which I will do it as, with the electric field. So imagine there's an electric field, in this direction. The setup. So if we look into our system, well, this guy is going down with the velocity v, and there's a magnetic into the page, and there's a electric p field like this.
+
+So what are the forces? So definitely, there will be a q times e and columnic force, some electric force, let's say. Q times e, and, the magnetic force will be q times v cross b, which will be, in the opposite direction. So velocity down b into the pitch, so it's pointing towards right. So it's it's going to be q times v times b, which is the magnitude force like that.
+
+So if these two forces are equal to each other, the particle will go straight down. So if the total force acting on the particle is 0, that means it's going to go straight like this. Right? So that means q times e will be equal to q times v times b. So that velocity is the electric field divided by the magnetic field.
+
+Okay? So, here so this is the right, let's say, velocity. But, let's say this is v zero. So imagine we have velocity, which is, we have particles which are slower than this. So imagine so imagine this is the right velocity, v v zero.
+
+So imagine we have some velocity v 1 like that. So this velocity is less than v 0. So what's going to happen is that the, this particle is going to experience the same force, q times e like that, but it's going to experience a less force, which is q times b b b one times b. So in this case, there will be a net force acting on the on the particle which is towards left. So what's going to happen that the particle will divert from the straight path, and it's gonna go towards right.
+
+Okay? So imagine if the particle has a v 2 velocity, which is, this is our v zero, and, and imagine a particle which has a v two velocity which is greater than v zero. So in that case, what's going to happen is that that particle will experience a greater force, magnetic force like that. But the force acting on it maybe I'm I'm going to redraw it. So v 2 like this, but q e will be the same.
+
+So this thing is greater than that. So the be in this direction. So this thing is going to go towards left. So there will be only a single value of the velocity, which will go straight. So what happens after they go out of that or that hole, for example?
+
+So there's a hole here. So imagine the particles will have a velocity like this, and then, let's just, pick should I? Alright. So let's just imagine. This.
+
+So what's not here at the side, the electric field is 0. So what's going to happen to this charge? So so it's going to go towards this direction, f, magnetic field, like this. So it's going to go towards here. Right?
+
+So, so the force, the velocity is down like this. The magnetic field is into the page. So there will be a force acting on the particle, and that is going to force it to locate like this. So the the mass spectrometer has the name. Mass spectrometer measures masses of atoms.
+
+So for example, this type of mass is 12 carbon, 1 hydrogen, so this is going to be, like, 13. So if you have a methane gas, so that's going to be 16. So you can differentiate between these 2. So, again, if this has some mass here, so what's going to happen? So we know there's some type of, like, radius, m 1, r 1.
+
+So this radius is again so what is the radius? Q times, velocity times magnetic field is equal to, the course, which is m times v square divided by r. Right? So if I say m one r one like that, so it's going to be m one and r one ratio. So like this.
+
+So it's going to be q times b divided by the velocity. So this is a constant velocity. So we know that everything that goes on here will have the correct velocity. So this is not changing. This is not changing, and that's not changing.
+
+But these two things can change. Right? So if you have a higher mass, for example, then the higher mass will have a higher radius. Right? So another for example, a smaller mass, let's say, or a higher mass.
+
+Let me carry this to other part, is going to go to so this is m one, and I'm going to draw, let's say, m 2, which is greater than m 1, so it's going to go something like this. So so it's going to go r 2. So if n 2 divided by r 2 will have the same ratio of m 1, r 1, which is equal to qb divided by b. So by so what we do is we put a detector here. So we measure r and

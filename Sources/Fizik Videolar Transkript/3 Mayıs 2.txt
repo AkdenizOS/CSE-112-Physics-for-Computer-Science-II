@@ -1,0 +1,98 @@
+
+Alright. Thompson's experiment, a over n ratio. So we have the same thing here. This slide velocity selector. So it goes down like this.
+
+But here, how you you are repeating the particle, which the particle here. So what we know, this velocity selector is, again, okay, so the forces are equal to each other. Q times a is equal to q times b times b. So from here, velocity is e divided by b. And so we know this.
+
+And at this part, so if I So something like this. So imagine there's an electric field which is giving this velocity here to the to the to the particles. So here, the the velocity initial velocity is 0, and final velocity is this velocity. So here, the amount of energy that the particle gets from here will be q times the potential difference. So that is the energy, and that will be the kinetic energy of the particle.
+
+So this delta v is here. If this is a distance d, so the the potential difference between these two plates will be e divided, e times d, like this cube. And that's equal to 1 over 2 mv square. So v square is this. So it's going to be the b squared y by b squared.
+
+So here, if I call this, we we can use it the same day, the the electros the the electric field, or we can keep it as a potential difference. I think that makes more sense. A potential difference from here. So these two things are equal to each other. So from this relation, q divided by m will be equal to, so q m comes here, e squared divided by 2, the potential difference, and b squared.
+
+So this has some constant value, and that value is actually, for it. So it's going to be 1.758 8 times 10 to the 11 column divided by kilogram. So from here, we are going to make our connection with the, the force acting on moving charges and the force acting on a charge carrying charge, sorry, the current carrying wire. So what is the magnetic force? What is the magnetic force on current carrying wire?
+
+Carrying wire. So, so what we know, for example, if there's a church with a velocity v and if there's a magnetic field into the page, let's say, there will be a post acting on it. Right? But what is that post? So that force will be in this direction.
+
+So imagine, that that now we have all those charges which are constrained in a wire, and they are moving with velocity b. K? So much of, like a lot of charges this is in the wire that are lots of charges of the v, so that velocity v is actually the drift velocity. And so let's take a portion of the the wire like this. So this is the area.
+
+This is the length. So in this volume, there will be a total force acting on the charge on this volume will be the the force acting on the wire. So it is all have f. So if you add those forces on the on the charges, then you're going to find the force acting on the buyer itself. So how many are there?
+
+So how many, how many charges are there is this the question. So that's because the forces are So, so we have, so this n, this number, which is the charge density, which is is it's a it's just a number divided by the volume. So that volume can be, like, meter cube and stuff like that. So so the number of charge in the system so this is like total f. So f is equal to q times b times p, like for a single charge.
+
+And now so if we multiply this, so this number is, it doesn't give you the amount of charges, but it gives you the numb the charge that's so we have, so n is, so we just need actually this one. We actually need just the number number of charges. So that is number of charge, which is equal to, n times word. Right? So, here, if I multiply number of charge times the force acting on a single charge, then I will find this thing.
+
+There we go. So times the volume. So the volume is the so the volume is the, cross sectional area times l. So number of charges, n times volume times aq, which is q times v times p. So what is this volume?
+
+That is x the the area times the length. Okay? So if I write this thing, so the total force acting on a piece of wire will be n times a times l times q times b times b. And, so for here, we know that this is the drift velocity of the particles. And, so from our previous chapter, when we talk about what a current is, or the current the definition of the current was, n times, q times, a times, v drift is the current density.
+
+And not not just the current. So it's just the current. So here n times a times, drift velocity times q is going to give us the current. So here, then the total force acting on the wire will be, so this n a q v and l and b. So this is the the current.
+
+So since I have written down the course as multiplication of these 2, so, so, of course, I have written it in a vector form. It's going to be like this. I have written it down in a magnitude form like this, q v b. But that means there's an, there's a cross section or, like, cross vector product between these two quantities. That means so this thing will have some type of, direction.
+
+So there's some type of, of a vector here, which will give you the partial direction. So since, you know, what is the drift velocity, direction is the same as the current and which is, well, the current also follows the length of the wire. So if you bend the wire, the current is is going to follow the the the band wire. So if you wanna write it in terms of, you know, some, so this is the current itself. So what I'm going what we are going to write, the current is not a vector itself, but it has some direction.
+
+And that direction that we are going to put into the length of the y. So this is the f on y. So it's going to be I l cross So remember, j is current divided by area. And so j is itself a vector, and and then this area is also a vector. So these 2 multiplication of these 2 is going to give you a current, which is not a vector.
+
+Okay. And, similarly, this is going to be well, this is this exactly the same. So this post acting on a sync time, which is exactly the same. Yeah. So if you look into the unit analysis of this, so this is Newton.
+
+This is length, which is meters, and this is current, which is unpaired, and this is Tesla. So remember, Tesla is equal to Newton meter ampere. So imagine we have a a wire that is the current is in this direction, and then the magnetic field is taking. So we're not taking. What's the direction on the course?
+
+Would I create unit? So f equals I l cross b. So this is the length, l. So the force is in the stair direction. And, similarly, if I keep going, for example, if I have if I take a wire like this, and again, the same l, and again, same the magnetic field like that, so the force will be in this direction.
+
+So you take the same thing and rotate it. And And similarly, let's pick a current like this and still the magnetic field. So I'll keep rotating it so the force will be in this direction. And here, again, current like that, magnetic field in, and the force will be in this direction. So imagine we have a situation like this.
+
+So we have this thing. We have this wire. And this has some type of length l, and current is coming in like this. And this has some radius r and r, and the magnetic field everywhere is in this direction. So so this thing is you can take this 1 plus take that 1 and then add these 2 vectors.
+
+So here, this is the current magnet field is into the page. So what is the first in this one? So the force will be in this direction. So let's call this f one. So this f one is rather straightforward, current times l times b.
+
+Since the l, so this is the l and b are perpendicular to each other, so this is going to be sine 90, which is equal to 1. And so that's the first half of the question, and what's gonna happen to here? Okay. Since l is not a constant, direction, so what's going to happen? So what's happening here is that, since, l is, we are going to divide it into, like, little pieces like this, and we're gonna call this, like, dl.
+
+So in this dl, for example, little piece of dl here, there's a current coming in here, and the magnetic field is is acting on this dl is we're gonna call it db. But, of course, the our formula will be, rather than writing f equals I times l cross b, we are going to write df, this little piece of force, right, is equal to I times dlcrossb. So our first step is to try to understand what this thing is. Okay? So here, this is d out.
+
+This is b, and this is d f. So it's a direction which is perpendicular to I and perpendicular to b. So it's going to be d l times b times sine 90 degrees. So it's going to be 1. Alright.
+
+So what we have, the magnitude of the f will be well, maybe I should write in terms of vectors, so I shouldn't get ahead of myself. So this supports itself. So what I need is I need to write the course in terms of 2 vectors like this. So so this little piece of post is acting on this one. It's like this.
+
+Again, I'm going to resketch this here. So this is the center, for example. We are our distance away. And then there's a d d out here, and then there's a d f force like this. So DF force will have 2 components, which is the FX and DFY.
+
+And the angle between them is the angle here, theta. So d f x is equal to d f times cosine theta, and d f y equals d f times sine theta. K? So what is the f? The f, the magnitude of the f is I times d l times p.
+
+So I'm going to plug that one in here and that one there. Alright. So, so this is, the app. So we are going to, I times the app. So what is the app?
+
+So let's try to figure out what this length is. So this is the length And if I sketch this here So from here, this is the length that we are after, and that length can be drawn as a triangle like this, r r, and this is theta. And this little piece of angle that we're going to call d theta. So this length here, d l, is equal to r times d theta. Does it make sense?
+
+So here, what I need is, for example, what is the force in x direction? So I need to take an integral, which is instead of df, I'm going to write idltimespand, times cosine theta with an integral, and, I times instead of dl, I'm going to write r times d theta. So irb times cos theta d theta. Now I can put in the initial and final values of theta here, which is starting from 0 degrees and goes up to pi degrees. Go ahead.
+
+So this is going to be pi times r times p and then sine theta, and that theta starts from 0 to pi. Okay. So the force acting in x direction is I times r times p sine pi minus sine 0, which itself is going to give us 0. Doesn't make sense. So there's a piece of wire that I'm, calculating the force act for act 1 x direction.
+
+There's no force acting in x direction on this piece of wire. And similarly, so what about the course in, y direction? So d f y, again, I'm going to write I times d l times d times now this is sine theta. So if I write it, I times r times b times, sine theta d theta, and this integration starting from 0 to pi. So now this is made of all.
+
+Makes the questions. Yeah. Alright. I times r times b minus cosine theta, which is starting from 0 to pi. And then I times r times b minus cosine pi.
+
+Minus minus makes it plus. Cosine is Okay. But this is 1, and this is minus times minus 1. And you we're going to get 2 here. So it's going to be 2 times I times r times b.
+
+So this is the force in y direction. So what does this really mean? So what we have found so this is l. This is r and another r here. So the force acting on this is I times l times p, and the force acting on this is in y direction 2 times, I times r times p.
+
+So in essence, actually, this thing, when it has some typo so this is equivalent to a wire which is 2 r net. Right? So here, because this is equal to I times 2 r times b. Theta 1 to theta 2. Put on integral in a day.
+
+So the I times integral I times r times b minus cosine theta, theta 1 to theta 2. So we can use this and then calculate with any values of theta. So imagine, so if we have something like this, 90 degrees. So what's going to happen, the theta initial will be 0 and theta final will be 90 degrees. So here, the force on in y direction will be, again, I times r times b minus cosine pi by 2 plus cosine 0.
+
+So this will be 0, and this will be I times r times b in y direction. And there will be an x direction as well. So I times r times b sine pi over 2 minus sine 0. So this is 0, and this is 1. This is I times r times p, which will be in the storage.
+
+So similarly so if I make another extreme another portion, for example, the the wire starts from here and ends up there. So in this case, the the current is still like this. Let's keep it that way, and this is theta initial will be pi and theta final will be 2 pi. So you can still calculate this and calculate f x here. You will 0.
+
+Because the f x is, sine values. Sine values will be 0 between these 2, but f y values will be cosine. So it's going to be 2 I times r times p. It's 2 r 1 should they covet? Should they covet?
+
+Should they covet it there? It's the I b times 2 r 3 digits. Yeah. So if you make a full circle, exactly, case like this. So if you make a full circle like this.
+
+So current is coming in and going like this. So this one, be like that. So in this part, course, will be like this. In that part, the course will be like this. So the total force here, the magnitude of networks will be I times I times p.
+
+So imagine there's a piece of wire which is resting on, current carrying circuit like this. Right? So, so there's a current coming in like this, I, and then there's epsilon. And this thing has some type of resistance and some length, l, like this. So from the side view, it, sort of looks like this.
+
+So, basically, from the side view like this That's current. Let's, decide on the magnetic field magnetic field is into the page like that. So what is the force acting on it? So magnetic force or magnetic field is like this. So f equals I l d.
+
+So the force acting on it will be of course, towards right, which is in this direction. Yeah. So with this one, you can shoot this thing. So if there is, so, if the wires are something like this. So there there's some type of rails here.
+
+So this thing will have a force f and the current, for example. So f will be I times l times b, which is going to give some acceleration, n times a acceleration onto this piece of wire. And, so let's imagine here r is 0, and then there is only a single resistance, r with this one. So this epsilon is the, EMF of the battery. So the current is epsilon divided by the resistance.
+
+So I can plug that one in here. And l times b, those are all external things. So the acceleration will be ILp divided by m or epsilonltimesp divided by r times m.

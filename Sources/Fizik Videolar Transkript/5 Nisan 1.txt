@@ -1,0 +1,150 @@
+
+So what is power? And, and so power is power and energy. So what's the definition of power? Power is energy per time, and the unit for that one is watt is equal to joule per second from physics 1. And in so we can calculate what, power is.
+
+So power is energy per time. So what was energy? So energy is, potential or, like, just changing the potential energy. And here, this is q times delta v. And, we know that so this is, this is the the total energy for a charge q if it moves from one location to another and which has the delta v potential difference, that is the energy change, within the system.
+
+But we are after, let's say, power. The definition of power is energy per time. So if we divide by, let's say, delta t here or delta t there, or we can just write t for the time being. And q by t as a definition, we call this one as current I. So the power then equal to I times the potential difference.
+
+Since we know that the Ohm's law is I times r, I can write versions of power. So power is I times. So instead of delta v, I can write I squared times r. Right? And I can write instead of I, I can write the potential difference.
+
+So it's going to be delta r, delta v squared divided by r. And do we have anything left? So and then the other one is I times delta v. So these are all versions of power and this is watt. So when you look into your electric bill, it says, kilowatt times hour.
+
+So this is basically the energy that we are paying for. So watt is basically the joule per second, and, watt times second will be equal to joules. So this is the electric bill that we are paying. So, our technical name for this is, for the electric bill and electric. So kilowatt hour is, so 10,000 watt times, 36 100 seconds.
+
+So it's going to be watt times second, and that's going to be a joule. Right? It's going to be 3.6. So 1, 2, 3, 4, 5, 6. So times 10 to the 6 joules is 1 kilowatt hour.
+
+So instead of writing, in in terms of the expansion, So the power law here instead of writing 10 to the 6 or 3.6, we just write kilowatt hour. Okay. So that's the definition. And, so so in our for example, let's say, in our example, we had the battery, and then which is going with 2 ampere and epsilon is 2 12 volts 12 volts. And this little r this little r and bigger r.
+
+So here, for example, so this one and this part is this part is power generator. So itself, it is a power or energy generator. So it is generating energy, and this part will be the the ones that are consuming the power or energy. So these parts are power or energy consumer. So, so here, on the left hand side, the the power that, the this resistance is consuming.
+
+So we had in our previous exam, we gave this to be 2, 4 ohms and this one, 2 ohms. And let's see here, I square times r is going to give us, 4. So the 2 is the the ampere value. So it's going to be 4 times 4. So it's going to be 16 watts that so this consuming, and this guy is consuming 8 watts.
+
+And this guy so if we say these are consuming like, we give them like a negative sign, and this guy is producing like, let's say so this is I times little r square, I I square little r. And, on the left hand side will be the power of the the, of this 12 volts. And that's going to be, 2 times that. So that's going to be 24 volts watts. So if we add them up, it's going to be 0.
+
+Again, this is the part that is generating power and the left hand part will be the ones that are consuming power. And most of the time, it's just using one of them will be good enough for us. We don't care whether it's generator or consumer, but this, circuit is having a power of 24 watts. Okay. So if we run, for example for example, if, we run an oven of, let's say, at 240 watts volts, sorry, with a current of 20 ampere, for 4 hours.
+
+Right? So what is the power consumed or and then and the power is I times delta v. And just plugging those two values, 24 and, like, 20 here, that's going to be 4.8, watts. So in in terms of, the energy here so what is the energy? So the energy is, so power times the amount of time that it runs.
+
+So, so that's going to be propane 8. I should write kilowatts here. Kilowatts times, another 4 hours. Okay. So that's going to be, somewhere, like, 19.2, 19.2 kilowatt hour.
+
+So this is our total energy that we run for this operation. And, so let's say, so, let's just check out, for example, what is the, power? Okay. So for the worst case scenario, let's just take, it's 2.22, lira. I'm not sure whether that's the, exact number that we are.
+
+So okay. 2.2. So if we say, for example, what is the amount of bills? Like, how many Turkish liras? How much?
+
+For this one, so for 1 kilowatt hour, that is 2.2 Turkish lira. And for this type of action, the the energy is so that's going to be, you know, roughly, 40 liters. Oh, that sounds about if I'm not mistaken. Yeah. Yeah.
+
+So that's that's sounds about right. Okay. So this is, like, 4 deliras. So, imagine, for example, if you are running it for every day, so if if you cook for every day, for example, cook every day. So for this just action, let's say, 40 times 30, So that's going to be your monthly cost of cost of oh, Okay.
+
+So that's, then becoming much more, expensive. Okay. So that that goes into your, expenditures. And, for example, if you are running, for example, though, we, we call this, like, OOFO. Right?
+
+This type of resistance that you heat up. So it's like thermal heating. So these machines consumes a lot. I mean, this the the the power of this one, is roughly about, like, 2, kilowatt. And for example, like, for heating, imagine you're using it for every day.
+
+Let's say, for each day, you use it for, let's say, 6 hours for each day, then, and then for a month, like, then that's going to be, times 30, like, 180 hours. So if you, what is the energy for this one? It's up to 2 kilowatt times 180 hours. So that's going to be 36 100, kilowatt hour. So this thing is 2.2 Turkish lira, and then this is roughly, again, somewhere around, like, 8,000 Turkish lira.
+
+Somewhere around. Okay. And, so that's, quite expensive. That is very expensive to heat with these, with these heaters. And and then maybe we don't use it 6 hours.
+
+Maybe you're we are using it, like, couple of hours. But even then, if you divide it by, like, half, that's going to be 4,000 for a month if you're using it every day. Yeah. Yeah. And look at dash dash, so this is the end of the chapter of 2025.
+
+So this is end of chapter of, almost law and stuff. And, so now, let's, switch gears and also start with, a new subject which is called DC circuits. Okay. Alright. So, so what did we do so far?
+
+So what do we know so far? So we know that, for example, if a current is running through a wire like this. So if if the current is going through a wire, then so for example, this is the wire, and there's an electric field within the wire. And the electric field direction, shows, the direction of, the the flow of the positive positive charges. Right?
+
+So positive the charges move at this, and we know that there's a potential difference between these two points. And, and the potential difference is, so this thing. So a wire. So let me just, start with this wire. So there's a wire here like this.
+
+And this wire, we're gonna take this, and then we said that, okay, this is basically a resistance itself. So it's a resistance like this. And, so it starts from here, ends here. So that r is, there's a current coming in so that the potential difference for this wire is going to be I times r. And in reality, so we say, so for a copper wire, for example, copper wire, this type of wire, we sort of say that okay.
+
+This is equivalent to a a single, let's say, line and a little r like this. So this r is equal to row times l divided by area. Right? This is the area. This is l.
+
+And this this can be represented as like this. So most of the most of the case of the in reality in reality, this is equal to, the the wiring is equal to, a wire which has no so this part has no resistance. But the only part of r is can be represented a little resistance on a wire like this. But here, this is the resistance that is equal to this. But in we in in in practical terms, so we say in, practic sorry.
+
+Like, in ours, let's say, in our, physics class lectures. So the wires r is equal to 0. So any wire that has, some type of, like, length and, area is equivalent to either this one or equal equal to this r, and this r is much smaller than we sort of like neglect that. So whenever we put a wire from now on, this doesn't have any resistance. So the resistance for this one is 0.
+
+And, so if the resistance is 0, that means, for this wire, we take the wire And at each point, if the the potential here is v a, then this will be v a, this will be v a, this will be v a, no matter what. And if there's a current coming, through on this, and then they will have an equipotential values of VA. So VA's are the, all the potentials all the potentials are equal to each other. Okay. And Okay.
+
+So, the there's a current going through here, and then we say that, that the potentials are the same. And, and that's how we envision this. Okay. And the only resistance that we will have will be shown in this. And so now we're gonna do the the the r circuits.
+
+And let's remind ourselves, so we can combine them with a positive and a okay. Let's say, if you take an r one and, let's say, put another resistance onto its parts. And then this will be some type of, let's say, r equivalent. Okay. So this is called a serious connection.
+
+So for this one, the current is coming through on both of them. So what we do is that I'm gonna take this point a. This is point b, for example, a and b. So for for this one, and this is still having the same decurrent. So v a b, the potential difference between these two points is equal to I times r equivalent and which is similarly so here, what I'm going to say that, okay, v a c plus v c b is going to be equal to v a b.
+
+And what is v a c? This is the current times r one and plus I times r 2. So this thing should be equal to that. So we say that I r one plus I r two, it will be equal to I r equivalent. So r equivalent of any 2 resistance, which is connected connected in series will be additional dots.
+
+Right? So if we have bunch of them like and all of them 123 and n, the r equivalent will be we're we're gonna just end them up. And, similarly, if we, combine them with, like, parallel fashion. So parallel. Here, we're gonna take r one and we're gonna take r two and combine it with their, the same side, so to speak, like the higher potential.
+
+And this will be equivalent to and are equivalent like this. Again, same point a b a b here are equivalent. So a current is coming in here and a current is coming in there. So, here what we say, okay, v a b is equal to I times r equivalent. And in this one, so the the the current has to be divided into 2 here because it has to flow on both.
+
+So I'm gonna call this I one and this will be I 2. So in these ones, v a b will be equal to I times r one and similarly, I times r 2. Here. So those are the potentials. So we don't get anything that can be, shown here.
+
+So so sorry. I 1 and I 2. But what we know from this node so here from this node. Node. So from this node, I is divided into 2.
+
+So our main formula is this. So itotal will be equal to I 1+i2. So what is I 2? I'm going to write v a b divided by r one just using this formula plus vab divided by r two using this formula which is equal to I using this formula vab divided by r equivalent. And from this we get one over r equivalent is equal to 1 over r one plus one over r two.
+
+And for r equivalent, if you have both of them, just 2 of them, this will be equal to r one times r two divided by r one plus r two. Okay. So so that is for also, let's just write if we have just bunch of them. Just n all them. 1, 2, n n.
+
+So we just have to take the reciprocal. R equivalent will be 1 over r one plus 1 over r two plus 1 over r n and take the reverse, and that will be r r equivalent. Okay. And we'll be learning top plate. That's our touch Forget any, So, for a for example, for a resistance.
+
+So we say this is going to be if a current is coming in here, I'm going to say this is the positive side which has a higher potential high potential. And this has a negative side, which has a lower potential. So remember our, you know, graph of this. So imagine, we have this thing here. So if this is epsilon and there's a current coming in here, there's r.
+
+So what do we do? We say, okay. There's a higher potential increase here. And then there's a constant and then there's a decrease with the higher potential that goes to 0. So here, this part is I times r.
+
+So this part has a higher potential and this part has a lower potential. And this part will be negative and positive. So positive and negative, this part will be like epsilon. And then for the rest of them part, this part will be positive and negative. The the way that the current runs has the higher potential.
+
+So so let's just write that that the current enters, to the higher potential part of resistance. Positive. Yeah. Positive shaders. Now blue, honey shaded.
+
+And then a couple of. And couple of. So in the capacitors, we have positive, positive, positive, positive here, and then negative, negative, negative, negative here. So this has a higher potential, and this has a low potential. Why is that?
+
+Because if I put a positive charge here, it's gonna go like this. Right? So that means it's going like this, which is the direction of the electric field. And similarly, the direction of the electric field is like this. So the electric field is like a gravity.
+
+So it's just a just shows where the potential is decreasing. Okay. So so having said this connection, again, what what is being parallel and what is being serious is, So if you have 2 entities, like, whether it's r or c or, like, 2 r's. Okay? So if if the current is coming in like this here, r 1 and r 2, let's say, I 2 and I 1.
+
+So if I connect them here like that, right, so this has a positive side and positive side, they are connected like that. That means a parallel connection. Okay? And then what does serious mean? You just take a resistance and positive and negative like that.
+
+The current is coming in. And then I put the negative side of the, r one with the positive side of r two. Right? So that that is the this type of connection here, this type of connection is called series connection. And, similarly, this is true for the capacitors and true for capacitors here as well.
+
+R1, r2, r 3, r 4. So this is equivalent to actual, actually. Right? So how do we understand whether something is parallel or, a serious connection? So I should also emphasize that if these two things have to be in parallel, these parts should be also connected as well.
+
+So if there is something else going on, then they are not parallel. So these sides also have to be this negative side, and negative side should be also connected to each other. Okay. So this part where we have, let's say, a line like this. Right?
+
+So this is equivalent to, actually, this line can be represented as something like this. So I can write that line to be like this because this r one is connected to here and r two will be down back here. Similarly, r 4 and r 3 here. So we know that r one is parallel to r 2, which is series with art 3 parallel and r 4. So how do we make sure that we understand this?
+
+Because now we can give letters. Right? So if I give letters here, a so if I wanna go to a point here, here, then I should call this another letter, which is this is a potential of a, v a potential that is v b potential, and then that will be a v c potential. But here, since it's the same wire here, they will all have a b potential. So that that is a b potential.
+
+So from a to b and a to b, they would have a v a b potential, v a b potential. So what that means is this point a and b here will have the a b potential like that. So that way, r one and r two have the same potential, meaning that they are in parallel. Similarly, that's true for r 3 and r 4. And at the end, what we get, the equivalent of those.
+
+Right? So, so what is the r equivalent for this? So r equivalent is equivalent of this these 2, which is r one times r two divided by r one plus r two and plus r 3r4 divided by r 3+r4. Okay. So that's our answer.
+
+Oh, our equivalent for this case. Sometimes in the books, it says r a c. What is the equivalent resistance between these two points? Okay. Alright.
+
+So, maybe, well, we can also, let's just analyze a simple circuit as well, and then we can move and let's give a break, and then we can move on to maybe, Okay. So in our simple circuit, we have an 18 volts of, battery, which is connected to 4 ohms, which is connected to the 3 ohms. These 2 are in parallel, 6 ohms like that, and connected to like this. Okay. So, so what is the r equivalent?
+
+What is the current on each resistor? What is the power of the circuit, what is the power of each resistor. So let's do this. And, so we can also say, for example, I can give some letters. So this is a b c, for example.
+
+So what is b a c? What is v b c? And also, like, variations or questions with that, we can come up with. Okay. So let's start with what is the r equivalent.
+
+So it's rather simple. Right? So r equivalent is so these 2 guys are in parallel. So 3 ohm is parallel with 6 ohms. So that's going to be 3 times 6 divided by 3 time plus 6.
+
+So that's going to be 2 ohms. And 2 ohms is going to be parallel with so this is 2 ohms with parallel with 4 ohms. So r equivalent will be 4 ohms plus 2 ohms, which is going to be 6 ohms. So we can find here that the current will be, in this case, the main current will be, delta v, the potential difference between our equivalent. So here, since the potential so the potential of VAC here, for example so what is the VAC potential?
+
+It's just, you know, potential of the battery. There's nothing to, compute here. But the total potential is 18. Let me just write it down. Divide by 6.
+
+So this is going to be 3 ampere. So so that's the main current. 3 ampere is coming in like that. So v AC is 18 volts because this is c. This is a.
+
+Again, you can just, like, write it down without even having to calculate for r equivalent or, I, the current. So what is the current on each resistor? So I can, at this, step, I can, calculate for what is the power of the circuit. So if I know the the current that is going through the, the battery, so I times delta v is the power of the circuit. So that power is 18 times 3, which is 54 watts.
+
+Okay? So that power of the circuit, total power. So you can also calculate the power for each resistor as well, which will give up 54 watts. And, so in order to calculate the power of each resistor, we have to find either the potential here or the current. So let's start with the current.
+
+So 4 ohms, 3 ohms, and 6 ohms. Like that. So the current coming is 3 ohm pair, and 3 ohm pair have to be divided into 2. But we know that the potential will be the same here. So this is, b and c.
+
+So b b c's are equal. So if I call this I one so I one times 3 should be equal to I 2 times 6. Right? And we know that I one and then I two will be equal to 3 ampere. So one of them should be 2.
+
+So this guy is 2 ampere, and this guy is 1 ampere. So so this will be 1 ampere, and that is 2 ampere, and that is 3 ampere. So the power for this one will be I squared times r. Right? So power for the batteries are, sorry, 4 ohm, 6 ohm, and 3 ohm.
+
+And the power is I squared times r. So 9 times oh, 4. Sorry. Now that's going to be 36 watts. So 1 square times 6.
+
+So this is 6 watts. And 2 square, 4 times 3, that is 12 watts. So 36 plus 6 plus 12 should be equal to 54 watts as well. So these should be equal to each other always. Okay.
+
+So, what is, for example, b b c? So we can if we plug in these values here, thus, we find this is going to be 6 volts. So here from here to here, that is 6 volts. And from here to here, there is also another sorry. This is 6 volts.
+
+And from here to here, this is going to be 12 volts. So if you add them up, you better get the 12 volts of the battery. Okay. So, this is how we are going to analyze any circuit depending on the hardware detail and the the question is detailed. So I'm gonna stop here and give a break.
+
+Das.

@@ -1,0 +1,104 @@
+
+And my edit column are cluster. You start planning chapter objects. Should be multi there are the green frames. The the. This symmetrical region.
+
+So imagine we have a cube and then, so so this is the diagonal part. So what is r a b, the equivalent resistance, between those two points? And okay. And and each has each has the same resistance. So that's why it makes easy this problem.
+
+But it's not going to be easy if, it is any different than r. Okay. So let me just draw this cube like this. So each so that's the point a. That is point b.
+
+So if you look into here, for example, let's just start with point a, and point a or the node a will have 3 branches that the the current can go in. So how are the the the current going to be distributed? So here, for example, if we have, so let me try to make a decent cube. Okay. So, so this is the cube.
+
+So we have this cube. So I'm gonna reuse it. Okay. So first, we said that so if you look at this corner, for example, they they, there's some current coming in here. So there's a current coming in here.
+
+So we can divide it by 3 here. So imagine so imagine you are in one of those strikes, let's say, one of one of those paths, and then, you want to go to point b. So what is your alternative? So first, so let's just go this way, and we can go this way, and we can go this way as well. So next, what we are after here is that we have, like, 2 options here.
+
+So in this option, we can go either go up here. So you can go up here or you can go this way as well. Okay. And at the end, k. Here.
+
+So at this point, you don't wanna turn back here, but you wanna reach the to this point. You can go like this. And from this point, you can go like this as well. So these are basically those, colors represent the, the asymmetries. Okay.
+
+So I'm gonna throw the what is left of it. So here again, this one and this one. And, so after yeah. Okay. And this one and that one.
+
+K. So so we have basically, so if I call this let's say so I'm gonna call this, like, 1st and the second step and a third step. So when you are dealing with this and and you wanna reach to b, from a to b, you go first pink, and then you go the, the the yellow, and then you go blue. Right? So the the path that you are taking is actually green.
+
+So you go first, let's say, pink, yellow, and blue. So that is the, let's say so that is the the path of, or the the the possibilities that you have. So the the pink and yellow. So yellow and blue. So if these are the paths that you take, so that means you always have, have asymmetry.
+
+So meaning that, so if there's a current coming in here, I, so if there's a current coming in here like this, current coming in here, I, so you have 3 ways to to go. So you can divide it by 3. I by 3, I by 3, I by 3. So this pink, the current coming in here, pink, this will be dividing by the the current by 3. Would they have the So you have 2 options.
+
+You you have to divide it by 2. Right? So the current coming in here, I by 3, is should divide it by 2. So it's going to be I by 6. Right?
+
+So this will be I by 6. So the current will be like I by 6 here. And at the end, so when you go towards, like, the the blue, so any yellow color will have, will have the current of I divided by 6. So I divided by 6 coming in here. So those 2 currents will be, combining into a new current, which will be I by 3.
+
+So again, I by 3. The current divided by 3. So those 2 currents which you split up here. So this is I by 3. So it divides to I by 6.
+
+I divided by 6 here, for example. So this current so this one also divided by I divided by 6. I divided by 6. Here again. Again, this one divides by I divided by 6, I divided by 6.
+
+So it points, let's say so here, these two currents will, for example, these 2 currents will end up heading up. So this will be I by 3 here. You know, let me just use another color. So you add these 2 and you get I by 3. You add this one and add that one which you will get I by 3.
+
+And you add this one and add that one to get I by 3. So these 2 3 terms will give you I at the end. So it's a actually, the the the pink ones is equivalent to to the blue ones. What is RAB? Sure.
+
+Play the videos. So epsilon. So this is equivalent to just a single resistance. Like this. So I know this is epsilon, and the the potential difference will be also so the current coming in here, for example, is equal to I times r equivalent.
+
+Right? So this is r equivalent. So what is the potential difference? Delta v, which is equal to v a b, is equal to delta b. So if I pick any, let's say path here, for example.
+
+So I'm gonna pick any path to calculate what is our the the potential between a and b. So I'm gonna pick a path, let's say. So let me just pick this path. Take this one, take that one, and take that one, and calculate Vab. So what is Vab here?
+
+So what I know that I know the current here, I by 3, going from r resistance. So there's a resistance here, which is I divided by 6 coming in here, and there's a resistance here, which is I divided by 3. So if I give points, let's say, so let's give, like, c and d. So what is v a b? V a b is v a c plus v c d plus v d b.
+
+Right? So what is VAC? The the potential? I divided by 3 times R plus this one, I divided by 6 times r plus I divided by 3 times r. So this will be a b and that is equal to so we expand it by 2.
+
+So it's going to be 5 I times r divided by 6. Okay? So this should be equal to this v a b should be equal to I times r equivalent. So what is r equivalent? So what is an RC circuit?
+
+So technically, I I mean, when we were dealing with the the capacitance, we were thinking that there is a battery, and if the battery is connected to a capacitor, and then that's it. So this is in, let's say, in theory, it is like that in an ideal case. But in reality, no matter what you do, there is always a resistance. So that resistance can be due to due to inherent resistance, resistance of of wire of, let's say, bat. 3.
+
+Alright. So, so there's always a resistance. So the resistance is not going to be 0 in, in reality, let's say. So what does, what does this impose us? So the the RC circuits have, let's say, some, like, time constants time constants.
+
+So meaning that they, so those are the fundamental things before we dive into electronics. So those are how we are controlling the the time in with, electric circuits. Electronics So those time constants are, you know, used in traffic lights, and then, like, blinking lights, like, turn signals and, windshield wipes. Windshield So so we're gonna at the end of, this RC circus, we're gonna understand why we are, talking about time. You know?
+
+How the time is, inserted in these things. Okay. So let's just take a look into c circuit, which we can draw it like this. Epsilon. So this is a switch, Anakta.
+
+So when the switch is on on, then the capacitor starts charging up. Right? So we we call this, and then, and then we when we, let's say, wait long enough, the the capacitor is full and there is no current on the circuit. So, so the way that we, like, characterize these is that so when the switch is on, let's say, when the time is, like, very close to 0 seconds, and we say, like, time is equal to 0 plus seconds. So our circuit would look like would look like this.
+
+And when the time is much much greater than 0, our circuit would look like this. So meaning that, so here, there's a current which is the current is maximum. And in this one, then the current is here 0. Okay? So so we're gonna, see.
+
+So these are the 2 extremes, and we wanna understand what is going on in between here. So when time is, between, like, very, very, like, long enough and time is quite equal to, let's say, 0 seconds. And now what is going on here? So we have to write it down, our formula. So let's start with this.
+
+Our epsilon here, our patterns, r and c. Let's they loop like this. So I'm gonna let me just do a loop like this. A. Right?
+
+So I'm gonna start from here, and, this is positive negative. There's a current coming in here, positive negative, and then there's some type of, like, you know, also a positive negative like that. Okay. So in this loop, the potential difference is 0. That means I start with epsilon, positive epsilon, minus there's a current coming in here, minus I times r.
+
+And then I also consume some potential here because I get lower potential, which is minus, v c with the like this. So let me just write here. V r minus v r minus v c is equal to 0. So that is positive epsilon. So epsilon minus I times r.
+
+So how can I write the capacitance, potential? That will be q by c or little q by c is equal to 0. So I need to solve this question, but what I know is the current the definition of the current is dq by dt. Right? So here, epsilon minus dq by dt times r minus q by c, that is equal to 0.
+
+So this is a differential equation that we are going to solve. Yeah. Alright. Let's tidy this up. So I'm gonna write, dq by dt times r on the left hand side.
+
+So I put it here. So that means epsilon minus q by c. Right? So I'm gonna divide it by r and divide it by r, one over r, like that. So this cancels out.
+
+So that is dq by dt, like that. And, so what I wanna write is dq divided by epsilon minusqbyconeoverr is equal to d t. K? So if I call this u, for example, so I can write this thing as d this I can write this thing as, so what is epsilonqcone over r? So that is epsilon by rqbyrc, Or you can write epsilonc minus q divided by rc.
+
+So this is this thing. Okay? And I can call this thing as, so let me rewrite this thing again. Dqbyepsiloncminusq, and then that's going to be times, like, one over r c here. So that will be dt divided by r c.
+
+Okay. Let's just take a, like, breath here and, like, I'm gonna ask you this one. What is the unit for this one on the left hand side, and what is the unit on the right hand side? So how do I solve this one? So if I call epsilon c minus q as, let's say, u, and then, so then d u will be minus d q.
+
+Okay? So here, this thing, or maybe instead of writing this, I don't wanna deal with the negative signs here. So I'm gonna put a negative sign on the right hand side. So I'm gonna start dq, q minus epsilon c, which is equal to minus dt by r c. So So I put the negative sign here, which I reverse the order.
+
+And now I can do my thing here. I'm gonna call q minus epsilon c is equal to u. That means dq is equal to du. So here, the left hand side will be du by u is equal to minus dt by r c. Take an integral.
+
+What is du by u? And so it is equal to lnqminusepsiloc. So from, let's say, q initial to q final. And on the right hand side, I have a negative sign, delta t divided by r c from time initial to time 5. Alright.
+
+We are almost there. So I'm gonna put the the values here. So ln q final minus, so let me just start. Let me just state this one. So t initial, I'm gonna take t initial to be 0 seconds.
+
+So at 0 seconds, q initial will be also 0. Right? So I'm gonna use this. So this will be 0. This will be 0.
+
+Okay? So now l n q final. So I'm gonna also say that q final is equal to q by all t. This depends on time. So t final will be equal to just t.
+
+So lnqfinalisequaltoqot, and t final is equal to t. So lnq0tminusepsilonc. And here so it's going to be minus l n, 0, minus epsilonc. And that is equal to minus delta t, which is t minus 0 divided by r c. So what I did is I just plug in the value.
+
+See? And, so this one yeah. So a negative sign. I can reverse it back here. And, so ln q0tepsilonc divided by minusepsilonc.
+
+That is equal to minus t by r c. So this whole thing, I can reverse it one more time. Ln epsiloncminusq0t divided by epsilonc. That's equal to minus t by r c. And the Lambda function, you can write this thing as epsilonc minus q of t divided by epsilonc is equal to e to the minus t by r c.
+
+So what we are after is q. So epsilon c minus q o t is equal to I'm gonna write epsilon c on the left and right hand side, t by r c. So epsilon c minus r c is equal to q o t. So you can write this thing as epsilonc 1 minus e to pass. So this is basically the the charge, how the charge is being, restored in the the the capacitor.
+
+And if you take I dq by dt, the the current the integral, the derivative of this one, so what you would get here will be derivative of this one, so epsilonc0, and the derivative of this one is minus 1 over rce to the minus t o r c. Again, so epsilonc divided by rce to the minus trc, and c cancels out. So that is our current. So the the the current is epsilon divided by r e to the minus t r c. So these are our final, like, so I'm gonna just end up here.
+
+Okay. So I'm gonna, I'm not gonna make that joke. Alright. So in my previous lecture, I I just use.

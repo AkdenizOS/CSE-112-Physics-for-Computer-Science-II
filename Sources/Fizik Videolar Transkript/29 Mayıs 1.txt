@@ -1,0 +1,38 @@
+
+So imagine we have a rod like this, rod, and this is under magnetic field. So imagine the magnetic fields are into the page like this, into the page, and we are moving this with velocity v. So we discussed this before, like, this situation, but let's just review it, like, how what is going to happen or so. Have positive charges, and this is going with velocity v under this magnetic field b. So there will be a magnetic force.
+
+Right? Qvcrossb. So what's the direction of that force? B cross b. Okay.
+
+So there will be a magnetic force like this into this direction. So this is the magnetic field p. So so what's going to happen, the positive charges move up, and the negative charges will move down. Magnetic force. So what we will see in this rod is that the positive charges will accumulate top, and the negative charges will accumulate in the bottom.
+
+So how long will it last? It's going to last until there will be an external magnetic, electric field here. Right? So there will be an electric field so that it's positive times b force up and, q times e force down, which means if the magnetic force is equal to the electric force, then qvb will be equal to q times e, and e is equal to v times b. So that's the case where this is the electric field.
+
+And, so what if we, so in this situation, right, so when we have this positive negative charges accumulated on opposite sides of the rod, what we will see is that if we put a voltmeter here, there will be a potential difference. Top length l here, let's say. So this e times l will be equal to the potential difference, let's say, delta v, the potential difference. And that potential difference is the same thing with this emf. Okay?
+
+So that is that is the EMF and which will be equal to, again, minus d t b by d t. So those are the same physics. So there's not no, So in this case, for example, so the magnetic flux here can be written as minus d by dt, And then we are going to write b times d a in terms of, like, some integral. So here, again, what is e? E is equal to v cross b.
+
+So remember this thing. So I can write here again e is equal to v cross b here. So I if I take that thing and then equate to here, right, so this is b cross b, and I'm gonna multiply with l. Let's say, general case, I'm going to write as d l. And then if you take an integral of that, so this will be equal to on the right hand side of this, which is, emf or minus d by dtb.ta.
+
+Okay. So, so from this, this way of writing here, this EMF, is this form. Okay? So for example, we have the magnetic field here, and then you are pulling it with velocity v. And the EMF that is being occurring here, let's say it's in this direction or something like this.
+
+So it's coming like this. So there's an emf here. So that emf was so if this was constant and this is length l, so this emf was b times b times l. So it's the same formula, but this one is the the the top one is more general. K.
+
+Gonna move on to, generalized Ampere's law. So what is what is Ampere's law? So, again, this is a current I. If you wanna calculate the magnetic field around this, So this was how do we find this? Enclosed was equal to b.pl.
+
+Right? So this was the Ampere's law. So imagine we, cut this, and then let's say, we put some plates here, some plates. We cut the wire and make a void. So the place so if you look from the side, it kinda looks like this.
+
+Okay? So what we know so if you look at here, for example, there will be a magnetic field which is not, there will be a nonzero magnetic field there. So, so what we hear what we say, for example, there will be some b magnetic fields here, b magnetic fields here, and then there will be also some b magnetic field here, although I enclosed at this point will be equal to 0. So here, once I, you know, draw this dl here, like, from r distance away, there will be so here in this, I enclosed will be 0 between the plates, but we know for sure that there will be a magnetic field. So so what we need is we sort of, like, say, you know, since there is an electric field in this direction, so there will be an electric field there.
+
+So I need to write a form. So this is the generalized version, b times dl is equal to so m zero I enclosed. So that is when we apply when there when there is a curve, we apply this. But when there is no count, we are going to write mu 0 epsilon 0 d by dt e dot a. So this is the most general case of this generalized is actually the mag the magnetic, but the electric flux.
+
+Remember? So we use it for with, GasLog. Electric So this is the most, convenient way of writing the, 3rd Maxwell law. Law. Electric permittivity of space of space.
+
+So this was 8 times 8.5 times 10 to the minus 12, and mu zero was the magnetic permittivity of space. Permitivity gets organic. What was the value, 4 pi times 10 to the minus 7? So I'm gonna leave this to you because I asked it in the exam. So just take take a look into Equations for electromagnetism.
+
+So what was the first law? First law was the law. E.da will be equal to q in or q enclosed divided by epsilon 0. So this was Gauss's law, so this is the first law. And what about the second law?
+
+The second law was if you take magnetic field and then calculate the flux, that will be always equal to 0. That's this. What about the 3rd? 3rd is the Ampere's law. If we take magnetic field and multiply with DL, so in parenthesis, I can write as I enclosed plus, epsilon 0 delta or dpebydt.
+
+So here, that is p dot e.tdl will be equal to minus d by d t p b. And what is p? B? That is the magnetic flux. Alright.
+
+So that's So what is chapter 30?

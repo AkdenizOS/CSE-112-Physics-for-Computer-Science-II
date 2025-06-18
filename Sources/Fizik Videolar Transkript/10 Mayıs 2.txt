@@ -1,0 +1,60 @@
+
+Alright. So, for example, if I take, the currents to be the same, let's just say, I one and, I 2 are the same numbers. So if I do that, so that's going to be, mu zero I divided by 8 I d in k hat direction on the left hand side. So here, that's going to be mu 0 i+i is 2i, and then that's going to be I divided by piid, pi times d in minus k hat direction. And in here, so that's going to be, Okay.
+
+So so that's going to be mu 0 I divided by 8 by d in k hat direction. So if we take 2 parallel lines, oh, just like that, so they are in opposite direction. So one of them is up and the other is down. So it's going to be up and the other is down. The magnetic fields will be, stronger here, like, between the lines.
+
+So the magnetic field is stronger, and the magnetic field will be, less stronger or less, I mean, it's weaker, outside of these two wires. So so work we say that, so the way that so if these parallel lines are, you know, in opposite direction, opposite current directions, then this portion is going to have high magnetic fields. This and, similarly, if they have if they are showing in, the same direction, same direction, Same current direction, all the parallel wires. So this portion will be a weak Magnetic field. So this is, so this portion is, let's say, this is high magnetic field, and these are low magnetic fields and low magnetic fields.
+
+Similarly, so for example, if I take a look, all this setup with, from this side, and meaning that, this is this I one, and that is I 2. So I one is into the page. This is I one, and then that is a pitch like this. So the magnetic fields created by I one will be in this direction. So this is, let's say, b 1, and then here is going to be like that, b 1.
+
+Right? Yep. So, so what about b 2? B 2 will have also a magnetic field in this direction and then magnetic field in that direction feature. And similarly, if I extend this, so that's going to be b 1 in this direction.
+
+And then if I extend this 1 in here, that's going to be b 2 in this direction. It's going further away, so the magnitude will be. So, so this is less, and this is more, or this is low magnetic fields. This is high magnetic field and low magnetic field. And, so one of the practical usage of this, like coaxial cable or, some computer cables, so which I have a picture in our book.
+
+Yeah. So, for example, the computer cables have have a setup. Snatch that. There's an external, there's there are 2 wires technically. So a single, cable has 2 main wires that have, like, the one of the, the wires is the current is flowing in the opposite direction.
+
+Should have another picture. Oh, a coaxial cable. Nope. Sure that if this and that, And a coaxial cable Okay. So we can also talk about so for for the wires that are parallel to each other and and but going in the opposite direction, I one and I two.
+
+So there are some forces between, among them. Since there's a so let's say the distance from here to here, let's call this, r, so this distance. So what is the magnetic field of the first one onto the second file. Yeah. So it's going to be in which direction.
+
+Hang your nose. And color. B 1. So I'm gonna call this b 1. So what is b 1?
+
+B 1 is b 0 I 1 I r. And what of the other one? So that's going to be in here. Is it in or out? Out.
+
+Right. So that's going to be a point. So this will be b 2, which is mu 0i2 divided by 2 pi r. So we know that, from our previous chapter, if if a wire is under magnetic field like this, for example, this current carrying wire, then we know that f is equal to I l cross b. Right?
+
+So there's a force acting on it, on this one. So I'm gonna call this f 21, so which is the second wire is applying on the first one. So that's going to be I l. L is the distance, so I'm gonna just call this l. Although it is very large, I'm gonna keep it as l.
+
+So it's going to be, l times. So it's going to be the the current itself, I one times l times the magnetic field. Mu0i2 divided by 2 pi r. And similarly, so and then, let's just find out the magnitude. F12 will be, again, i2timeslmu0i2 I 1 sorry.
+
+I 1 divided by 2 pi r, And we know that f 12 and f 21 will be action reaction pairs. So from here, f, this is l cross, like I cross b. So this one. So you are looking at I and I, so magnetic field is our page. The force acting on this one is f 21.
+
+And on this one where this is I one and that is I 2, and the magnetic field is like this. And that's going to be in the other direction, which is this f 12. What if we have so if we have a scenario the second scenario is, let's say, they have the same direction, I 2 and I 1. So in this case, let's just look into what changes here. So I one will, again, will apply a magnetic field like this, b 1, which is mu0i1 divided by 2 pi r.
+
+And the force acting on this will be so it's the, the current is different here. So the magnetic field is the same. So the force acting on this will be f 12 will be in this direction. And similarly we'll apply a magnetic field to b 2. So if you compare these 2, the current is the same, but the magnetic field is reversed.
+
+That means the the force acting on this will be f 21 will be again in the opposite direction. It's flipped. But they always have the same relation, which is f 12 is equal to minus f 21. So, so if directions are opposite, so opposite currents will repel or push, and same directional currents will attract or pull each other. K?
+
+So so the this for us. So we are thinking of, you know, infinitely large wires and the distance between them is r. So the pulse is, whether it's pushing or pulling, it doesn't matter for the time being for that's going to be muse. So it's going to be l times mu 0i1i2 divided by 2 pi r. So since l is sort of like infinity or, like, very large, you can always come up with so if this is very large, then the force is very large, but the ratio is not that large.
+
+So if you take the ratio, this is mu0i1i2 divided by 2 pi r. So that is the post per length. Okay. Okay. So, my question to you is, so if I give you so so what's the information so far?
+
+So this is infinitely long. So and if I am r distance away, so what is the magnetic field here? And you will say, okay. This is the current I. The magnitude is mu 0 I divided by 2 pi r.
+
+So if I take the infinite wire, I'll cut by half. So I cut the wire by half, but I let go, like, infinitely long in one side. So I'm gonna call this semi infinite. And then from this here, our distance away. So what is the magnetic field?
+
+Okay. Semi infinite all in jet and surely one over 2 times mu zero I divided by 2 pi r digits. For example, so if you come across so this is an infinite long wire, and then this is coming from infinity, and then it's going to infinity. And then you are here. What is the magnetic field at this point?
+
+Yeah. This plus infinity and then this plus infinity. So this one creates a magnetic field of I'm gonna call this 1. So this b one will be mu zero I divided by 4 pi r. And this one also I'm gonna call this feature mu0i divided by 4pi r.
+
+So what about the guys here? That should. And the phonewordability chain for minimus nativism. If we go up so this this was our formula, this one. I'm gonna copy and paste this.
+
+So we know for example, so we know this guy from minus a to plus a. The magnitude is, mu zero I divided by 4 pi times 2 a divided by x and then x squared plus a squared. K? So this is from the middle. That's x distance away.
+
+And then, so here, if I cut this in half like this, so this magnetic field will be mu zero I divided by 4 pi 2 a x x squared plus a squared and times 1 over 2. It's just the half of it. Sky Page and Astronomy. Sky is going to create a magnetic field like this, and this guy is going to create a magnetic field like this. So they are all in the same direction.
+
+B 1 plus b 2 plus b 3 plus b 4. So that's going to be mu zero I divided by 4pi r times 2. So this is b 1 plus feature. So twice of this guy, 1 half mu0i2a divided by 4 pi x and x squared plus a squared. So those cancels out.
+
+So those thing cancel out. So, you know, whatever comes up from here. And this thing is much smaller than this, but we should we should add this up. So this thing is b 3+4. Yes.
+
+Infinitely long

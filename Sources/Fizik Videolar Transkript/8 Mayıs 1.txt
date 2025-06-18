@@ -1,0 +1,78 @@
+
+Benim ders notlarından bir kısmını, daha doğrusu geçen seneki ders notlarını attım diyeyim sayfamıza. Şuraya bakarsanız eğer şimdi şu kısım zaten sizinle paylaşmıştım. Bu kendi notebook'umuzla. Bu dört beş altı yedi de geçen seneki derse gittiğim yere kadar. Yani bu sene de bu notların hepsini yani oraya kadar götürmeyi düşünüyorum.
+
+Hani ki fazlasını da vaktimiz olursa da yaparız. Yani şöyle ders notları bu şekilde mevcut. Onu söylemiş olalım. Efendim? Avesis'te de olabilir.
+
+Yani bir sürü böyle ders notu versiyonu var. Bilmiyorum eğer hani fotokopi çektirmek isterseniz bu şeydeki de oraya da bir kopya bırakabilirim eğer ama hani PDF'si de hani belki daha kolay takip ediliyor bence. Nasıl? O 0 aynı aynı onları şey yapayım ben size göstereyim aynı. Beğenmedin mi yani?
+
+Evet şimdi manyetik alan konusundaydık, buraya devam edeceğiz. Yani bir tere etki eden kuvveti konuşmuştuk. Aklıma geldi, yok da bağlı olmam lazım ama Numaralar soldan maça doğru, şöyle alayım. Ders alanında alsam kafi. Dediğim gibi yok mamaları hani online'da da zaten kayıtlı gözüküyor.
+
+Onları davet ek puan olarak yani finale ekleyeceğim ve yani eğer geliştirebilirsem vizeye de ekleyebilirim not olarak. Nasıl? Tamam. Yani finale etkileyecek başka bir şey de bulabiliriz yani, onu diyorum. Yani vizeye de eklesem finale eklesem anca kurtarırsın öyle bir şey mi yani ama yani laboratuvar pes fail şeklinde olacak.
+
+Yani nötr hani şey olarak tesir etmiyor gibi düşünün ama hani kalırsanız da kalıyorsunuz. Yani laboratuvardan kalırsanız dersten bırakma hakkım var size. Gözün var mı zorundadınız? Zorunda değilim. Yani satır aralarını iyi okuyun.
+
+Yani laboratuvardan kimseyi bırakmak istemiyorum. Ben illa kalacağım diyen varsa da evet neyse laboratuvar zaten yarın bu bilgisayar bölümü içindi. Tamam. Efendim? Ya o asistan arkadaşlar yapacaktı onu da bir hatırlatayım onları.
+
+Yani yarın zaten bir böyle bir giriş gibi olacak ders. Yani çok böyle ciddi ölçümler almayacağız. Sadece işte aletleri vesaireleri tanıtacağız. Yani genelde hani elektrik devreleri konusu dar olacak yani. Bir bakacağız yani hani duruma göre.
+
+Yani üç ya aslında hani yarınki de dahil olmak üzere beş tane rapor var aslında, yani verebileceğiniz beş tane deney raporu. Neyse onu orada konuşuruz. Biz bunu da arkadaşlar yine şey yapalım. Kaldığımız yerden devam edelim. Geçen derse ait sormak istediğin bir şeyler var mı?
+
+Sorular herhangi bir sıkıntı yok herhalde. Tamam. Bu sefer de bir şey düşünelim, bir loop düşünelim. Force on, Yani burada kastettiğimiz şey arkadaşlar bir şöyle, Yani biz burada arkadaşlar bu formülü sadece düz bir şey için yapıyoruz, denklemi kurguluyoruz. Ama eğer diyelim ki hani bu ne için, yani şöyle bir tel için bunu yapıyoruz ama böyle bir şekilsel olarak hani düz telden farklı bir şekilde diyelim ki yani şöyle bir şey içinde hani burada, hani BF dediğimiz yani F kuvvetlerini ayrı ayrı inceleyip şey yapmamız gerekir.
+
+Onun için de şöyle bir ültegral gerekir Bir ICrosspit. Yani bunu geçen derste bir yarım çemberde yapmıştık zaten. Nasıl oluyor arkadaşlar? I manyetik alan böyle. Evet.
+
+Yani uzunlukları boyunca böyle bir şey oluyor. Yani bu bu şekildeyken fakat işte biz bunu mesela işte şey yapalım yani nasıl diyebilirim mesela döndürmeye çalışalım. Nasıl olsun? Yani işte mesela şeyi şöyle şu an bu şu şekilde bir dikdörtgen şöyle, bunu mesela şöyle doksan derece tutalım. Mesela bu sefer kuvvetler nasıl olacak ne oldu?
+
+Hani manyetik alanı koyduğunuz alanı çok böyle oynamazsınız. Yani mıknatıslar nispeten sabittir. Tabii bazı durumlarda değiller. Neyse. Yani burada yukarı aşağı bir manyetik alan yok.
+
+Burada mesela bu loopar hani şu şuradan hani çok da sıkı olmayacak şekilde bir destek koyduğumuzu düşünürsek mesela bu sefer dönecek değil mi? Yani şeyi döndürüyoruz bu sefer yani birisi ağaçların ismi adı yaptığı için şeyler dönüyor. Yani biz burada neyi gördük arkadaşlar? Bir şeyi döndürmek için değil mi, yani döndürebilmek için mesela manyetik alanda görüyoruz. Bu aslında temel bir motorun çalışma mantığı yani.
+
+Bir motoru nasıl hani şey yaparsa yani elektrik enerjisinden veya elektrik yani kört'tan bir fiziksel bir dönme yani hani mekaniğe doğru dönüyoruz. Burada anlaşılmayan bir nokta var mı? Yani bu retline nasıl dönüyor onu anlayabilirim. Ama yani şey dönmeye başlıyor aslında yani tam olarak şey yapacak ama döndükçe bu açıdan dolayı torkta şey yok yani gitgide azalacak. Ona öyle bir bakalım.
+
+Burayı da alamayan var mı arkadaşlar? Yani visualize edemeyen yani iki kuvvet zıt yönde olduğu için ortaya bir destek koyduğumuzda arkadaşlar ne yapıyormuş? Bu vatandaş dönüyor. Yani bu hani o şekilde dönecek. Evet, fakat bu hani o andaki maksimum top.
+
+Şimdi dönmeye başladığı zaman top değişiyor mu onu bir düşünüyorum. Yani bu tam dik olduğu durumda nasıl oluyor? Şöyle şu şekildeyken maksimum tork var. Çok hızlı dönmeye başlıyor fakat şuradaki tork sıfıra. Yani bunu böyle ekstra döndürecek bir şey yok.
+
+Siz bunu hani bıraksanız yine bu tarafa, o kendi ivmesiyle yine bu tarafa doğru dönecektir. Fakat o zamanın ilk şey ne olacak? I, bunu yanlış mı yaptım? Şurada evet şöyle yapayım yani şöyle şurada bir kuvveti şey yapmam için yani burada şuradan şunu vidialize ederken burayı hani aslında hani şu kısım, yani şu f 1 into the page dediğim şey şu oluyor aslında ben böyle hani baktığım için. Dolayısıyla hani current burda nasıl oluyor, ben şuradan baktığımda current'da into the page olması lazım.
+
+Öyle olmuyor. Ya şuradaki kuvvette de şey yapacak olsak, manyetik alan, current, o zaman şöyle, şöyle olması için o zaman current'le şey yapmaya çalışıyorum, B manyetik alanı buraya aldım. Tamam. Nerede yanlış yaptığımızı bir şey yapmak istiyorum. B manyetik güzel yok.
+
+Tamam. Okey. Yani şurada şeyi yanlış yazdım arkadaşlar, şurada direktion yanlış yazdım. Sonra das how you get the force lites yani burada kuvvet şeylerin, körnikların yönlerini yanlış göstermişim ama şu an uyumlu oldu. Yani dolayısıyla hani bu şekilde bir şey var.
+
+Öyle devam edersek o zaman yani tam şuradaki körintin uyguladığı şeye, kuvvete bakmaya çalışıyoruz. Yani bir salıncak, yani bir tarafa doğru böyle döndürdü, şöyle tam dik olduğu zaman, bu tarafa geldiği zaman tork bunu bu tarafa doğru döndürdü. Yani aslında hani şöyle bir salınım hareketi yapabilirsiniz bu durumda ama motorda, motorlarda biliyoruz, bir dönüyor. Bunu nasıl yapıyorlar? Amin, güzel bir zaman.
+
+Evet, yani orada akım yönünü hani değiştirmek lazım. Onu da hani nasıl yapacağız? Şöyle, Onu çizmem biraz daha zor. Hemen kitabımızdan kopyala yapıştır yapayım. Şu, yani bahsettiğimiz şey şu oluyor.
+
+Bunu daha, biraz daha ileride iyi açıklıyorlar aslında. Hah, şu. Yani bu, yani DC motora hani geliyor. Yani burada da manyetik alan soldan sağa doğru Şurada da işte bu current yönlerini değiştirmek lazım yani tam doksana geldiği zaman current nasıl değişecek? Şurada eğer dikkat ederseniz arkadaşlar, şimdi şuradaki devre dönmüyor fakat burada bir kontak noktaları var.
+
+İşte commitator ve brush yani fırça denilen bir yapı var. Yani bunlar sabit, burada bunlar sabit. Buna bağlı bir sistem bunlara değiniyor yani PDF'sini olmazsa şey yapayım, büyüteyim. Yani burada mesela işte körün burada şu şekilde giderken, işte bu vatandaş yani şöyle yani tork mesela işte bu yönde, bu yönde demesi işte şöyle şu şekilde dönüyor, o zaman kuvvet burada aşağı, burada yukarı doğru. Böyle bu şekilde olacak fakat burada işte döndü ve şurası bakın yani şurada arada boşluklar var şurada.
+
+Tam burada mesela işte şeyin değişmesi lazım, nedir, Yönün, akım yönünün değişmesi lazım. Hani burası sabit. Dolayısıyla hani bu, bu tarafa doğru geçtiğinde, yani şuradaki teması bırakıp buraya geçtiğinde de current yani yönü değişmiş oluyor. Bakın burada mesela şu sol kanatta yukarı doğru iken mesela sol kanat pembe, daha sonra işte bu pembe kısım bu tarafa geçtiğinde aşağı doğru bir görüntü oluşuyor yani bu şekilde şeyi değiştirmiş oluyorsunuz akımın yönünü. Dolayısıyla sürekli bir şekilde torf olarak döndürüyorsunuz yani tork aynı yönde döndürüyorsunuz, motoru hızlandırıyorsunuz.
+
+Buna fırça fırçalı motor yani işte yani şuradaki brush dediği işte o şey sistemleri, kontak sistemleri. Yani zamanla mesela motorun şeylerini, aşıldığını en kısılarak bunlar oraya, yani verimini düşüren, buradaki kontakları şey yapan, azaltanlar vesaire vesaire. Okay, Yani burada da onun için, the current diverction yani burada işte yüz seksen yani yüz seksen derecede bir tarafa doğruysa current şeyi yani şu körıntı biz şuradan şu hale getirmemiz lazım. Değil mi? Ki o zaman kuvvet yine böyle olsun ve bunu da şöyle bir şeye döndürürsek görüntü kuvvet yine bu tarafa doğru olur ve torkta hani normalde bir şöyle diyelim hani orijinali şu yöne döndürürken bu sefer şu morla çizdiğim kısımda da yine bu yöne, şu tarafa doğru döndürülebilir.
+
+Evet, temel sorun arkadaşlar şey ama yani tork sabit değil. Yani tork bu böyle dikeldikçe azalıyor. Yani bunun böyle doksan derecedeyken maksimum tork var, bu da en hızlı burası fakat daha sonra yavaşlıyor. Yavaş tekrar hızlanıyor. Yani dolayısıyla bir şey var, artan azalan artan azalan bir tork var yani burada.
+
+Tamam, İmzalamayan var mı? Tamam, kalem kimin? Bir de kalemle birlikte geldi bu bana. Bu burada durabilir, yani Bir tane daha hani bununla alakalı görsel var. Madem açtık kitabımızı bunu da bir paylaşalım.
+
+Yani bu size bahsettiğim şey aslında. Set up. Şöyle. Bunu da buraya koyayım, yani incelersiniz. Yani burada hani kuvvetleri yönleri bulun, hareketin sonucu ne olacak?
+
+Bunu düşünmek için birazcık daha kafa yormak gerekiyor işin açıkçası. Şey orada. Basit harmonik hareket de değil yani basit harmonik hareket hani bir böyle dönse böyle dönseydi olurdu. Benim hani sonunda yukarıda öyle oldu mu? Yok, yani bu branş motorda hep dönüyor.
+
+Altındakinde evet evet. Yani orada hep bir şey var. Bir kere tarafı da bir Evet. Hani bir yay sistemi gibi. Yani o tarz bir yine uygulamada vardır yani.
+
+Okay. Yani burada aslında bir dairesel bir şey olsa da aynı mantık geçerli yani daireyle yine belli bir şeye oturtup onun da dönmesini izlersek eğer oradan da yapacağımız şey bu olacak yine. We helphome outlying tourly yani burada niye sorun yaptığımızın mantığı da var. Yani tek bir circle yerine otuz tane circle koyarsanız bu sefer korkunuz otuz kat Yani şöyle aslında akım değil aslında efektif olarak yüzey alanı arttı için yani bir tanesi alan var, bir tane daha koyuyorsun, hani A varken A varken atıldı. Tabii, yani bu şey zaten hani bir tane tel aldık, bunu loop yaptık, o teli böyle bağladık.
+
+Hani bir küçük bir silindir gibi. Yani körün geliyor, körün geliyor yani dolayısıyla hani şey var yani her gün bu bir tork yaratıyor, o tork oluşturuyor, otuz tane makasla otuza çarpıyor. Sonra on newton time meether shoodles söyleyeyim, bunu otuz tane sarım olduğu için bu şekilde yapabiliyoruz. Yani burada bir yüzeyden, yüzeyin vektöründen bahsettiğimiz zaman, yüzeye dik olan bir şeyden bahsediyoruz, vektörden. Bu vektörle manyetik alanı çarptığınızda torkun ne tarafa doğru olacağını da bulabilirsiniz veya ani kuvvet üyeleri takip ederek de bulabilirsiniz.
+
+Bu şekilde bir çözümleme yapıyoruz. Bununla alakalı sorusu olan var mı arkadaşlar? Hocam. Evet. Yani eğer şey, şöyle diyelim, olabilir, yanlış olabilir, yani şuradaki kuvvete bakalım.
+
+Burdaki kuvvet hangi tarafa olur? Yani ben buna arkadan baksam, olur? Aşağı oluyor. Ef böyle oluyorsa eğer yani Ef böyle oluyorsa o zaman bunu terse döndürmemiz lazım. Haklısınız, bu bu tarafa doğru olacak.
+
+O zaman bu da o zaman böyle olacak. Yani akımın yönüne göre. Yani şey de yapabiliriz, yani şurada şu işlemi de yapalım. Mesela hani aynı şekil, böyle olsun, İşte mü bu tarafa doğru, b manyetik alanında böyle. O zaman hani sol çeşittir mü mu crossbi hangi yöne bakalım yani şurası mu, burası b, nasıl olacak?
+
+Yani mü böyle, b bu tarafa into the page oluyor yani tork bu yönde şimdi torkun bu yönde olması ne demek? Tork dövme yani baş parmağınızı o yöne gösterdiğinizde yani ne tarafa doğru dönüyor? Onu şey yapıyor yani tork bu tarafaysa yani sistem şöyle dönüyordur yani bu sistem şöyle dönüyor. Yukarıdakiyle zıt oldu. Yani buradaki aslında hani aşağı tarafa da bakabiliriz yani doğru yaptım ben bunu into the page tamam into the page'in o zaman pardon şöyleyse bu tarafa da öyle dönüyor o da öyle dönüyor Okay?
+
+Yani o zaman hani akıl sanki şöyleymiş gibi düşünebiliriz, yani karadakinin tam tersi. Neyse yani bu iki tane şey olabilir ama burada dayanmanız gereken şey F eşittir üç çarpı L çarpı bir yani crosporunda. Yani öteki türlü hani torku her zaman kuvvetten giderseniz hiç yanılmazsınız. Zaten bizim için önemli olan kuvvet oluyor ilk başta. Hani tork birazcık daha bir sonraki adım.
+
+Okay. İsterseniz bir ara verelim. On beş dakika maksimum diyelim.

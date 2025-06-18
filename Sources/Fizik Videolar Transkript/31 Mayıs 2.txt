@@ -1,0 +1,66 @@
+
+Yeah. Yeah. Inductors, So, let's, talk about LC circuits. So in this case, what we are going to do is we are going to charge the capacitor first. So we're going to charge the capacitor with s 1.
+
+So s 1 is on, and then and then s one is off, let's say. We, close it and then, open the s one switch. And then if we do, the the s 2 switch on, then that means we get an LC circuit. So in the first step here in the first step here, the the the the capacitor is charged. So that means it will have an electric field in this system.
+
+So field is in a charged capacity. So in the second step here, what we are going to say that, we so charged when s2 is on, the charged capacitor is going to capacitor is, going to form. So is creating, let's say, a current towards l. Right? And and that current is not constant.
+
+So when it's not constant, when the the capacitor is discharging, when it's not constant, l will react to current change, and the magnetic field will be formed. K? And the magnetic field will be stored. So in this system, there will be some type of, back and forth motion, but let's just, talk about it now, like how we are going to solve about this. So again, what's happening, the positive charges are going to rush towards here.
+
+As they are rushing towards here, there will be a b magnetic field, let's say. And then when they cancel each other, the magnetic field will be maximum, and then the electric field is 0. But when there is when the the the magnetic field is maximum and then there is no charge here or, the the current here, then now the current will be decreasing and is going to reverse its system. Alright. So let's talk about the law again.
+
+Law tells us that, vc+l, the capacitor potential plus v l should be equal to 0. And, so q divided by c+lpid will be equal to 0. And what is, I? So the current is I is dqdt. And so what is d I dt?
+
+Then it's the second derivative of charge with respect to time. So I can write here l d squared q d t squared, and this will be q by c. That's equal to 0. And, so from here, we can write, d square q d t square. So I can get through this l by dividing l both sides.
+
+So it's going to be 1 over lcq, s equal to 0. And, so, if I write it in the other fashion, like d squareddt squared is going to be equal to minus 1 over LC and q. So this is, one of the fundamental functions. When you take the second derivative, it is, almost equal to itself, since the air force response to, we shouldn't have up. So now this will be q will be a function of, sine or cosine and x.
+
+So it will be a function like this. So, so what does, that mean? So if you wanna, try let's try to understand this formula. So if you do the unit analysis on this, for example, they charge So this will be, like, coulomb per second square on the right hand side here. So this will be one over l c, whatever that is.
+
+So one over l c will be, Henry times Perrott like this, and this will be again coulomb. So coulomb castles out when and what we see, Henry times Perot is equal to second square. So that means, again, Okay. So Henry times hertz is. Now that's what it is.
+
+Okay. So now, so this is l c is, is basically frequency. This is charged. This is second square. So one over square root of l c is 1 over second.
+
+And Alright. So if you wanna, write this up, so q is equal to, let's say, a constant times sine function. And sine function, I'm going to write here omega here, which is angular frequency. That's the name of this. Okay?
+
+So if you take the the first derivative with respect to time, you get that will be a times omega cosine omega t. And take another derivative of the top one. So a times omega squared, but it will be a negative sine function. Now this is going to be sine omega t. And and, basically, if this is q, so this will be minus omega square a times sine omega.
+
+So this thing is q. So what we get here is the time derivative with respect to, the the second derivative of the time is equal to minus omega squared q. Yeah. Yeah. And for So q will be equal to a times sine omega t.
+
+And here, omega will be, one over square root of l times c. So that's the frequency of the oscillation. And would have the cell number. And in. So this is q.
+
+And what is a? A is the maximum or, like, q maximum. So we can write it like that. Yeah. Q maximum q maximum.
+
+Sure. Extend to exceed maximum. And So here, omega, again, omega is angular frequency, which has which is equal to 2 pi times f. So this is this is just f is frequency. So if you multiply with 2 pi, that's angular frequency.
+
+And Okay. So what else? We can also talk about, here what is frequency f f will be equal to 1 over 2 pi square root of l times c. Maximum sine omega. What is omega?
+
+One over square root of l times c times t. Okay. So this is the charge of the capacitor. So what is the potential of the capacitor? It is q divided by c.
+
+Right? So it's going to be q maximum divided by c sine function, again, sine t divided by is our v c. C. And what about v l? Well, v l, you can either say v c plus v l will be 0, and then vl will be minus q by c sinep divided by square root of l times c.
+
+But we can also, figure out the current and then figure out v l as well. So another way of writing v l so v l will be l times t e I d t. So I is d two d t. So this is the secondary to all the charge. So that's what it means.
+
+So the inductive potential is l times d squared q d t squared. So if we do this thing, l times the second derivative of, let's say, of this function. Okay? It's going to be, q maximum divided by l c, but we have also a negative sign. And then again, sign t divided by square root of l times c.
+
+This will be b l. So l cancels out, and q by c is going to with a minus sign, which is the same result. Now with a few So so here, q maximum is equal to epsilon times c. So this is the the battery. So it depends on the battery.
+
+And, so this is q maximum. So if you write q maximum epsilon c, you can always also write this thing as is s n o c divided by c, this one, and sine I'm gonna just write omega t here. Writing 1 over square l c and the So it's epsilon sineomega t is v c, and v l will be minus epsilon sineomega t. So, let me just see whether there is a picture that I can use from the book. And then that one, and it must see whether there's a oh, not really.
+
+So if we summarize this, that's actually actually what's happened. And listens. So this is one full cycle. So this thing is one full cycle, and and the frequency of that cycle is 1 over 2 pi square root of l times c. Okay.
+
+Okay. So what's going to happen if I add them up, like all the circuit elements, which makes it RLC circuit. Take a look into RCL or RLC circuit. So we're going to have an epsilon, and then this will be, let's say, charged, and then we open that up, and then this charged capacitor is going to go through this. So a charged capacitor with epsilon is connected to so let's say connected to r and L.
+
+Connected to R and L. CR voltage. The total cap, potential of the capacitance potential of the inductor and the resistance will be equal to 0. And if we write this thing, this is q by c plus. This will be l e I by dt, and this will be I times r.
+
+So we get every, you know, versions of current. Current is dq by dt. So if I write in terms of charge, q by c, l by d squared qdt squared plus instead of I, I will write r times dq by dt. Again, this is also a second derivative. I mean, like, there's a there's a, second degree derivative here and a first degree here, which makes a difference.
+
+So if I rewrite it in this form like this, plus, r by l, so what I'm doing is I am dividing by l everything It's l. So that's going to be, r by l, dqdt. And the third term will be, one over l c. Okay. So this one is a little bit different than the, sine function, and I so it's going to be with the steps, but I'm gonna just write the answer here.
+
+So it's going to be a times, let's say sine or cosine, let's say cosine function, cosine, omega prime, let's say, times t. And, we can always write here, like, find, like, a phase difference, but that can be, let me just not write this. Cosine and and exponential term minus r by 2 l t. So, and this omega prime is now is 1 over lc minus r squared or l squared. So this is our new frequency here, frequency.
+
+So if 1 if you wanna understand this a little bit better, so let me So what does that? Okay. So let's take this function and then make it big, like, red color. So if I want to sketch this function, this function is a cosine function. Like that.
+
+Okay? We are multiplying with this function, and I must make it, with another color. This one. So this function is an exponential function, and it's decaying like this. So if you multiply these 2, what are you going to get?
+
+So once you multiply these 2, what you're going to get, this q of t function, will be basically So this function, so here, this type of decrease is given as e to the minus, r by 2 l t. And, so this one also will be like this function and where the frequency of this one so so the frequency omega prime is the new frequency of the system, and it's a cosine, basically. So so this one will have an omega prime, which is, again, 1 over lc minus r squared by 4 l squared in square root. And and the period of practitioners in that and the precons period No c circuits.

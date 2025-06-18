@@ -1,0 +1,78 @@
+
+In July, I can stay, in a Benzash, she killed a pitch. And the analyst objects, you have to just let, reject. Yeah. Just so we will have a battery, and that battery, let's say, is going to have a switch, and that switch is going to be connected to an r resistance and an inductor l. Okay.
+
+So when the s is closed when the switch is closed, there will be an a current that is running through here. So if you want to write the q q voltage law or rule, so if we do this, do it like this. So epsilon minus the potential of the resistance, the potential of the inductor is going to be equal to 0. Alright. So what is v r?
+
+V r is the I times r, the, the current times r. And this guy so let's just write a l times di by d t. So minus minus epsilon is equal to 0. Yeah. So what we need, what we can do, I can divide this, into, let's say, r.
+
+So in r parenthesis, this is epsilon divided by r minus I, and that is equal to so so I'm gonna, I'm gonna put l by d I d c here. Okay. So I can put r here. So I'm gonna write oh, what I see is, so I can write here d I I'm gonna put here on the right hand side and take dt and l by r on the left hand side. So what I'm going to do is di divided by epsilonor minus I on the right hand side, and that's going to be equal to r o l times d t.
+
+So if I write I minus epsilon divided by r, so I can put here on the left hand side with a negative sign, minus rl times dt. Yeah. So now we'll, just integrate now. Just for the So the derivative of this one is here. So the right hand side is ln function, ln I epsilon all r, and it is starting from, like, let's say, time is equal to 0 and time time initial and time final, let's say.
+
+So This is the current initial, I I I initial, and this is I final, let's say. And then here, again, this is t initial, and that is t final. Okay. So this is going to be at I at time is equal to 0, and this is I at time is equal to t. That's the right hand side.
+
+On the left hand side, we will get minus r by l delta delta t, And let's say it t initially is 0, and then t final is just t. Okay. And on the left hand side, we get minus r by l t minus 0 or just t here. And here on the right hand side, ln function, l n I of t minus e of e divided by r minus l n I of 0 minus epsilon So I'm going to so this is our the middle say, we are not done yet this one yet, but I wanna put here I when the switch is on like this as soon as the switch is on, The current at time is equal to 0 is 0. Okay.
+
+So I'm going to put here 0, and let me arrange this ln function, I o t minus d by r. And then, so I can write this thing as with the l n function here with the division. So it's going to be l n, this guy, divided by minus epsilon divided by r. R divided by l times t. K?
+
+And, so I can arrange this one more time. Let's say, let me arrange this one more time, and that's going to be or I can just multiply with minus e r. So, so this is the division. So it's going to be e to the minus r by l times t. Okay?
+
+So I get I got your little l m function. And if I multiply this with minus e by r here, and that's going to be equal to I o t minus e divided by r. So what I am after is what is the current? So the the current here is I o t is equal to epsilon r minus epsilonra to the minus r in parenthesis, 1 minus e to the minus r divided by l times t. So this is our current with respect to time.
+
+So if you plot this, what are we going to get? So if you plot this, I versus time. So we know that time is equal equal to 0 at time, 0 ampere starting, and it's gonna reach the point, and then it's gonna go like this. So that is the definition of the and, so the maximum current is e by r. So that is the I maximum.
+
+So that's the current with time. So I'm not I'm not I'm not. So, you know, imagine we have, like, this situation where it's just a resistance, r, like this. So if I, for example, look into a current, I versus time so let's say, what I'm going to see is that time is equal to 0, and then when the the switch is closed, it's gonna jump up to here like this. Right?
+
+So whenever we have a resistance in series with an inductor here, so what we will see is that the the current is let's say is 0 here, and at this point, I'm going to switch this on. So what's going to happen is that it's going to slowly increase the current. Alright. Vicky. Yeah.
+
+So we have r here, and we have inductors, let's say. So for example, what would you expect? Let's say so one of them is maybe, like, increasing like this. Let's say this is l one, and the other is increasing something like this, l 2. Which one is bigger?
+
+So this this was the current versus time. Okay? And, so what is our formula? Our formula is the current with respect to time is equal to epsilon divided by r 1 minus e to the minus. It is r over l by t or vice versa.
+
+Yeah. I'm sure that this is a business. So epsilon is equal to ldi by dt. And and current and Epsilon. Uncheck the Epsilon So we can write this thing as, so here k.
+
+So we can write this thing as, like, epsilon divided by r one minus e to the minus t divided by tau, and tau is the time constant. And here tau is equal to l divided by r, So this is in units of second. You know? So we know if we know the current, we we know everything else. So I know the current.
+
+Current is this function, whatever that is. Okay? So if I wanna find out what is the, the potential difference of the resistance, it's I times r. So I'm going to take this one and multiply with I. So I can write this thing as I epsilon divided by r 1 minus e to the minus, equals r by l times t.
+
+So it's going to be times r. So this r cancels out, and that's my v r. So what about v l? V l is l times di by dt. Okay?
+
+So it's going to be l and the derivative of this function. Okay? So what's the derivative of that function? Epsilon divided by r. Derivative of this one is 0.
+
+Derivative of this one is there's a negative sign with this one, and then derivative of the exponential function is minus r by l, e to the minus r by l t. Okay? So what I get from here, minus minus makes a plus, r cancels with that, l cancels with that. So that's going to be epsilon e to the minus rlt. So since we know let's say, so epsilon is equal to v r plus v m.
+
+So if you wanna sketch the the potential versus time. So this is going to be v r, which is equal to epsilononeminuse to the minus, r by l t, and the other guy will be v l. It's going to go like this. So this is vl will be epsilone to the minus r by lt. So at any, time, you know, if you take, for example, at this time or at that time or at this time at any time, dbr plus bm will be equal to epsilon.
+
+So if you add these 2 up, you will always get epsilon. Yeah. There is. Yeah. Switch off.
+
+That the. So r l, let's say. Switch off. Design in their can. Should I be is is on.
+
+So there's a b magnetic field inside l. And what's happening is, you know, all those things, the the potential is or the current is increasing like this, so then this is on. So next, what we do is, let's say, we we take a sphere off and s 1 off and s 2 on. So in that case, this is there's going to be a current in the different direction. So, so let's say in this case, there's a b magnetic field here.
+
+So, this is, so in this case, there's a b magnetic field and, let's is stored in l, in this case. And when s 2 is on, so this, the magnetic field and the energy will, let's say, be decreasing to 0. Yeah. So, so here, so in this case so we can also figure this out like this. So imagine this is already there's an already b magnetic field here and something like this.
+
+R Alright. So if we do, again, key short voltage rule or law, v r vr plus, vr should be equal to 0. And so it's going to be a l d I d t, and, will be equal to -i times r. And from here, again, you get, di by I, with equal to minus r by l t. And then, again, you get an ln function from here.
+
+So what you get, again, from here, l n function, blah blah blah, and then this I of, t will be a minus I of 0 at time is equal to 0 e to the minus r by l t. So what's happening here is the current is reversed like minus I zero here, and it's gonna go like this. And what is v l? V l is l d I d t. That's going to be l.
+
+The derivative of this one is, again, with a sin I zero times the minus r by l e to the minus r by l t. So l cancels out. So that's going to be, plus I zero times r e to the minus r by l t. So that's going to be r v out, and v r is I times r. So whatever we have here is going to be minus I times r, e to the minus r by l t.
+
+So if you add these up, you should get 0. Unfortunately. The current shouldn't be more than 36,000,000 ampere. So the current should not be more than 36, milliampere. And and then let's say, to, let's say, to avoid damage.
+
+The current should be more than so the the current should be the current should not be more than 4.9 milliampere in the first 58 microseconds. Okay. The question is, what should be epsilon, and what should be l, and what is the time constant? Very, very good. And very, very good.
+
+So in the long run, when, let's say, time is equal to much, much larger than t, so what we see is just this guy with this one, okay, at a longer time. So there should be a current coming like this, and that current should be less than equal to, let's say, 36 milliamps. So in that case so in this picture, epsilon is equal to r times r. And here that will be like 36 milliampere times r is 175 ohm, and that's gonna give us, 6.3 volts. So the second, here, the condition is the current, when time is equal to 58 microseconds, should be less than equal to 4 point 9 milliampere.
+
+So here, I'm going is epsilon divided by r one minus e to the, r by l times t, and that t will be well, let's just say that this will be, let's say, 4.9 milliampere. So r epsilon divided by r, what is this quantity? That's going to be 36 milliampere. And this quantity will be, you know, this quantity is such that, the the ratio of these 2 is going to give within this parenthesis. Right?
+
+So 1 so in this parenthesis, e to the minus r. So r is 175 ohm divided by l times, 50, 8 microsecond. Okay? And, so we are multiplying with this. So this ratio, this thing is going to be equal to 4.9 milliampere divided by 36 milliampere.
+
+The milliampere cancels out, and and that value comes out to be yeah. Right. So this is 1 minus 4.9 divided by 36. That's equal to e to the minus 175 times 58 times 10 to the minus 6 divided by l. Okay?
+
+So what you do, you take the l n function on both sides, l n. And so l n of this is going to be equal to minus 175 times 58 times 10 to the minus 6 divided by l, and it's this ln function. And that ln function comes up to be, 390. No. I don't know whatever that is.
+
+Yeah. It's the bill x. Super 6 and out. From. So let me just finish.
+
+And I'm going to see here. Tau. Started in shape, time constant. So time constant is l divided by r. So 67 7 millihenry divided by, 175 ohms.
+
+So 67.7 divided by 175. 0.38 787. At checking the dictionary letters. Yeah.

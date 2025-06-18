@@ -1,0 +1,76 @@
+
+So the capacitor that we take care of the we're checking there. So first of all, so this was, so for now, So, we will say that up to now up to now, we will be we are talking about, electrostatic situations where things are in, let's say, equilibrium, and the charges have stopped moving, let's say. And then I'm gonna put in quote and quote moving. And, so what we mean by that, you know, when we are dealing with electrostatic, you know, we have an object. We, let's say, a sphere with a charge queue.
+
+And then how that charge is, distributed there is, you know, we pass that. We we we wait for it, and then we wait for the charges to come to equilibrium, and then we do our calculations afterwards. So that's what we are doing. And, so but now, from now on, we will be talking about when the charges are in motion. Charges are being, let's say, moved by, let's say, external electric field.
+
+And, So, before going further to describe what a current is, so what's happening let's say, what is the situation in, metal let's say, in a metal and, where in a metal at At equilibrium. Okay. So when we look into a metal, for example, so there are electrons, Let's say, so for a metal surface, there are some electrons. And then we we say that these are, like, free electrons. And what they are doing is, basically, if we zoom in here, for example, the electrons are in motion actually like this.
+
+So electrons are intact. Electrons are in motion, And they are, they are maybe, like, going in one direction, and then there's some type of collision. And they go back to another, and then they go back here. So at each points here, at each corner, there will be some type of, like, collision with other electrons or with other atoms. So that's what's happening, when an electron is, is in a metal.
+
+So it's it's doing this type of, like, motion, and then we call this Brownian motion, but we we don't wanna deal into this. But the that's what's happening, and then this is the picture for electrostatic situation. So this happens whenever there's a charge in a metal, they are vibrating, and then they are, doing all sort of, like, collisions. And and that collision so on average so on average, electrons, seem to be, let's say, motionless. So when we take an average of those, there's no no net drift or motion in any direction.
+
+So these are all random motion here. Random. This type of motions are random motion, and the electrons are experiencing that type of random motion always. And, So, so there is no, like, an average, displacement. On average, there's no displacement of the electron.
+
+Now there is no motion, and that's what we call electrostatic. So this is the picture of electrostatic. And once we apply, let's say, an electric field to an electron doing type of, that type of motion like, you know, this type of motion. And then let's say we apply an electric field like this. So if we apply an electric field to this electron, so what's going to happen is that electron will still have a random motion, but it will drift towards left.
+
+So it will drift like because there's a force acting on the electron in that direction. So there will be a random motion plus and then drift due to external force. So that speed of the electron, that is going from left to right or right to left in this picture. So the electron is basically if you look at, the the electron will have some type of velocity, which we will call a drift velocity due to this external force. And that drift velocity is in the order of millimeter per second.
+
+It's a very, very slow process. And what we should say, for example, even if so the electrons are experiencing some collisions here. So, for example, at each step from here to here, the velocity the velocity of the electrons velocity of the electrons are on the order of 10 to the 6 meter per second, but overall, their drift velocity is very small, so millimeter per second. Electrostatic Alright. So, so it's a quite small velocity, this drift velocity.
+
+And, and that's what, well, there are more collisions actually when you are forcing something to to move. So, we are going to, now describe so if you put, for example, the electrons in metals, let's say, either constraint field or in a constraint, let's say, area or volume like this. And then if they apply an electric field like this, then they will feel a force like that, each of them, this type of force, and they will move. So they will, so let's say these electrons Well, sub clicks. So those are the electrodes that move, and So so this is the later part, and this is the initial part.
+
+So what we, express this type of motion with a new concept that we are going to say that, okay. These type of motions so let's say this many of electrons has passed through this area in certain time. So the the the charges moved at certain time in a certain time, let's say. So this thing is called current, which is equal to the amount of charge divided by the amount of time. Well, that's basically the what we call current, and that's the definition.
+
+So the if there are 4 charges moved from here to here at, let's say, certain amount of time, so if you take the ratio of those charges with respect to time, that is a current. So how is that related, in terms of so what we call, what's the unit for charge that is, coulomb divided by time. So coulomb per time is what we call ampere, and this is equal to a. So now this is the first time that we are seeing this thing, which is an SI unit. You know, there are 7 SI units.
+
+3 of them, we we have seen in physics 1, kilogram meter second, and we are still using them. And the next one that we see now here is ampere, which is related to charge, which is column per second. And, Alright. So for example, Okay. So, so this is the the the the the main formula.
+
+And, so let me write this here. So the main formula is I equals charge, the amount of charge divided by the amount of time. So if they move from here to here within delta t, so the amount of charges here will be will be like 4 electrons divided by that amount of time, let's say, let me just say, like, 1 nanosecond. But 1 nanosecond, so that's going to give us some type of current. Right?
+
+So for example, so what is the charge of the electron? Well, let's say if 4 electron, 4 electron moves in 1 nanosecond, what is the current? So the current will be I will be equal to the the charge to our by time. And that if there are 4 electrons, for example, 4 times, what is the charge of the electron? 1.6 times 10 to the minus 19 coulomb divided by 1 nanosecond, 1 times 10 to the minus 9 second.
+
+So that's going to give you, in the 6.4 times 10 to minus 10 ampere. So it's a small you know, very small value. In our daily life, we deal with milliampere most of the time. So in our daily life, most of the time, the the currents are in, in terms of, like, milliampere, units. And, so for example, and 1 ampere is a big, current.
+
+So for example, if you wanna I think there are there's only 50 milliampere is enough to stop the heart. Alright. So, we'll go go into the the the values of this and, like, how these make sense later, but let's just, describe the current in more sensible, way. And, so imagine so for example, so in reality, the electrons are moving towards left in reality. But in, convention, let's say so convention, What we say that if an electron is moving to left, that means a positive ion or positive charge are moving towards right.
+
+So that's what we say. So there are no positive charges moving in electricity. Only electrons are moving. But, we always call this to be a positive. And and then and then we will always say that so these are the charges, the positive charges under the electric field like this are going to feel a force, which is q times e, which is the the force and the electric field will be in the same direction.
+
+So commercial means, you know, have it. So this is our definition on how we are dealing. And and and, so this is equivalent to left and right are the equivalent, and then we will we will not talk about elect electrons. Then conversion should So so we say that the the direction of the current directional current is the direction of positive charges. You know, how would a positive charge move?
+
+Okay. So in our convention, so this is these 2 are equal to each other. But, if there is, for example, a situation like this so imagine there is a situation, for example. Imagine that there are, like, let's say, 3 negative charges. Let's let's make it, 3.
+
+And, and then 2 positive charges have moved, for example, in in in a direction that the positive charges, move towards right and then and then the negative charges move towards left, like that. So and then imagine this is we are looking into some sectional area and then try to count, you know, how many charges have passed in that cross sectional area. So so this is the cross sectional area that any charges have passed through, let's say. And then that means there are 4 negative charge, and then there are 2 positive charge. And then if you wanna calculate the current, that will be the the 6, charges have passed.
+
+So 4 negative, 2 positive. So, maybe I can so the total current at have passed will be 4 electrons plus 2 positive charges, divided by some time, and then that will be, like, 6 charges multiplied by time. So that increases actually the the the amount of, the current. Okay. So, let's continue with the, formal definition of the charge.
+
+And, so let's describe it with so we're going to from now on, I'm gonna just use the positive charges. So imagine there is some type of wire, a cylindrical wire, and and then we are counting for the total charges. So what we are doing is the so in this volume, the number of charges that I need to calculate in order to calculate the current. So here, the total charge divided by the time is what I need to find out. So in this volume, there are the the number of charges, have displaced.
+
+So let's say so at a later time, the amount of charges have moved from here. The total charge have moved from here to here like this. So the same amount of charges. So what I'm after is try to find the total amount of charge. So the fundamental, unit for charge is the electron charge, which is 1.6 times 10 to the minus 19 coulombs.
+
+So I'm gonna put it in my, pocket that this this value. What I need to find is, like, how many charges are there within that volume. Okay? So in this volume, number of charges so how can I find this? And, what I need to do is in this, let's say, this little bit of charge, Let me in this volume here.
+
+So there's some type of, thickness here, delta x like this. And and then let's say, there's a cross sectional area a area a like this. So the the volume here, this delta v, which is the volume, is a times delta x. Okay. So that's the volume.
+
+So what I need to do is, if I want to find out the number of charges, Number of charges will be equal to that volume, this delta v volume times some constant, some n, and this n is the, charge per volume. It's a constant for, let's say, for for copper, for example. So if you multiply these 2, then you will get the number of charges. And at the end, what I get is I equals, writing delta q by delta t, and q delta q is the amount of, the coulomb times the number of charges, times the number of charges divided by delta t. So that's what I'm trying to do.
+
+And, so what is the number of charges? This this, this thing. So q a times n times delta v. So this is the number of charges. Delta v is, a times delta x divided by delta t.
+
+So this thing is called some type of velocity, and this is called delta x by delta t is drift velocity. So here, the current is basically I is equal to q e times n times area times d drift. So this is a more fundamental, expression for current. So QE is, again, a constant. QE is a constant, which is 1.6 times 10 to the minus 19 coulomb, and n is also a constant and, which gives you number of charges, number of, charge per, or let's say charge density.
+
+Charge density. So the amount of charge divided by the volume. So that will be a number for aluminum, another number for copper, another number for gold. So that changes from metal to metal. So this is the, the this is the the current is equal to that, and, and we see that that depends on the, the the area.
+
+So if I wanna get rid of this area here and write I divided by the area here, which is equal to q a times, n times. So this is independent of the area, and what we call this one is j current density. So it's some type of, like, flux. So from here, again, so this j is equal to I divided by area and which will be some so what we have here is so we have a wire like this, and then there's some type of, like, current here, and there's some type of j, a value of j here as well. And why do we have these?
+
+Because we have an electric field like this. So we have an electric field within the wire so that they migrate towards left to right. And that thing, that electric field or that current density, that j that j and I should be proportional to electric fields. So for example, if the electric field increases, these guys should increase as well. Right?
+
+So that should be linearly proportional. So, so at the end, what we get is is j is equal to, some sigma times e, and this sigma is conductivity constant. So there's conductivity. So that depends on the material. And this whole thing, and this is basically the official version of current density.
+
+So, okay. So this is our picture. For now, let's say, so from here to here, we we are applying an electric field within this. So j is equal to sigma times e. And, so what is e?
+
+E is I can relate this thing as delta v is equal to e times doctor from our 3rd chapter. And and then since electric field is constant, you can take it out. And if there is some sort of, like, length l here, this is equal to minus e times l. Right? So I can write here, and then I'm gonna just write e times l, just drop the minus sign because I don't care about the potential difference.
+
+So instead of e, I can write the the potential difference. So j is equal to sigma times e, which is equal to sigma times, delta v divided by l. Okay? And on the left hand side, this is equal to the current divided by the area. So if I take the sky and take the sky, then that is our relation between the the, and that's another Ohm's law that you would recognize here.
+
+So then delta v equals, the current times l l times divided by area and then divided by 1 over rho, 1 over sigma. And then this thing is conductivity, so sigma is conductivity, and this is sigma. And we are going to write rho, which is equal to 1 over sigma, and we will call this resistivity constant. So if I rip replace 1 over sigma with rho, so this is rho, I l by a and then rho, so delta v. So this is, again, another versions of Ohm's law, which we call this guy to be resistance.
+
+So potential difference is equal to current times are again also.

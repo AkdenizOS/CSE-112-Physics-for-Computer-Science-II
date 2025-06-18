@@ -1,0 +1,148 @@
+
+Okay. So, so imagine there are a couple of wires coming into a single point, and then it goes out like that. So there is a current coming in, let's say, coming in like that, and then this one is coming in. This is going out and going out like that. So general rule for a node so this is called a node node.
+
+That means doom. So so in this one, the total, so at a node, let's say, at a node, incoming currents, Let's say total incoming currents should be equal to total outgoing currents. So we can say the total currents coming in should be equal to total current going out. So this is, the the first rule of the q shot. And in the next row, we have to describe a loop.
+
+So this is a loop. So doing good. So it's basically starting from, let's say, point a, and then you come up to point a like that. So that is called dengue. So it's, loop.
+
+So that is that can be in either direction. So this is the direction of the loop, not the direction of the current or so. But, the main idea for this one is, in a loop, the potential difference should be 0. In a loop in a loop, potential difference should be 0 Should be 0. So if you are going from a to a, that means, you know, the pot what is the meaning of the potential difference?
+
+This is the final potential minus the initial potential. So if these points are the same, b a minus b a, that should be equal to 0. And, so it can be the loop can be either a so in a loop, you can go either, like, clockwise direction, like CW, or you can go, in the opposite direction, so which is this one. This is counterclockwise direction. So it doesn't really matter.
+
+So this is CCW. So it doesn't really matter which direction you go. You will always end up with this zero potential difference. Okay. Alright.
+
+So the sum of potential differences, around any loop should be equal to 0. Okay. We said that. So, before going further and analyzing our first circuit, let's, remind ourself the so we are dealing with DC circuit. So what does that mean?
+
+So there's a direct current. And then in these DC circuits, the circuit elements are r resistors, epsilon like batteries, and c capacitors. So these are the circuit elements that, we will describe. So let's start with the rest. So these are the ones that that we will be using mostly.
+
+Okay. So starting from the registers r and, so let me change this color to something more striking. Okay. This one. Alright.
+
+So imagine, my loop direction is in this direction, and the current is coming in like this. So so so this is the current coming in like this. So it might the loop direction tells me tells what is final and what is initial. So for this case, for example, the loop direction so this is initial, and this point is final. So if I wanna look into the potential difference.
+
+Right? So the potential difference for this case will be vf minusvi. Okay. But what we know so once we know the the current, so if the current is coming into a resistor, whatever the point that it enters has a higher potential, and this has a lower potential. So since the loop tells me and, maybe let me give another so since the loop tells me the direction of the, the potential difference.
+
+Right? So what I'm going to say, so the f will be a v negative minus v positive here. So this thing should be a negative value. So in this case, what we are saying, this delta v will be I times r, but with a negative value. Okay.
+
+So this is the first case. So let's just think about a next case where we reverse the direction of the loop. So take the same resistance. Okay. And now and then let's say the the loop, the the current is again like this.
+
+And but now the loop direction is like that. So, again, this will be this point is initial that is final. And, so whatever the the current tells me, that is the it tells me the higher and the lower potentials. And the loop tells me, is this is the final point. This is the initial point.
+
+So delta v will be equal to vf minus v initial. And in this case, what we have, v final, it has a higher potential minus a lower potential. So that's going to be a positive value. So in this case, delta v will be positive I times r. So we'll be using this when we are dealing with loops and the circuits and, and like that.
+
+Okay. So these are the 2 scenarios that you can come up with, with a resistance. So there's no changing there's no point of changing the current here because that's going to be the the same thing here. So this is so in this case, I and loop I and loop are different. Opposite direction opposite.
+
+That's it. So when whenever they are opposite, the potential difference will be positive delta v. So in this one, I and the loop are same direction. When they are in the same direction, the potential difference will be a will have a negative value. Okay.
+
+And, next, let's discuss the the circuit element and another circuit element which is battery. So we take a battery. Let's say this is a short side, this is a long side, which means this is a negative part, this supposed part, and this has an epsilon value. And now the loop, let's say, is in this direction. So what the loop tells me, this is going to be delta v v f minus v initial.
+
+So this is the f point. This is the initial point. So that is a plus minus v minus, which is a positive value. So in this case, delta v. So here, delta v is a positive epsilon quantity.
+
+So it doesn't really matter whether the current is coming in and out like this. So it doesn't really matter. So it's it can be either in this direction current, either in that direction. It doesn't change the the result. So the whenever the loop enters from the negative part of the battery, the potential difference should be a positive value.
+
+Okay. So our next case will be the opposite direction of the battery. Again, it doesn't really matter. So I'm gonna keep it like this. Minus positive.
+
+And, so the current doesn't matter whether it goes in like this or it goes in or out. It doesn't matter. And this has an epsilon value. And now the loop is in the opposite direction like this, which is f and I. And delta v now is v f minus vi, which is v minus minus v positive, which is a negative quantity itself.
+
+So delta v will be negative epsilon. So whenever the loop enters from the positive side, then the potential change will be a negative quantity. So delta v will be minus epsilon here. And when the loop enters from the negative side, delta v should be a positive. So which means that there's a potential gain here when you enter from the negative side.
+
+But when you enter from the positive side, there's a potential loss. So that's why we have a negative sign here. And what about the the, let's say, the capacitors? So the capacitors is also we have to know which side is positive, and we have to know which side is negative. It looks it it is like, actually, let's say.
+
+So, so let's call this, potential difference here is q divided by c. And, so if your loop is like this. So it's going to be v minus minus v positive, which is a negative quantity and that will give you a negative minus q times c will be your delta v. And, similarly, we have the same capacitor. And now we are entering from the negative side in our loop.
+
+So q by c is your potential difference, but let's just see whether it's a positive or negative. It all depends on your direction of the loop. So this is the final location. That's the initial location, and your delta v now is v f minus v initial, v positive minus v negative, which is a positive quantity. So in this case, delta v will be plus q by c.
+
+Okay. Alright. So that is our result. And then let's just, do an example, and I'm gonna let you go for today. So let's do an a basic example.
+
+Maybe let's do 2 examples. So, you know, first example is use this resistance, this battery, another resistance here, another resistance, and another battery here like that, and another resistance. This is 7 ohms. This is 12 volts. This is 4 volts.
+
+4 ohm, 3 ohm, and this is 2 ohm. Alright. Maybe straightforward on what to do, but let's, exercise using, Kisha law. So in this case, for example, the the direction of the current is not given, but it is being asked what is that current. Okay.
+
+And I the direction of current, if it is not given not given, we choose it. So we don't have to be clever about this. Just pick a value, pick a, direction, and then, use it. Okay. So I'm going to pick the direction of my, current.
+
+Let's say okay. Maybe like this. So this is the direction of the current. So I pick that one. Alright.
+
+And next, what I'm going to do, I'm going to pick the direction of the loop. So and the next, then I'm going to pick a direction on the loop. So the direction that I'm picking, let's say, in this in this point, and then I'm gonna come down here, like, and then go like this and then back to the same point with this direction Like that. Okay. So this is the loop I picked, and I'm going to write now, since there's a single so there's no node here.
+
+So node is here. 0. That's just a single single, loop. So what we need to do, the the potential difference between point a to a is 0. So I'm gonna start maybe like that at this point and then write delta b.
+
+Okay. So in this one so what is the potential of 2 ohm plus? What is the potential of the epsilon 1, let's say, plus what is the, let me just say it like delta v, what is the delta v potential of 7 on? What is the delta v potential of epsilon 2? Let's let's call this epsilon 2, epsilon 1.
+
+And then what is the potential of 4 ohm and 2 ohms plus potential of 3 ohms? So this should add up to 0. Okay. So let's write this. So here, the loop direction so, since we know that whenever we write, it can be in either direction.
+
+It doesn't really matter. But whenever we decide on the current, we decided on what is a higher potential and what is a lower potential. Okay? So in this one, so let me just mark that. So this is a higher potential, lower potential.
+
+Higher high, yes. Higher potential, lower potential, high potential, and low potential. Okay. Alright. So let's write our result.
+
+So what is the potential? Depending on this loop. Okay. So the loop is entering from the negative part and which is opposite of the current. So it's going to be a positive quantity.
+
+So it's going to be a positive, 2 times I or positive I times 2, let's say. Plus, what is the potential difference here? I enter from the positive side end up getting to negative. Right? So my potential has decreased.
+
+So I'm going to say it's going to be minus 12 volts for the battery. What about here? Again, I'm running against the the current, so that's going to be positive, I times 7 plus. This one, I enter from the negative and end up getting at the positive, which means I have increased my potential, which is plus 4 volts here and plus for about 4 ohms, 3 ohms. I mean, they are the same.
+
+You're we are still going against the current. So that is minus I times 4 and plus another minus I times 3 for the sky that ends up getting 0. We end up getting 0. Okay. So here, 4 minus 8.
+
+So it's going to be minus. Why did I write minus here? It's going to be positive. Right? I always get up.
+
+Okay. I always get extra, I times 4 I times 3. So I always get a potential, right, higher potential. So that means my potential has to increase. So it's going to be minus 8, plus 2, 9, another 7 is going to be 16 times I is equal to 0.
+
+So the current is 8 divided by 16 which is 0.5 ampere. So that's let's do since this example was quite, straightforward, let's do an example with 2 different loops. Right? So this wasn't really that hard. Now let's imagine a situation where we have 2 loops.
+
+A resistance of 3, 3 ohm. A battery here, Epsilon, another battery here, 12 volts, and, another resistance here. Another resistance there. This is 1 ohm. That is little r.
+
+And, so this little r. Okay. So what's given in the problem? So I'm gonna write everything in black in terms of showing you what is given. So this is the the current going on this wire is 1 ampere.
+
+And, so this is 12 volts. What else? And then, and then the current going on this one is 2 ampere. So these are given. So what is, epsilon?
+
+So what is epsilon? What is little r? And what is the current going on here? So these are the question. So, so here, since there are 2 loops.
+
+Right? So there are 2 loops here. Right? Like this. For example, we can do, like, 2 loops here, and these are the nodes.
+
+So at each node so you can use this. So the first rule of the, the bottom node, I'm going to draw. So this one is coming in 2 ampere. This one is going out again like 1 ampere. So there's a current going in like this.
+
+So total the current going in should be total current going out. So this will be 1 +2, and this is I. So I is 3 ampere. So we established that. Since I is 3 ampere, I can also say, like here or let me just practice on the loops.
+
+Let me just, do it with the loops so that it will make much more sense. K. So what I know here, so let me write, the currents in red. So this is 1 ampere. This is 2 ampere like this.
+
+And 1 ampere like that. And then there is 3 ampere 3 ampere like that. So let's do a loop. So I'm going to do this loop, this first loop. So in this loop, the first loop, what we have let's start from here from here to here, nothing, but I enter from the positive side of the the battery.
+
+So, which is an epsilon value and then end up getting it negative. So I'm I I should get minus epsilon from here because my voltage is decreasing. And, similarly, since these are the current values, the currents are always the direction of the higher potential. And then if I go in this direction, which is the opposite side of the the current, I get extra potential. So which means 1 ampere times 1 ohm.
+
+This one. So I follow my loop here. The the loop here is this one is positive. This one is negative. I enter now from the positive side, end up getting a negative side.
+
+So my potential will decrease. So it's going to be minus 2 ampere times 3 ohms. That's equal to 0. Okay. So minus epsilon is equal to plus 1 minus 6 equal to 0.
+
+And our epsilon value will be, alright. Yeah. So it's going to be minus 5 volts. Is that so? Yeah.
+
+Well, it's a exhibition, exhibition. Okay. So let's do the second loop to figure out what that little r is. So let me just start from here and go in, again, clockwise direction. See, my second loop, I'm gonna start from here and coming in here.
+
+So this negative part and then I end up at the positive part, I gain potential. So that means plus 12 volts. Okay. So it's going to be plus 12 like this. And the loop and the current are going in the same direction.
+
+The current has higher potential coming in and going out, negative potential. That means minus, 3 ampere times or minus 3 times r, just to be 3 times r, like that. So I follow my loop. And, again, the, the potentials are high potential and low potential. I go with the the current.
+
+So that's going to be minus 1 ampere times 1 ohm. So now I don't care about this the direction of this one. And then, it's so, I mean, I care about the direction here because I'm entering in a negative and positive, but the value here minus 5 volts, I'm gonna plug in here later as minus 5. I'm not changing the direction of the battery since it's 5. I'm not changing anything.
+
+I'm gonna keep my loop like this. So I'm entering a negative, end up getting a positive part. So that's going to be my positive epsilon value. So this is epsilon, and that's equal to 0. Okay.
+
+So my my epsilon is minus 5. So that's going to be 12. So 12 minus 1 minus minus 5 is equal to 3 times r, And this is makes a positive value. And and so that's going to be, positive 6 minus 1, if I'm not mistaken. Okay.
+
+So it's going to be 70. So do you mind? Right. So I go this way. Positive and negative.
+
+Why did I write? Oh, this one's wrong. Okay. I go this way. Negative positive.
+
+That's a positive 12. And then this negative 3 r. And then this, again, a negative one and and a negative epsilon. A a positive epsilon. Okay.
+
+Positive. Alright. I know. Why do I write? Okay.
+
+It's a post post party. Alright. Okay. So this makes sense. So it's going to be 6 divided by 3, this little r, and there is 2.
+
+Okay. And you could also do a 3rd loop without having to, do also. So, I mean, we are done with this. We are done with this. But, alternatively, you can do a 3rd loop here, which is maybe something like this without with surpassing this one.
+
+So this is called the 3rd loop. So, imagine I don't know I know the little r or I don't know little r, so I wanna figure that out for this one. So I can say starting from here again. So let me just put the direction of the current. That's important.
+
+Okay. So what did I pick? So this one is 3 ampere, and then there's positive, negative. This is 1 ampere. Again, positive.
+
+I'm not using this one. I don't I don't need this. And this is positive and negative. Okay. So for this loop, Starting from here.
+
+I'm answering from the negative, getting it to positive. So it's going to be 12 volts, positive 12. And then also getting it negative minus 3 r. And then here, I'm getting at, getting in with positive end up with a negative, which is minus 6 or minus 2 ampere times 3 ohms. And that's equal to 0.
+
+So 12 minus 3 r minus 6 is equal to 0. And from here, r is equal to 2 ohm. Again, we get the same result. So this is an alternative way of either do the second loop or the third loop. We're gonna get the same result.

@@ -1,0 +1,90 @@
+
+Alright. So we have this, finite amount of wire, which is the length of the wire is, 2 a, and the current is I, and and the p at p is the point from the middle, and it's x distance away. And, the thing that we have to deal with, the formula, is we want to calculate the magnetic field. And, by calculating this formula, which is I, and and then that's going to be now cross r hat divided by r square. Okay.
+
+So, first, let's decide on the direction of the magnetic field, and then we can get to the the vector. Vector So this, this d l, let's say, this is x distance away. So this is our r hat, and then this is the current or light d l. So dlcrossrhat. So what is the direction of this from this picture?
+
+So dlcrossrhat. So that's going to be into the page. Is that right? Okay. So I can wrap this, so I can just say d b is, this thing is d b, let's say, minus k hat or I don't know.
+
+Okay. So this will be into the page. So if I say, for example, this is I hat, this is j hat, and this is, the dot product will be I mean, this one will be k hat out of page, but what we have is minus k hat. So I'm gonna drop the direction of the magnetic field and then, just focus on the integral that we have. So now the l cross r hat, so if we do it mathematically, so what is the magnitude of this thing?
+
+The magnitude of d l times the magnitude of r hat is just one times the angle, which is sine 90. Is that right? And we but in here, so I can pick so the the whole idea of the r is, so I am looking at the point here. For example, here, if I take d l, that's going to be 90 degrees. But if I take d l here, it's not going to be 90, but it is rather a theta, which is less than 90.
+
+And then, so in here, for example, if I take this direction, so that that theta will be, again, not going to be equal to 90. So I shouldn't write here 90. I should just say here sine theta. So this will be d l sine theta, this part. So, dB will be 4 pi and current.
+
+You can take it out of the integral, and this one will be d l sine theta divided by r squared. So r is the distance here. It's always, good to work with angles which is not 90. Kit mirror. And okay.
+
+R hat Okay. So, if I, for example, just say alpha here, so theta is equal to pi times alpha, so both of them, whether it's sine theta or sine pi minus alpha, that's going to be equal to sine alpha. Right? So I can interchangeably, use those. Why do I need to use them?
+
+I need to figure out what's the, so here, what this d l, theta and r, can be represented. Right? Right? So, so let's take this. For example.
+
+So let me take a little piece of dl here. So this is our dl. That is, let's say, the point p here, and this is r. So if I start, for for example, our origin here, so this is x distance, and this is going to be our y distance, and r square will be equal to x square plus y squared. I can write it like that.
+
+So I can write this d l to be dy because it's the it's it is a, parameter that changes in y direction. Okay. So that's one thing. So I can write here d y. I can write here x squared y squared.
+
+And what about sine theta? So it's the theta here. So from this, triangle, what is sine theta? It is the across divided by r. So, so this expression will be, mu zero I by 4 pi.
+
+So d l is d y. What is sine? That is x divided by r, or you can say x square plus y square square root, 1 half, and then divided by r square. So which is x square plus y square. So this whole thing is equal to m0i4pi.
+
+And, so xdy divided by x squared plus y squared three halves. And our parameter that changes our variable is the change in y direction. Right? So it's a change in y direction. So it changed from minus a to plus a.
+
+So that means I can also take x out of the integral. X. So y divided by x, if you call this like tangent u, and then, so then u is equal to arctangent, y by x. And then from here, you can say, dy by dx is, so dy by x, will be equal to divided by x, not the x, will be equal to, actually, like, second square, u d u. And then from this, setup so you can write this thing to be as x, the second square, u d u, divided by x square plus x square tangent square u like this, and then that's going to be 3 halves.
+
+So one plus tangent square is actually second square. So, so what we have here at the end, at the step so you get something like a second square u d u, but at the bottom, that's going to be a second square, three halves. That means that is second cube. Right? So, so that's going to be, du by second u.
+
+And then, so that's going to be nothing but cosine u d u. And then you clock back, u here. So what is u? So that's going to be so the integration of that this is sign u. Right?
+
+And after that so this whole thing comes out to be so this is equal to me 0 I divided by 4 pi, and x is out. And, so one of them would be, well, actually, you you get an x square out of here. So x square comes out here. So at the end, what we have is so let me write this. B0ix4pi.
+
+And so that's going to be y divided by y squared plus x squared 1 half. So it's transformed minus a to plus a. Okay. So and and then I have one over x squared here as well. And So that's going to be m0i x divided by 4 pi.
+
+And, so that's going to be a, the positive one, and then, that's going to be minus and minus a divided by, this whole thing will be the same, x squared plus, in the square root, x squared plus a square square root like this. Okay. So so this is going to be x square. Nope. This is not a this is times.
+
+This is not a plus. What else? Okay. So that's it. That's it.
+
+So that's it. So it's just 2 a. So one of so this comes, this top part is 2 a, and one of the x cancels out. So again, what we get is measure I is divided by 4 pi times 2 8, the length of the, wire, x x squared plus a squared. So what a cute nice formula, isn't it?
+
+So whenever we look into this formula, so if we have a current and then just in the middle or, from the middle, the magnetic field is proportional to to the field is proportional to to the length of the wire. So if it is the length of the wire, if it increases, for example, the magnetic field increases. Right? So this the 2 a is the length of the the wire. So, also, the current at itself so if the current is increasing, then the magnetic field is increasing.
+
+And and then what else? If x is decreasing, also, magnetic field is increasing. So if you get close to to the wire, then the magnetic field will obviously be increasing. And and that's it. That's, that's the thing.
+
+And this whole thing is going to, well, if b is, so it seems like s, for example, x goes to 0, then b seems to go to infinity, but we will figure this out later. So if, for example, if, x is, let's say, 1 meter away, and then, and then let's just say the 2 a is also 1 meter. And, so if I wanna make BP the, to be 1 Tesla, then what would my current be? Okay. Just to have an idea.
+
+So here, so if we use this formula, so one Tesla will be equal to mu zero. Mu zero is 4 pi times 10 to the minus 7 times I divided by 4 pi. And this makes it here 1, another is equal to 1, and then this is going to be 1 square 1 square that makes it 2. So this whole thing just converted to 1. So the current will be in the order of 10 to the 7 ampere, which is not Yeah.
+
+And ask for visual. Dollars. So, for example, if we go, like if you take this and then, so one of those, let's say, scenarios, for example. So our formula is, again, mu 0 4 pi. And, so that is, the length of it.
+
+So if I say the length is 2 a, so that is the length, and then divided by x, and then x squared plus l divided by 2 square, something like this. And so if we take, for example, a very, very long wire, so that means if l is, if x is much, much larger than l, so this whole thing can go down to 0. Right? This, ratio. So that means, you can write you can write l over x to be 0.
+
+Right? So from here, what we get? From here, mu zero I divided by 4 pi and the length of the wire divided by x squared, something like this. Does it make sense? X squared x.
+
+Yes. Okay. Alright. And then the other scenario is, when x is much, much smaller than l. So one thing one, extreme is this is the length l, and then you are going, like, very, very far away.
+
+So that's the magnetic field here that you that you will measure. And then when x is much, much, closer to l, that means you are coming, like, very close to, to the long wire, and then it seems an infinitely long wire. And the that answer, will drop down. So this magnetic field will be like mu zero I divided by 2 pi x, and where x is your distance here. And, so that's the so how how how do we get from here to here is is, in this case, what we can write x over l should be, like, 0 or, like, very close to 0.
+
+So so here, this is this is an important result. So the important result is, for an infinitely long wire that you are somewhere here and x distance or r distance away, it doesn't really matter. This has a current I, and the magnetic field for this one is meterioi divided by 2 pi or r. Okay? So it decays with r like this.
+
+So this is b versus r like that. So whenever you have a current here, you should have a length on the in the denominator. So even if we sort of, like, try to calculate this, so let's just make, for example, another magnetic field. We want this to be, like, 1 Tesla. And then let's just say mu zero divided by 4 pi, so that's going to be 2 times 10 to the minus 7 times, let's just say, current divided by r.
+
+So let's just make r like 10 to the minus, 6, meters, which is 1 micrometer. Okay? So in this in this case, the current will be so this is micro. So this, like, so the current will be, 1 over 2 times 10. So it's in, minus.
+
+So it's going to be 10, like, 5 ampere. In. So, we can also use this, for example, use this information to calculate, like, 2 parallel, let's say, wires. So infinitely long 2 parallel wires carrying current I. And let's just try to figure out what are the magnetic field at these points.
+
+Okay? So alright. So let's just say this is I one, and then that is I 2. And let's, calculate, for example, let's just say the distance from here to here is 2 d. This is d and this is 2 d.
+
+So let's call this point a, and point c and point b. So what is the magnetic, field at point c and a and d? Okay. So first of all, we have to remind ourselves what would be the direction of the magnetic field. The the current due to the first one, so let's just say for the point c, so b one at point c will be mu 0 I divided by 2 pi d.
+
+And what's the direction? Direction is into the page. So if I say, this is k hat, and this is going to be a minus k hat. So let me just show it like this. That's into the page.
+
+Right? And what about b one a, which is the working on or the magnetic field here. So that's going to be mu0i 2pi times 2 d. The that's the distance, and then that's going to be in this direction, auto page. Okay?
+
+So what about a point So b one d, that's going to be mizero I I one I one I 1 divided by 2 pi and then 2 d, and that's still going to be in this direction. So let's, write down the magnetic field of the of the sky. So what is the direction of the magnetic field at point c? So here, what about the magnetic field at point c? So I'm gonna just say this is going to be point b or 2 c.
+
+So this guy, which is going to be me 0 I 2, divided by 2 pi 2 pi and then d, and the direction will be into the page. And here also, that will be into the page. 2 mu 0i22pi times 4 d, and then that's going to be into the page. And b two d will be mu zero I 2 divided by 2 pi and then 2 d, and then that is autopage. B to, h.
+
+So the total magnetic fields will be So in here, so measure of 2 pi or measure of 4 pi, whatever. We can always take it out. So that's going to be, positive k hat this direction, and this is negative k hat. So I'm gonna write in that, form. So that's going to be mu0 divided by let's just say 4 pi d.
+
+And Yeah. And surely, and it. 1 minus I 2 divided by 2 k hat. Yeah. 8 d.
+
+So that's going to be 2i1minusi2. Yeah. Mu0i 1 or mu 0 divided by 2 pi d, so they will be in the same direction, I 1+i2, which is in minus k hat direction. And if we add these up, mu 0, a, mu 0 divided by 8 pi d again. It's b minus 1 here, and this is, so it's going to be 2.
+
+So minus I 1 plus 2i2khat. The?

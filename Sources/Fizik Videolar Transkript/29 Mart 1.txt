@@ -1,0 +1,130 @@
+
+It's a lot of the now, which the utility uses it's kind of dielectrics. So we have a capacitor, like that. And what we are doing is we are, taking a metric and, forcing it between the 2 parallel plates of the capacitor. And then so this is this is a dielectric. Let's say slab.
+
+Slab So, so dielectrics are so what are the purpose of the of these? So dielectrics are used to increase the capacity or a capacitor. And, also, it also increase the stability. It also increases the stability physical stability of capacitor. So so we have the dialectics.
+
+So what's happening with the dialectics? Example, if, so imagine we have a capacitor, and and then, it is charged. Let's say, like this. So charged capacitor. And imagine we are measuring the voltage, for example.
+
+So the voltage looks like this, for example. So that's the voltage that we are measuring. And we take the same setup and plug in a capacitor or dielectrics between the the plates. So what's happening So when we plug in the values, or, like, the the capacity values here so here, this is the capacitor. So what's happening here is the voltage increases.
+
+So it's going to be something like this. So voltage increases in this case. So we haven't done anything yet anything else, but the voltage increase. So what does that mean? So the capacity is q divided by the potential difference.
+
+Okay? So if I plug in some dielectrics here, well, what would be the explanation of a change in the potential? Then in So if we have the, let's say, a c prime, which we let's call it with a capacitance to in capacitance. So c prime, equals, let's say, q prime and delta v prime. Let's say so we know that delta v is increasing, so so it increases.
+
+And since it, or decreases. Sorry. Yeah. From the down shell and, well, which basically should decrease as in after and could be set up to. Voltage is decreasing.
+
+Okay? If the voltage is decreasing, so we have 2, possibilities, whether the new charge is decreasing or this doesn't change or the capacity is increasing and the charge doesn't change. So what else, can be the case here? So we know that, q prime is constant or q prime and q are the same. So that means that c prime must increase.
+
+So so this means the c delta b prime, let's say, here should be equal to c prime delta b prime. K? Because they the the charges are the same, and, then c prime must be greater than c. Okay. And and with with the same proportionality.
+
+So if this is, this is the if the voltage is decreasing by half, then c prime must increase, twice. Okay. So the I'm going to introduce this letter, pa, kappa. And that is called dielectric constant. So what's happening in this picture and the the first and the second picture so in the first case, c is, c is this value.
+
+And then in the second case, c prime has increased by kappa times delta v. Or I can write also v zero, but that will not that. So delta delta v divided by kappa. Right? So kappa is a constant, and we can say that the kappa is, always greater than equal to 1 because the empty space, kappa empty space or kappa value is equal to 1.
+
+So anything else must be greater than 1. And would it have to be in Azama's teaching? And that today is in the Azama's in the way, there's a way really pop up. Various values. So for example so the the the the main problem, so I should write here c.
+
+Sorry. Right? So it's kappa times c. So sometimes, the, this is called c 0, and then c prime is kappa times c 0. But we get the point.
+
+Kappa values versus the the materials. So if it is a vacuum, the kappa value is 1.000, and it goes to infinity. So it's exactly 1. And if it's air, for example, and it is, 1.006. So, so what does air have?
+
+Air has nitrogen, like the atmosphere, nitrogen, oxygen, and, humidity as well. So all those gas materials are going to increase the the air dielectric value. And, so for example, if we use Teflon, the the value was 2.1. And if we use glass, the value is between 510 depending on the type of the glass. And if we use, glycerin so it's bathroom temperature.
+
+Glycerin is liquid. This is 42.5. And strong strontium titanate, I think that's one of the highest one. Strontium titanate. And that gives us 310 value.
+
+So we want this copper as high as possible so that we we can increase the capacity. So what we establish is this. We have c here or c 0. And if we add some dielectric to it, Some dielectric like this. So did this new so this is basically a new capacitor.
+
+And So this one will have couple times easier, this new capacity. So if you use this one, so if this is, for example, 1 nanofarads, then this will be maybe, like, 4 nanofarads. So kappa being 4. And, so what's happening with that one is if you use this so imagine you have a potential difference of delta v here And imagine you have c 0 here, and you get the same thing and, again, here delta v potential. So now what's happening so this one is with, with a dielectric between the the plates.
+
+Of this one would be, the c prime would be couple times c 0. So in this case, if you compare these 2, what's going to happen is this if this has q zero charge, then this will have this q prime will be couple times q zero. And that's how you increase the how the increase of capacity makes sense. So because with the same, potential difference. K?
+
+So that's the the scenario. Alright. So let's look into what's happening in within the the the capacitor if we, inside if we, if we put a dielectric material inside. So let's look into, what is happening to, for example, electric field within the capacitor when dielectric kappa dielectric material is inserted. Inserted.
+
+Okay. So, let's just take these two lines as a capacitor, which is, charged. Let's say, positive charge like that. Negative, negative, negative, negative. So, this will have a electric field from this direction to that direction.
+
+Let's call this, like, e zero electric field. And this is a capacitor with c zero value and and that will have an e zero electric field. And e zero electric field is charge density divided by epsilon 0. So remember, charge density is the charge divided by area and area. So total charge divided by the area.
+
+And if we take the same capacitor, so I'm gonna make it a little bit bigger, and fill it with, dielectric material, so like that. Maybe let me just cheat a little bit with this ticket. Alright. So what's happening is we still have, so it's the same, let's say, the, q zero charges. So there are q zero charges here, and then there will be also a q zero charge here and an electric field in this direction.
+
+Let's call this, like, e zero. So what's happening inside of the material is that they will become polarized like this. So this is, like, the atom or the molecules that I am exaggerating like this. So they they they will become polarized or they will become dipoles and like that. So, minus minus and plus like this.
+
+So the major scale is going to be, polarist. And my question will be acting So, what's happening so it's gonna go on forever like this. So I don't need to draw, like, 4 of them, but it's going to be avocados number here. So these these are the number of molecules. So so these are, so I'm going to write here as like, you see like this.
+
+And maybe let me just use another, color for here. Negative, negative, negative, like that, negative and negative like this. And they will, you know, accompany it with accompany it with a positive. So it goes on. A so here, we will have positive, positive, positive like this with a negative on the side like that.
+
+And it goes along the sides here. But what's happening here is that there are positive charges, very close to the negative charges on the right hand side. And because they are, what we call as, like, induced, so there are negative charges here. So this is minus q zero charges, and this is plus q zero charges there. And so if take, for example, so imagine we have situations like this.
+
+So imagine this is negative, positive, negative, positive, and negative, positive. And it answers with negative and positive like that. So if you take, for example, from here to here, a region. So imagine you take a region like this, and this will neutralize itself. So, like, the total charge here will be 0.
+
+Right? Well, the total charge with itself is 0, but as if these are, like, canceling each other, canceling each other, canceling each other so that this, picture, we can write this or accept this picture to be something like this. So we have, again, q0 here. Negative charges there. Negative q0.
+
+And what's happening here is the opposite ones opposite charges will accumulate towards here, and positive charges will accumulate here, but they are not as many as q zeros. Okay? So these are not so the the charges so we call them, like, these charges are induced charges. Epsilon, e zero electric field, due to this. But they are not as many as the, q zero.
+
+So if we call them, like, q prime should we call them q prime? Yeah. Or in this q in this. Okay. So this will be the the the charges that I'm going to call the, like, q I, induced charges, and the amount of induced charges will be less than q 0.
+
+So I'm gonna wrap this up. So here, the from the positive charges, the the the black positive charge to, let's say, an electric field in this direction. So what we call this is easier. Right? And due to this red charges within the, within the dielectric, there will be an so there will be an electric field, which we will call in the opposite direction EI induced electric electric field.
+
+So within the so within the the dielectric within the dielectric, there are now 2 electric fields. 1 is e zero like that, and the other is e induced like that. So e induced is the, induced electric field electric field in the dielectric material. So is the net electric field is going to be something like this. So this is the total electric field like that.
+
+So that's why electric field is decreasing. That's why the potential is decreasing when you insert the dielectric material. So here so this is the net electric field, and we can call this as, let's say, e prime e prime. So e prime is less than e. Also, the what we say is delta b prime is also less than b 0.
+
+Right? So delta v or delta v. That's, you know, that's why the potential is decreased. So if this is, So what we show here is why the potential is decreasing. So the induct induced potential is decreasing.
+
+And, so if we give, for example, so values, so I can write. So from here, e is equal to e zero minus e in use. And I can write this in terms of in terms of the charge density. So here, the charge density is sigma 0 divided by epsilon 0, the guy. And I'm going to write the other one as, sigma or should I say So let me let me let me be careful here.
+
+Sigma induced. So there are more than one way to write this. So let me just take notes. Okay. So let me start from here.
+
+Okay. So this is equal to e 0 divided by kappa. Right? Why? Because potential difference is decreased by kappa value.
+
+Right? And that's why the initial electric field is also decreased by kappa. And, so from here so E 0 kappa and minus e zero kappa plus e zero is equal to induced electric field. So, here, e zero one minus one over kappa is going to give us the induced electric field. And, so this is equal to e zero kappa minus 1 divided by kappa.
+
+So this is the electric field, the induced amount of electric field in the dielectric material. Alright. So, what else? I can write this as, I can also, write this in terms of charge density. So, here Again so from here, this one is e 0 by sigma0 divided by kappaepsilon0.
+
+Sigma sufferer, Buddha, chariot, and. Sigma induced digits. Alright. So this is, equal to I can, again, I can write here. Maybe I can just plug in here as well.
+
+So from this, I can I can write this thing as well? So e induced is equal to e 0 kappa minus 1 divided by kappa. And if I write in terms of charge density, so this will be sigma induced divided by epsilon 0. And this is, e 0 is sigma 0 divided by epsilon 0, and then this is kappa minus 1 divided by kappa. We can cancel out epsilon zeros, and sigma induced can be written as kappa minus 1 divided by kappa.
+
+So that's why you can never get 1 to 1 ratio here. You will always get less than the induced charge. And, so this is also the the charge in use is equal to the original charge, kappa minus 1 divided by kappa. So this quantity is always less than 1, And that's why you can never get a 100 one to 1 ratio. 052.
+
+Copper. Copper. Q induced will be 20299 divided by 300. It is less still less than itself. It is getting close, but not exactly the same.
+
+Okay. So, so we can say that, for example, if we want to write, like, q in this to be, like, q 0, this equal to be q 0, that means copper value will be, like, much, much larger, like infinity. So the the material is something like metal when copper is getting a lot bigger. So in that case, you are inducing that, the the same amount of charge. Okay.
+
+So what if, for example, we place a metal? So, since we discussed this so let's just say, so imagine we put metal here, but we wanna make sure that it's not touching to the surface. So what's happening here is that let me just use this gray. So this is the metal. So we can write this as so this one and this one, something like this.
+
+So this is to that. And, so here, the metal is represented as this, and it's connected with a wire like that and another surface here. So it's the same picture. And we may have or even slab So imagine this distance is so let's just so imagine is d and now let's say the distance here is d by 10 and this is d by 10. And the question is, what is the new capacitance here?
+
+K? So, so, again, this is d by 10 and d by 10. And if I look in the first original picture, so before putting in let me take this and slide it to the right. So the first picture is this. And we have a c zero capacitor like that with a distance d.
+
+So c 0 is epsilon 0, the area divided by d. So the area is the area of the the plate. And so in this case, so this one is a capacitance. There's new capacitance. So this new capacitance so let me call this c one.
+
+So c one is epsilon 0 a divided by d 10. Right? D divided by 10. So c one is actually 10 times epsilon 0 a by d, which is equal to 10 times c 0. So this capacitance is 10 times c 0.
+
+This capacitance is also 10 times c 0 since they are in series. So so in series, what is it? That's going to be 1 1 plus 1 over c 2, and then you reverse it. And that will make c 1 c 2 divided by c 1 plus c 2 of 10 times c 0, 10 times c 0 divided by 20 times c 0. And at the end, what we get here will be 5 c 0.
+
+So this is our new capacities. Come. So, since I started with this, let me make a couple of, similar questions. But now let's use capacitor. I mean, dielectrics.
+
+So so let's imagine we have this capacitor, and and then we take this capacitor like that, the same capacitor, and fill it with, a different material, but only half. So kappa here. And, so what is the new equivalent capacity? So if this is c 0, then what is the new one? This is c 0.
+
+What is the new capacitance? So we can look, think this problem is like this. So we only feel the half of it, not the full part, but the half. So the, like, the amount that we fill, looks like this. So, like, is it?
+
+So so this part is connected with the right side like that. So this one is connected with this is connected with another plate like this, but now this is empty. And these are connected. Okay. So let's find out this, c 1 and, c 2.
+
+So at the end, the equivalent is, c 1 plus c 2 since they are in parallel. So but what is, what is c 1 and what is c 2? So c 0 is epsilon 0 a over d. So a is the area of the plate. Let me just sketch like that.
+
+So this is the area of the plate and this is the distance. And so this is c 0. So what about c 1? And c 1 is epsilon 0 times kappa since there's a dielectric constant. And then it's going to be the area is divided into 2, a b.
+
+And, so that's going to be kappaepsilon0a divided by 2 d. Like that. So this is kappa by 2 c 0. So this is c 1. And what about c 2?
+
+C 2 is epsilon0a by 2 by d, which is equal to c 0 divided by 2. So at the end, we are going to find this expression. So c and then by 2+1 times c 0 is our s no. Is it 1 over 2? 1 over 2.
+
+So it's going to be kappa plus 1 by 2 c 0. Hold on. And and then let me just, make a very similar one to this. Imagine we fill it with along here but filled with another material. So another similar example to this is, we have the this capacitor, and we fill it with 2 different materials.
+
+And 1 is copper 1, like that to have like this. So we fill it with copper 1, and we fill it the other one with copper 2. So this is copper 1 and copper 2. So now what is the equivalent, capacitance? So, again, so this is c 0.
+
+C 0 is epsilon 0 a by t. So now here, this is this picture is actually this one where this is kappa 1, and this is electrics. And, so this will let me call the c one and c two. So c prime will be c one times c two divided by c one plus c two. So let's figure out what c one is.
+
+So c one is kappa 1 times epsilon 0. So if I should also make sure that this is this is just a half. So epsilon 0 times the area divided by d by 2. It's going to be 2, kappa 1, c 0. So this is c 1.
+
+And similarly, c 2 will be 2 kappa 2 c 0. And at the end, we'll get so it's going to be 2 times or 4 times kappa 1 times kappa 2 c 0 squared divided by c 1+c2. So 2c0parenthesiskappa1pluscapachere. So this is our new capacitance. So kappa 2 here is 1.
+
+So whatever we have here so that c prime will be 4 times kappa 1 times 1 c 0 squared divided by 2c0andkappa1plus1. Well, we can cancel out the similar terms. So similarly, also, I can cancel out this one, that one, that one with this one, and I get 2 here. Similarly, 2 kappa 1c0 divided by kappa 1 plus 1.

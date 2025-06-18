@@ -1,0 +1,70 @@
+
+Induction. Induction index Okay. So what we know so remember the law, the the second law, second, so, second, Maxwell equation, which is the the Gauss law for magnetic field. So magnetic so so this is magnetic flux. So this is always equal to 0.
+
+This is a magnetic flux. So this is called you can write it like this. Magnetic flux. Flux academic So if the magnetic flux, that flux changes with time so if I take a derivative of this one and that creates an change in the emf. So this is the main formula behind the induction.
+
+So here, for example, so this is EMF. So what it tells us here that the change in magnetic flux, produces potential difference. So the flux was the definition of flux. For example, we have a physical area a, and so this has some type of, let's say, vector. And if a magnetic field is coming in and out of this physical area, like this magnetic flux, we multiply these 2.
+
+So this is in, in general, it's like that. So if, for example, magnetic field is constant, when magnetic field is constant, it is b times a. So this is, again, there are 3 properties here. So, these 2 are b and d a r vectors. Right?
+
+So and it's a dot product. So when I write it times a times cosine theta, so the angle between these two angles, these two vectors. So that's what I'm going to discuss. And so so it has magnetic fields. So magnetic field.
+
+And it has the physical area, and it has the angle. So these three properties, you can change with time. So, the the flux is equal to, so this is magnetic flux, Tesla times meter square divided by time, and that is equal to EMF, which is which is volt. Right? So that is the definition or, like, the unit analysis of this thing.
+
+So you can write Tesla, volt times second divided by meter squared. So another way of writing, the unit. So why there is a negative sign here? So the negative sign, so like this. So this is opposing in a sense.
+
+So it is opposing in the in the direction. And, so it wants to create a magnetic field to so that it cancels the the external magnetic field or something like this. Okay. So now, let's say this is a fixed area a area a, and then, so and magnetic field is into coming into this, field. And the, the change is given as d b d t is given as 0.02 Tesla per second, and it is increasing.
+
+Let's see. So what is the direction and and the area given as 0.012 meters square? And what is, so what is, the EMF direction and magnitude in this problem. So what we know is e m f is equal to minus, dp by dt, the magnetic flux. And what is phi b?
+
+So this is b times a. So I wanna take the derivative of this 1, d by dt, d by dt. So once you take the derivative, it is either dbdt times area plus, and b times da by dt. So this is fixed. Okay.
+
+And the angle between them is also, the cosine theta is 0. So here is just this thing. Right? So this one is 0.02 test per second times the physical area 0.012 meter squared, and this whole thing is, 24 times 10 to 1, 2, 2, 5. Alright.
+
+So this one, this one would be the EMF, the magnitude of EMF in terms of volts. So you can write this thing as 0 point, so 0.24 millivolts. So what about the direction? So the direction is in such a way that so if this is the external magnetic field like this, the the current will go such a way that the in forming magnetic field will be opposing. So that is why we have a negative sign here.
+
+So so in this way, I can figure out what would be the magnetic field that will create by the wire. And if this is the situation, so if it is creating a magnetic field like this, so the the current should come like this. So meaning that if I sort of, like, draw a battery like this, so the current should go like this. So this whole thing so this whole wire, sort of looks like this, And that's the direction of the EMF. So the current should go in this direction, and that's the direction of the current and.
+
+So that's the so for example, if we have, again, the if the number of loops increases, so I can by, and that will create the the EMF like this. Okay. So let's do another way of creating magnetic field, which is the slide wire generator. For example, let's imagine we have some type of loop, and and this thing moves with a velocity v, and the magnetic field is looking into the page. Like this, b.
+
+Alright. So the idea is the same. This one, if it is changing with time, that is the EMF. So the physical area so what we imagine is this. This is our sliding so this is a sliding piece here, this v, and this has some type of physical area like this.
+
+So, for example, if if the magnetic field, the external magnetic field is like this, so we wanna create a magnetic field which is in the opposite direction. So if I wanna create a magnetic field in the opposite direction, but I wanna make sure whether I wanna do this or not. Let me just go back. Let's try to understand what is changing here. K.
+
+So p is equal to b times a. And I'm shaking the target with just so here, when this moves, for example, the number of so this thing, this can be a constant value, but this one is increasing, this flux. So if this is increasing, and since we cannot recreate a we cannot decrease the area, what we need to do is we want to create a magnetic field which opposes this external magnetic field. So it's going to be in this direction, our magnetic field, which means our current should be in this direction. So when this moves, for example, if it moves to here like that, then the number of magnetic field will be increasing.
+
+And what we want to do is we wanna create magnetic field in that direction. So this is this one. So in order to create this magnetic field so we wanna create a magnetic field like that, so the current should go like this. So this is our magnetic field. So it shows, like, where the direction of the of the the EMF is.
+
+Yeah. Appears. So here, if, if we analyze this, so what we are trying to calculate is so I'm gonna drop the minus sign. I'm just calculating this. So what we are doing is, the change in between b times a.
+
+So that's going to be db by dt times a plus. So I'm writing the most general case, b times d a dt. So in this case, the magnetic field is constant. So I should say here this b is constant, and this is 0. And this is the change in the flux, which should be equal to emf.
+
+Right? So how can I calculate this da by dt? So imagine we were here initially, and then we are here at the final location. So what's happening here the increases. So at certain the velocity so if I calculate this l and then if if I call calculate this to the h, so that is the amount of the area that has been increased.
+
+So I can write here maybe I should just say here x. So this h times x is the area. That's the the the the area that, we have. So, we can write this thing as so the area a is equal to x times h. So the area by dt is, d x by dt times h plus, x times d h dt.
+
+And then this one is 0. It's constant. This width is constant. This one. So here, the x by dt is the velocity that we are pulling.
+
+So here, this expression is v times h, or sometimes we call this l. I think l is the most correct version of this. So it's going to be b times l is e. So this EMF is equal to b times b times l. So the amount of velocity that you are pulling it so if you wanna increase e, the epsilon, you wanna increase the magnetic field.
+
+You wanna increase v, and you wanna increase f. So that's the idea of creating an EMF. So imagine alright. So what what we are doing, here is so this thing So we are moving with velocity v. And now we calculate it or we find that the current also goes like this.
+
+So from the top view, this is the slot in wire with velocity v, and it has an current going in like this. So so this is the the current that we produce, but the magnetic field is into the page. So what's going to happen is, you have this piece of wire, which is going with velocity v, and it is a current I is coming through here, but this is under this external magnetic field. So what's going to happen is that f is equal to I l cross b. So there's going to be a force acting on this.
+
+So, so this is, so the force will be in this direction. So the force will be in this direction like that. And so which makes that thing to slow down. So, what we wanna apply is we wanna apply a force, let's say. So, so this has some magnetic force like this in this direction or with an angle like this, maybe.
+
+So but, also, we wanna apply this external force so that this external force should be equal to I times l times p so that the velocity is constant. So we can achieve this by maybe, like, putting an m g. So it it goes down, and that's gonna apply the the fixed So for example, if we, let's just say, so what would be the power of this thing? So what is the power of this thing? So if we have, let's say, a voltage b and or maybe you can just say so what is power?
+
+So power was energy energy per time. And, so what was the energy? It's a kinetic energy or, like, potential energy per time or it's forced by distance divided by time or force by the velocity. So if you apply a force like this, external force, and this has a velocity v, so f external times the velocity is going to give you the power of this thing. So this is I l b times the velocity is the power of the system.
+
+And, we can also talk about, for example, so this is the power in physics 1. So what is the power in physics 2 definition? Say the and the electrics, So power also is equal to I times v or I squared times r. So somehow these two things will be, like, equal to each other or related to each other. And since this is epsilon, okay, this emf, I can write it like this.
+
+So epsilon times I, and so this is our circuit. So if you move this with velocity v, this is equivalent to a battery like this. Right? So this is the EMF. That's the current I.
+
+And if this has some type of, like, resistance, then I can relate this I, r, and epsilon. So this power, I times epsilon is the power, and I is epsilon squared divided by r also. That's going to be the power that we have which is equal to I times l times b times b. So those are all related to each other. And, so if you wanna calculate, for example so I can still write the current in terms of epsilon divided by r, with the velocity.
+
+And, so I ended up getting, so the power is so what is the power? So I can write so these two things, velocity, so what was epsilon? Epsilon is b times b times l also. And I can write e squared divided by r also with the expression for power. So there are more than one ways to write the power on this thing.
+
+And, yeah. So let's give some values. So velocity, let's say, 10 meter per second, and l is 1 meter, and, magnetic field is 0.1 Tesla, and r, let's call this resistance as 10 ohms. Okay. So what is the power that we get from here?
+
+Bvl square divided by r. That's the power. So 0.1 times 10 times l, which is equal to 1, square divided by r 10 ohm, and that's going to give us 0.1 watts. So all this thing is and it's 10 megabits per second, the

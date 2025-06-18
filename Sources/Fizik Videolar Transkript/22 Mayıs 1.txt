@@ -1,0 +1,84 @@
+
+So what is the magnetic field of of So solenoid looks like yeah. Lights this. Let me take this picture and copy and paste. It looks like this. So it is, what is it?
+
+This is a new 0 I n divided by l. So l is the length, and n is the number of turns. So what we do is we take the solenoid and then, take this end and take this end and make it to a circle. Something like this. So that's what we are going to do.
+
+So, again, what we are trying to calculate is the magnetic field within the, within this geometry. So there's a magnetic field here which we are going to call b. So if we sort of think, like let's just think that, so how is this going to be? This one, this magnetic field should have me 0 and I. And so if we look at here, this is the length of it, and this is the number of turns.
+
+So this can be also like number of turns divided by the length. So if I write this, that's going to be measure I. What's the number of turns? I'm gonna put n here. And what is the length of this?
+
+So that's going to be 2 pi r where this r is the radius here. K? So let's do this. The way that we calculate this is, actually using Ampere's law. So Ampere's law was you identify a d l path and multiply b with that, and that's going to be means 0 I enclosed.
+
+So our path here is this much. So let's just take that this is our path here in this direction. And so this is the L. So, so what we have here is So let's show this with a red color. So this is r d l.
+
+Like so this is rotating. And and then the enclosed, the number of, let's say, the wires that is inside will be like this. And show the cross sectional conditioner. And check-in the case team is the one. This elite demonstrate.
+
+So what should be, the right hand side of this? So this is the number of the the current that is within the So I'm gonna write enclosed will be n times I zero. It has I zero current. So that's the right hand side of the equation. And what about the left hand side?
+
+So I should, find the direction of the magnetic field with this. So let's say, at this point, what is the direction of the magnetic field? So if I draw like this, is that going to be a problem? So every point here has magnetic field, and it is rotating like this in this direction, like that. So at each point, magnetic field and dl will be parallel.
+
+So that means b dotdl is equal to b times dl times cosine 0. So we get rid of the dot product, and this is 1. And since b is constant, I can take that out of the integral. So that's going to be b times dl, and that's going to be m0n times, let's call I 0. And this is constant.
+
+I can take it out of the integral. Constant. So, so this is going to be b d l d l like this. And again, mu zero n times r zero, and this will be 2 pi r. So this is the radius r.
+
+So b should be equal to, and b is equal to me 0 pi. So that is exactly exactly what we were expecting. So new 0 like this. So this will be. And this is the magnetic field within a toroid.
+
+So if you wanna increase the magnetic field, if you want to increase this, you want to increase the current, and you wanna increase n, and you wanna decrease r. So this means, thin wires and and then r is small, meaning that well, thin wires. Yes. That's what it's Alright. So that is, that is the end of Ampere's law, and and those are the the the, the pictures or situations where we can use them, and we don't we don't use extra.
+
+Showed what was the ampere's load. This is BDL is equal to m0i enclosed, and then we use it in infinitely long wire with a current I, and the l is like this. So we use it, and then we use it on solenoid, and we use it on a. Right? Like this.
+
+So those are the actually, what else did we use? So if we think of a wire like this, that's a current coming in. So what was the magnetic field inside all the wires? So we also use that in that, situation. Okay.
+
+So let's go back to so so what was the magnetic field here? It was mean 0 I divided by 2 pi r. Right? And take the sources of the field in to the. What was do you remember the circular ring, the current coming in like this, and then it forms a magnetic field like that?
+
+So and it was, it has a radius. Also, what was that? It is very close to this, but it's not the same. Formula So let's just think of this. So it's a magnetic field of a single loop.
+
+So if you take those loops and then add them up, right, And then you make it a solenoid. L. So the magnetic field inside this b is mu zero I, n divided by l. Okay? So that is the length that we so this is the in the actuality, that's what's happening, which is, sort of not equal to n times mu 0i divided by 2 r.
+
+Okay. So let's, so this is sort of like the summary of an Ampere's law. So I'm gonna give you a definition of, also, at the beginning of our magnetic field. So I'm gonna talk about more magnetometer concept that I will, explain in 5 minutes. So the reason when we have a magnet and then we divide it into 2, that still have n times s and s, and then divide it into 2, still has n s.
+
+And then keep dividing it, and then we just maybe, like, come to it, just a single property. So let's, so in a classical picture, so this is our, nucleus in an atom, and then an electron is revolving around that nucleus. So, for example, this is radius r. So what we know is if if a charge is moving, then that's gonna create a magnetic field. And Right.
+
+So what we know, is, it's actually this this electron is revolving, and, so let's just remind ourselves the magnetic field, m zero, and it was q, and then v cross r hat divided by r square. So that is the main formula of a charge creating a magnetic field. So if a if a charge, for example, moving with velocity d, that is going to create a magnetic field. So what we are here here trying to analyze is, try to maybe, like, figure out what that velocity is. So so the way that we we're not gonna use this one.
+
+We're not gonna use this formula, but what we wanna come up with is this thing is moving on a circular, uniform circular motion. So that means it has some a constant velocity, and that velocity is 2 pi, let's say, r divided by the period. Right? So that is the, that is the velocity. And, so this Bohr magneton is is something that mu is equal to I times a.
+
+So this is current times the area. So if the current is coming through here, the the area like this area. If you multiply these 2, you're gonna get a Bohr magnetron. So you can think that in terms of so this is magnetic moment. This magnetic moment, we can just think it as a very small, let's say, magnet.
+
+Okay. So what is the definition of the current? So it is charge divided by time. Right? So that's the definition of the current.
+
+So this is the charge of the electron divided by the time, which is the period. So in terms of period, I can write here so this period is 2 pi r divided by velocity. So I can write this thing, the electron charge, 2 pi r divided by the velocity, and then velocity comes up. And and this magnetic moment, I times a, is equal to the charge of the electron 2 pi r times the velocity and times the area. So what is the area of this?
+
+This going to be pi r square. So times pi r square, pi cancels out, r cancels. And the the charge of the electron, the velocity times r divided by 22. Right? So that is a, that is a constant.
+
+So here, when we discuss this, we don't really talk about the velocity of electron because that's that's not really a thing. So, so let's remind ourselves in physics 1. We talk about, if anyone can remember this. So this is angular momentum. So if this is going with r and then if this has some m times b momentums, If you multiply these 2, you get an angular momentum.
+
+So this angular momentum is r times mv. So since I have here v times r, I multiply with m and divide it by m, and I'm gonna call this thing as l. So this is the charge of the electron, l divided by 2 m. So this is the magnetic moment, and so in eventual, thing that the in quantum physics, the f is a constant for electron in quantum physics, and then which is equal to, the Planck constant divided by, 2 pi. So let's say a Planck constant.
+
+You don't have to memorize, you know, this. I'm just trying to write in terms of, so this thing, this mu, what I have here is, the charge of the electron, v times m times r or, r times m times 2, divided by 2 m. So I'm gonna call this l, and that l is equal to a hash or h over, 2 pi. So that's going to be the charge of the electron, h divided by 2 pi. So that's going to be 4 pi m.
+
+So this is a constant of or electron. So an electron has some type of magnetic moment, and and then, that is to the minus 24 Tesla. And and that and that magnetic moment, is, is basically the amount of so this is the amount of magnetic field for for that a single electron creates or forms. And push through my. But, not all the materials have the, same property.
+
+So the atoms, we can classify them as ferromagnetic, diamagnetic, and paramagnetic. So I'm gonna tell you what these are 1 by 1. So, so the ferromagnetic ones are iron like. So ferro means iron. So it's like iron, nickel, cobalt, etcetera.
+
+So these are the the atoms that, has this property. So we make magnets from them, the permanent magnets from them. And so so they this type of material keep magnetism magnetism exposed to exposed to external magnetic field. So what does what do we mean by that? So imagine we have this type of magnets, and then I'm gonna draw little arrows like this representing so this little arrow represents this, magnetic moments.
+
+So they sort of look into in every direction. So if you take the same thing and then apply a magnetic field, external magnetic field like this, so they are going to align towards that magnetic field. And then once they align and then even the external magnetic field is 0, they keep the situation like this, so which makes them magnets. Okay. So what is, what is diamagnetism?
+
+So these are materials with, let's say, they, they sort of the magnetic moments, those magnetic moments opposes external fields, and they, and then they are they are not so imagine we have, again, the same picture. The the arrows are looking in every direction, let's say. And then whenever we apply a magnetic field like this, the external. So what they are doing is they are the ultimate, like, conservative reaction going on here, which they sort of oppose in the the magnetic field. So, so in this, say so they oppose the direction, then test unit.
+
+So here, so that what happens is if you take this external magnetic field plus their total, let's say, magnetic field, opposition. So they sort of, like, make it to towards 0. So in paramagnetic, so magnetic dipole moments align align with, align with external magnetic field, but goes away when the external magnetic field is here. So if you sketch this again in nonoriented direction, and then when there's an external magnetic field, they sort of, like, align in that direction when there's an external magnetic field. And then the external magnetic field is 0, and they go back to their own setup, like, in every direction.
+
+So for example, copper is a diamagnetic system. So for diamagnetic, there's a copper. So imagine we have a copper tube here, copper tube here. So what happens if we drop a magnet magnet to a copper? Okay?
+
+So what's happening here is that, the magnetic fields of the magnet is coming in and out like this. So the copper is going to fill, for example, so this is so let me just make a cross section. Couple of the, the walls of the copper. And let's say this is the magnetic field like this, n and s. So what they feel is they are going to feel a magnetic field in this direction.
+
+So that that will be they'll be external. But what they do is they react against it. So they create a magnetic field like this. So which means, so they, they have some sort of, so this is the magnetic field like that. So it's going to be, some, little bit of, let's say, magnets at that moment.
+
+So what they are doing is, maybe I should write it in other direction. So that comes in this way. So they oppose it and that meaning that it is in this direction. And, it's sort of if I take s here let me just let me think about the direction one more time. Has we passed enormous.
+
+So let's imagine okay. Let's imagine this has a magnetic field, like, external in this direction. And then, so it is opposing magnetic field from the diamagnet. So meaning that this sort of looks like a magnet has an opposite polarity like this. So so when we have n s, we don't really rotate it in that direction.
+
+Maybe, let's just say, it is the magnetic field like this. Okay. So in that sense then, it's going to rotate. So the opposition in this direction and then opposition in that direction also is going to create a magnet like this. So what we are seeing is that in this demonstration is and, so this is our magnet here.
+
+So this is the magnet and s, and then there are magnets, which is n s and n s like that. So what's happening is that they have some type of attraction. So this type of attraction, this force is making the magnet this magnet when it is moving down. So the magnet moves slowly inside a copper cube.

@@ -1,0 +1,120 @@
+
+So in this picture, what we are looking at, here is a circular ring, and that circular ring has current, and that current is creating a magnetic field from the center to from the a a point from the center, and it's x distance away. So, the the question is, so we have So we have this setup. Vulnerable. Yeah. I'm sure that I can get you.
+
+So it a current is coming through the circular wire and then leaves the circular wire like this. And a point which is from the center of the circle, x distance away, that point is point p. What is the magnetic field at point p? Pain of the on our peers. So, so here, so from the side view, what we are looking here is basically this this is the wire, and this is x distance away.
+
+So what what was our formula? So the magnetic field created by a piece of dl. So the the, little bit of magnetic field is created by, the current carrying wire, which is dl length times rhat divided by r squared. So that's our formula. So that little piece of d l is the d l length here on this wire.
+
+So if so this is the DL. And if we are drawing a length here, so this is going to be our r, the distance r. And so we know, for example, this is our d l coming, so this is the current coming in towards us, and d l cross r is going to be a so imagine, one of the vector is like that, and the other vector is like that. So this is our r hat direction. This is the l direction.
+
+So if you cross this if you do a cross multiplication, there should be a direction like direction which is perpendicular to both of them. So this is the direction of DB. So so this is the, so this is the direction of our little magnetic field. So how are we going to deal with this? So first of all, let's figure out the, let's just say we it will have 2 different magnitudes.
+
+Right? So one of the components will be I'm gonna call this dby, and the other will be dbx. Since we are dealing with vectors, and this is d b x and d b y are the 2 components of those 2 vectors. Okay. So so we are going to employ this formula.
+
+How are we going to do it? So since the the so what is dlcrossrhat? So we try to figure out the magnitude of this since we know the direction. And so that will be dl times r times the angle between them. So so this is the magnitude.
+
+So r hat, the magnitude of the angle, which is sine 90. Right? So this is the angle between these two vectors, and that's going to give you just help. Yeah. And as soon as stops Okay.
+
+So I'm gonna leave it as d out here. So if I wanna write so let me just give some angles to it. So since the angle is given as theta like this so from this picture, so this angle is not theta. This is theta. This is not theta, and this is theta.
+
+Okay? So dbx is db times cosine theta, and db y will be db times db y is db times sine theta. Right? So what we need to do is we have to do an integration to find the magnetic field in x direction. And when we do this d b y, we will find the magnitude of the, the magnetic field in y direction.
+
+Okay. So so let's figure out the d b x or let's just try to figure out d b y first. So what is d b y? So if you pick different points along this wire, that what you will see is dby. So imagine so this is our wire, and this is x distance away.
+
+So any point that, well, what basically is our DB is like this, and this is actually rotating on this cone, this DB. So if you pick, like, different points here, that's the magnetic field that will be rotating on this cone. So here, whenever you have a d b y in this direction, you will get a d b y in that direction. So these will cancel out, so you will get 0. If you do the integration, you will get 0 as well.
+
+Okay. So, so now this will be 0 because if you pick this point dl, that's a magnetic field. And if you pick, for example, this dl, the magnetic field will be in this direction, dB. And that will be in that direction, and then this will okay. So, so the only nonzero values will be from the x direction.
+
+So let's figure that out. What is our formula? Again, d b y d b x is d b times cosine theta. So what is d b? That is mu zero times I divided by 4 pi times dl divided by r squared and cosine theta.
+
+So this is our dbx. So let's do an integration. So if we integrate it and we can also write cosine theta, from the setup. So what is cosine theta? So if I call this direction to be y, this is x.
+
+This is r. Cosine is y divided by r or, so let's just take this to be a. This this is the radius. So let's just take this to be a here. So cosine theta here be, a divided by r.
+
+So this thing will be cosine theta will be a divided by r. So let's write it that way. Okay. Mu zero I four pi dlrsquarea divided by little r. Okay.
+
+So we are taking an integration, and the integration is from DL. So the question here is, if you change DL, does our change? So that means that all this this is that is not going to be dependent on l, and a is a constant. So these guys are also constant. So you can take all of these out of integrate.
+
+Right? So that is the strategy. So here, db, or b in x direction will be mu zero I times a divided by 4pi r cube and d l. So what do you get from this? So remember, d l is we have the circle.
+
+There's a little piece of the length we have. So if I integrate, I'm going to get the circumference of this. So what is the l integration? 2 pi times a. So we're gonna get 2 pi times a here.
+
+And at the end, that 2 pi a is going to be canceling out. So it means your I a, another 2 pi a divided by 4 pi r cube, and, so 2 pi cancels with this, so I get a 2 here. So that's going to be mizeroi times a square divided by r cube. Okay. So I can write also in terms of, since, since this is x, this is a, this is little r, I can write this in terms of x as well, which is going to be a times a square a square.
+
+So I should get a 2 here. So there's there's a 2 here. And 2, r cube, r cube is a square plus x square three halves. Alright. So that's our answer, actually.
+
+This is the final answer that we have. So whenever you have a piece of circular current or circular wire. And if you are takes distance away, the magnetic fields that this one creating So let's say we are x distance away. The magnetic field is in this direction, x direction, and that's going to be majora I a square divided by 2 a square plus x square 3 halves. Okay.
+
+So most of the time, you will never use this. Wow. 10% or 5% of the questions you might use expression. So what if x goes to 0? So the expression that we have would be so is the magnetic field going to be 0?
+
+Alright. So when x is equal to, 0, that means mu0i times a squared divided by 2, a squared plus 0 squared in halves. So you're gonna get mu zero I a square divided by 2 a q. So if you cancel this out, mu zero I divided by 2 a. So that is the magnetic field at the center.
+
+So at the center, this is the magnetic field and which is equal to the radius here. Or you can just say I divided by 2 times the radius. So this a or the radius, capital r. Let's say we can I can show it like this? So this is one of the main formulas that you'll be using.
+
+Field at the center. Okay? So, okay. So this is the this is the formula that we're gonna use. And so if you look, for example, to what that means, if a current is coming in here, the magnetic field that is created in at the center will be looking towards us, and that magnetic field is proportional to the radius, or I'm gonna just say, like, capital r here, meter or I divided by 2 r or 2 a.
+
+Okay. And the direction is you will always find it with your right hand So, should they So this is a wire. But we also talked about infinite wire, current coming in towards goes towards infinity. And then, let's say, if you are r distance away and the magnetic field is now is rotating here. So this is the magnetic field, b.
+
+So that b was measure I divided by 2 pi times little Okay. Mhmm. So we will also use this, information. So this is the the current I, and the current is revolving like this. This is a circular wire, and this is infinitely long wire, which has a value 0 to my r.
+
+And Say awesome. Coil. So then 0 I divided by 2 a. Checked in the form Alright. So having said that, I'm gonna give you another so so far about this Maxwell's equations, what do we know?
+
+So the first Maxwell equation is our Gauss law. What was it that it that was e times d a will be equal to q n over epsilon 0. And And the second equation was, again, the Gauss law for for magnetic fields. So if we write the same thing for the magnetic fields, we will always get 0. So now our third one will be Ampere's law law, which is, basically how you can calculate sometimes the magnetic field of a system and which will give times some length.
+
+Now we do a dot product in a closed loop. That's equal to mu0i enclosed divided by mu zero I enclosed. Right? So here, this is again, this thing here is, this is a line integral starting from, let's say, a to a. So it's a closed loop integration, and d l is the length, and I enclosed is the enclosed or the amount of amount of current enclosed by this loop.
+
+So this is the Ampere's law, and, so is a constant. We know. And here what do we know so far? So we know, for example, the magnetic field, from a little piece of current carrying wire is given as like this. Right?
+
+So when you look at here, for example right? So here, this is mean 0, and this is current, I. And this whole thing is just length divided by length, cube, actually, here. So this is going to be 1 over, length square, something like this. That's so not this is not the cube, r square.
+
+Sorry. So it's going to be just length. So this is the magnetic field. So here, magnetic field times length is actually equal to mu zero times I, so which is the formula here. So b times d l is equal to mu zero times I.
+
+So, the first way of writing this or implementing this is imagine we have a current of a infinitely long wire infinitely long wire. So what I wanna do is I wanna look into a magnetic field here. So if we this is, let's say, r distance away. So what I know is previously what I know, this should give me b should be equal to mizeroi divided by So here, so so we know this is the answer. So let's just, redo or recalculate the magnetic field with Ampere's law.
+
+Right. So how do we do this? So how do we use this type of, integration? So what we are looking here is, so if I look from the top view so what I'm looking here is there is a current coming out of the the surface now. Let's say like this.
+
+I'm trying to figure out what is the magnetic field here. So what I, know is so what I need to do is not this one. Okay. So let's follow this. So what I'm trying to do is I want to draw this path.
+
+So this is this path now what I have drawn. So this is a circular or closed path. So the the first step is drawing this. The next step is, figuring out what the magnetic field direction is. So here, the next step will be trying to figure out what the magnetic field direction is.
+
+So it's going to be here like this. So if I look into this point, magnetic field will be like this, and the magnetic field will be like this. So it's revolving or circulating on this red circle. So the next thing that we want to do is b dot dl. So what is dl?
+
+Dl is the little bit of length here. So this if you look into this point, this is our DL. If you look into this point, this is our DL vector. Okay. So at each point so this is a dot product, b times d l times cosine theta.
+
+So that theta is 0 degrees. So here, this is b times d l. That's what we get from this. Next step is do this for for the entire loop. So that means, so we do this from the entire loop.
+
+Start from here and goes, and go to a full circle and stop here. So at each point, we always the same thing here. Okay. So the next step is the is b constant. So I'm gonna say it's yes, and then you will ask why.
+
+So because, because we are always r distance away away from the current. So b magnetic field can be taken out of the integral b. So what is the l? Whole little b. Length of this red wire or red circular loop.
+
+So that's it's not a wire circular. Oops. Sorry. So it's going to be b times 2 pi times whatever the, radius is, 2 pi r. So the left hand side here, the left hand side will be b times 2 pi r.
+
+So, so far, what we have done is, we are trying to do this. B.a0 is equal to so this is b times 2 pi r, and this is equal to m zero times I enclosed. So I enclosed means that, you know here, so that's going to be just I. So it's going to be measured times I. So this thing equal to that, and b magnetic field will be mu zero I divided by 2 pi r.
+
+Hence, what we were expecting this result. So, for example, if you have, let's say, currents I 3, let's say, I 2, and then, let's say, I 1 here. And the d l like this. So this is my d l. So here, b times d l is going to be mu 0i enclosed.
+
+So I enclosed means here is that I 1+i2minusi3. So this is some type of a constant or some type of a not a flux, but, there's something within that red circle. But in here, we cannot really take out the b here because b is not constant. But, nevertheless, if you ever were asked what would be the right hand side of this integration, that's going to be this result. Alright.
+
+So here, for example, let's just do this, with, so for example, if in this case, let's say, I 1+i2andi3, let's say, let's just equal to 0. So that means that doesn't really mean the magnetic field is 0, but that means b dot dl is 0. So imagine, for example, a picture like this. So these are both infinitely long ones. So these are infinitely long wires.
+
+So what we see here, this Ampere's law, what does Ampere's law tell us about this, is, so this is going to be b dotdl is equal to mi0i enclosed. So in here, this will be mi0i minus I, which will be 0 here. At the end, what we get is going to be 0. So when we think about for example, the the the positive current I, and then, so here, let's say the magnetic field is in this direction. So b dot dl is, let's say, a small theta, but here, there's going to be a minus theta here.
+
+So these two things will cancel out. So this will you will get a positive quantity from here and and and the negative quantity from there. So and, similarly, if you get a positive theta here, then you will get a negative theta there, and these 2 will cancel out. And these 2 send this one, for example, is going to cancel out with this one. Right?
+
+Because this one is positive. On the left hand side, this is a positive quantity, and that's so this is a positive quantity. That's a negative quantity. So everything will have this theta and then, again, minus theta here. Again, here, minus theta.
+
+This is theta. So so like, just just that, it so, for example, if you get, for example, plus 1.2, and then you will get 1 this 1.2 from here. So plus 9, minus 9, and then all those things. And then if you add them up, you're gonna get 0. But that doesn't mean magnetic field is It, so a similar picture that I'm gonna show you, as a last, example will be like this.
+
+For example, this one. So for example, this scenario is, so we have our wire like this coming in. The the current is coming in like that. For example, if I want to pick my DL to be like this. So this is my DL.
+
+K. So I will find since there is no enclosed, I enclosed is 0 here within this dl, here and here. So dl goes like this, like, in this path. So, for example, on the right hand side, I enclosed will be 0. So that means also b.dl should be equal to 0 here.
+
+So if you look into this part, for example, the magnetic field will be in this direction. So the magnetic field will be in this direction, and it will be like, a circular path like this. So the magnetic field will be something like this, magnetic field. And, also, here, the magnetic field will be like this. So I'm gonna call this b 1, and I'm gonna call this b 2.
+
+But here, this part so I'm gonna just take a look into this. So this part is going to give me right? Because DL so, basically, magnetic field is like this. So magnetic field is like that, and DL will be like this always. So it's 180 degrees.
+
+And in here, they are parallel. For example, so this is d l. So in this case, d l and the magnetic field here, b b 2, will be always parallel. So in this one, you will always get positive. So these positives and the those negatives, if you add them up, so here, you know, positive 1.2, minus 1.2 or something like that.
+
+You know, if you add those up, you will get 0. Here, magnetic field is perpendicular. So you get a 0 here, and you get 0 here. B.pl will be 0. So what does this tell tell us?
+
+So that doesn't, so first of all, there's blue and so this I'm gonna just put here. So this, so positive part is this portion, and negative part of this portion. So if you add them up, you will get 0. This doesn't mean that the magnetic fields are not there, but this it just means that

@@ -1,0 +1,104 @@
+
+Alright. So so let's imagine I'm going to start chapter 30, which is here somewhere. Alright. So we all talk about this, and then we now know what 29 is about. And alright.
+
+So 30 will be the induction or inductance, the chapter. And what I need is this picture. Okay. So so let's talk about mutual inductance. So what does mutual inductance means?
+
+Alright. So what we see here is that there are 2 coils, and, so let's see. So what we talk about here, mutual. So imagine we have, let's say, a coil, the first coil, co coil 1, and then there's another coil here. Coil So imagine this has a 2, the area.
+
+This is a 1, the area. And if, for example, let's say a current is going through here, I 1, there will be a magnetic field that is starting from the first one and then going towards the second one. Okay? So what's going to happen on the second card was that it kills the man and the field, and it's supposed to create the man curve. So there's a mutual inductance between these coils, and then, let's say so let's say the current is So the current is such a way that the magnetic field here is b 1.
+
+That's let's call this this is b 1. So since the the the b one enters here, b 1, the sky is going to create a b 2, like an induction, which will come into here, b 2. And then this guy will feel the b 2 again and then just rearrange itself to a current, and it's gonna create another b 1 and b 2. So it goes back and forth. So there will be an interaction between these 2.
+
+So this this is what we call mutual. So I 1, in coil 1, let's say, coil 1, form form a magnetic field, and this magnetic field goes into goes into the the coil The first coil is going to create a magnetic field, and then coil. The second coil will feel an EMF. The induced EMF is going to be like this, dp by heating. So this is the induced EMF on the second one, and let's call this, b 2 here because it's about the magnetic flux on the second coil.
+
+Okay? So we are looking into e 2 here. And, so there will be some type of, like, proportionality constant. And then also, maybe I should write here n 2 minus n 2, which is the number of terms. Right?
+
+So that's important as well. So the our new concept here is the proportionality constant proportionality constant constant, and then we are going to call this, like, m 21. So this is actually the mutual inductance. That's what we, we say. So so m 21 is such, such a way that's m 21 times I 1, let's say, will be equal to n 2 times p b 2.
+
+So this is the proportionality constant, so m is the mutual inductance. So mutual inductance is proportional to n and phi divided by the current. So this is something new. And that new thing that we are going to write m and then plug it into here. So e 2 will be equal to minus m 21 m 21 and d I 1 by d t.
+
+And ensure that. P b 2 is equal to made m 21 times I 1 divided by n 2. And then if you take the derivative of this 1, right, then you're gonna use it here, and then that's how we how we are going to see this. And, so this is the proportionality constant. And then so So our next step is, for example, if we, now if, for example, coil 2 coil 2 has has I 2 current, and then that will create a magnetic field, and then that will affect the the first coil in the same way that it got affected.
+
+So if you do the same step here, that what we will see is that the first coil will have minus m 12di2bydt. And here, again, this m12 and m21 are actually equal to each other, which is n 2v2 divided by I 1, and 1 c 1 divided by I 2. Test the metric. So here again so this is m, the unit. M is, Tesla meter square divided by So, so this is what we call mutual inductance, and, that mutual inductance is also called so this Tesla meter squared is also Weber divided by ampere, and then we call this thing as Henry, another name of a physicist.
+
+So this m has terms of Henry. Okay. Alright. So what else we can write about this? Also also, this Henry h will be equal to Weber divided by ampere, and this Weber is Tesla times meter square, which can be written as volt first times second per ampere or ohm times second or joule per ampere square.
+
+So these are all units for mutual inductance Henry. Okay. So let's Alright. So what we mean by that, by this so this expression is important, this one. So let's rewrite this thing.
+
+So m will be equal to n2 phb2 divided by I 1 and then n 1 p b 1 divided by I 2. And from here, we can write m to b, for example. So I can write what is p b 2 is again, remember, this is the first coil, or let me just make this as the first coil. The first coil is going to create a magnetic flux 2. And similarly, this is going to create a magnetic field b 2, and then this will be a 1.
+
+So p b 1 will be b 2 times a 1. And with the physics So n 2 will be equal to magnetic field is b 1 times a 2 divided by the current one is equal to n 1b2a1 divided by I 2. So from here, for example so what else can we say about this? So this is the mutual inductance m. And, so if you take solenoid, for example, and, and then that applies a magnetic field, which is, for example so let's say or, solenoid, The magnetic field was remember, this one will have number of terms, some length l, some current I, and then there's number of turns.
+
+So this will be mu zero I times n divided by n. So this was the magnetic field, remember? And this whole thing so you can maybe just write it here. Just plug that information here, for example. So what does this tells us.
+
+So m will be n 2, and then, so this is the magnetic field, mu0i1 and then n 1 divided by l. Let's say l 1 or l. So this is the magnetic field here times a 2 divided by I 1. So these 2 I cancels out. Right?
+
+So this thing cancels out here. And then what we have is a proportionality constant, which is physical terms. So num nu0, n 1, n 2, a 2, l 1. So you can also take this, take these a 2 and l to be the same. But for the, this mutual inductance is some, some variable.
+
+So Okay. So number of turns and length and cross sectional area is important. So for example, let's just plug in some values. So let's say this n one is, half 1,000 turns and n two is 10 turns. The l is 0.5 meters, and and the mu zero is 4 pi times 10 to the minus 7 and, Weber per meter times ampere.
+
+Okay. So what is the mutual inductance m? Or let's say this is given also. So m is given as 25 times 10 to the minus 6 Henry, and, DEI 2 by DT is given as 2 times 10 to the 6 ampere per second. Okay?
+
+So what is being asked is the what is the induced EMF in this case? Alright. So m is even as, my, sorry, induced emf is given as m times di 2 by dt. So just plug in the value. So all we need is this 1 and this 1.
+
+And here, so 25 times 2 times 10 to the 6 plus 6, which will give us 50 volts. So in this case, we will get, we we get a minus sign here. We get, minus 50 volts. So that means so this EMF is equal to minus n times d p b by d t. Right?
+
+So we can write, for example, d d by dt or m times I. Okay. Yes. N times I is equal to n times phi b. Right?
+
+So that's the formula. And And we made it in the shape. Alright. So what we need from here is, again, I mean, we're gonna get the same thing here. So the the problem is done here.
+
+All the sun is air. E initiative minus m d I n y d t. Alright. So this is mutual inductance, and then, what we are going to, describe is also self inductance. With the self inductance So imagine, for example, So imagine a current is coming through here.
+
+So imagine there's a first loop, and then the first loop is, let's say, has a current. Let's say let me make it this way. So it has a current like this, and then whenever the the the first load has the current, it will create a magnetic field. So there are lots of coils here, for example, and then they will get affected by this here. So for example, this one, even if it's the same loops or same solenoid, this will get, it's, like, affected by the first oil.
+
+I mean, everyone else is also, like, getting affected. All these are getting affected. So this this will feel the magnetic, so, so this will feel the magnetic field before, the the current the current reaches the loop. So that's why the mutual inductance between coils will be this mutual inductance is something between 2 coils like this. But here, the self inductance is within the same coil, like between the loops.
+
+And, so, again, if m was, what was m equal to? N times p divided by the current? So we're going to write here this l, like, capital l, and then it is going to be the same formula, n times p b divided by I. Alright. So so this will code this self inductance.
+
+And self inductance, I can write this thing as, since e we have written it as n two times dpb2bydt, the magnetic flux of the second one, with respect to to time the derivative time derivative of this, m times d I one by d t. So these two things are equal to each other. And we have found that this m was mu0n1 times n2. And then if I take the area to be a and the length is l, like that. And, so the self inductance will be similarly l times I is equal to n times p b.
+
+And I can take the derivative of this l times di by dt, n times d by dt. Okay? So what we are going to call this, this is minus f Here's what we see is that. There's a So this is a powerful, so this EMF, so this means a potential difference potential difference between a and b points. And then let's say we have this battery, and then there is, let's say, a solenoid like this.
+
+So let's imagine something like this. So when we turn on the switch, there will be a current coming in here that and then that current, when there's a change in that current, let's let's say v a b, the potential difference between the these two points is going to be equal to epsilon. Okay? And that epsilon is a potential difference. It depends on the the change in the current.
+
+So so let's just try to understand this a little bit better. So ldi by dt, is equal to epsilon with a minus sign. So let's say the current is I here. So I times r is equal to epsilon. So how do you compare these 2?
+
+Right. So let's do a similarity, analysis on this. So this guy is amperes. This is ohm, and that's equal to the potential volt. Right?
+
+So this current is volt divided by ohm. Right? Just take this one and then plug that one in here. So l times d by dt, so that is you know, you can write here it is delta I by delta t, or you can write this thing as, like, I divided by time will be equal to epsilon. So l and I is volt divided by ohm and tie time is second.
+
+So this is Henry, this guy, and this is going to be volt v. Right? K is equal to all times. So for solenoid, for example, again, what is the mutual inductance? So this is what we are trying to understand this.
+
+And then this is an important so this one is important. N times p b divided by the current. So for a solenoid, again, if the current is coming here, I, number of turns n, and the length is l like this, and there's a current I. So what is the magnetic field? Mu0i times n divided by l.
+
+So what is the magnetic flux? So if this is area A, so l will be equal to n times, for this p b, magnetic field, mu0i, and divided by l, times the physical area a, this guy, and then divided by I. So here what we see, I cancels out, mu zero n square times a divided by l. So this is the mutual inductance of a solenoid. So for example, for a solenoid, if you wanna calculate how much of a henry of one thing is, and then square a divided by little l.
+
+So that gives you the Henry. For example, let's say n is 1,000, and a is, let's say, 1 centimeter square, and l is, let's say, 1 millimeter. Okay? So our l value will be 4 pints times 10 to the minus 7 times a 1000, 10 to the 6, and square. Right?
+
+The area area is 10 to the minus 4 meters square divided by, 10 to the minus 3 meters. Right? So this thing will give us minus 2. 4 pi times minus 2. Right?
+
+Minus 2. So roughly 3, like 12. So it's like 0.112 Henry. So, for example, for a toroidal solenoid, that toroid may they be, cylinder loop, symmetry appears on a toroid peers. So for a toroid so it was something like this.
+
+Right? So this is r, this radius r here, and then a current coming in here, I. So what is the magnetic field? Mir0, I n divided by 2 pi r. Okay?
+
+So if you wanna calculate l, which is n times p b divided by the current, and, what you end up getting here is, square physical area a divided by 2 pi r. So this is for toroid. For example, if you get m to be 1,000 and, area is 5 centimeters square, and r is 10 centimeters, and you get l to be 40 microhenry. And, again, I'll do not micro mini Alright. So we should also so this is our, now, our 3rd, circuit element.
+
+So first, we have this c, we have this r, and now we have this thing, which we will call l. Right? So this l, and then there's a potential difference, for example. So what is the potential difference here? That will be q divided by c.
+
+And what is the potential difference? Delta v will be I times r, right, the current here. And what is delta v here? This will be l d I by d t. So the the in an inductor.
+
+Okay. For example, what about the power here? So let me just talk about just the power of this, but you can, yeah. So what about the energy of this one? It was q squared divided by 2 c, or you can just write q times p divided by 2, etcetera.
+
+What is the energy here? I squared times r. Power. Power. Per time is equal to power.
+
+K? So energy is joules, and joule is equal to what times second. Okay. So here, we can also talk about power here. So power is, p will be equal to I times v, which is here, I times v, like that.
+
+So I can write here, since these 2 are connected, I should write it in terms of, integral. So ldi by dt is the potential, and the current is just I itself. Right? So, basically, what we get from here, the current will be I squared divided by 2. So l times I squared divided by 2, is going to give us the power p for this new term.
+
+And, well, it's not exactly the same because oh, okay. Well, I I should be able to write it here. So I'm making a lot of mistakes because I rush. So this is true. This or I should write l d I by d t is the potential, and then that's the current.
+
+So these 2 are related to each other. So p times d t is equal to l times I d I. So you you're going to take integral like that. Right? So it's going to be the the power times delta t will be equal to l I squared divided by 2.
+
+So s squared divided by 2 divided by delta t is power. Okay? So it's going to be l divided by delta t is equal to power. So power times times as squared by 2 here. Power type delta t is energy.
+
+So, basically, the energy is power times time, you know, p times delta t here. So what we are finding here is this is energy.

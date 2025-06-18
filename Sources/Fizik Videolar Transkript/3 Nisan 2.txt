@@ -1,0 +1,112 @@
+
+So I kinda so far, what we have, described is the current, and the current is basically charged per time. And, and this, j, we said a is equal to the current divided by the cross sectional area. And from here, from from here, what we have found that the the current is qe, the charge of the electron, times the number of number density of the the charges, times the area and times the drift velocity. So here, Qe is the constant, 1.6 times 10 to the minus 19 coulomb, and is charge density, and a is cross sectional area. Cross sectional area.
+
+Then, Hariketediq, on and you say the next year. And, So, so what is v d, and that is the drift velocity. Okay? So we have established this, and we have also, used this one, j is equal to I divided by a, which is equal to sigma times e or, e divided by rho. So here, j is charge, or, current density.
+
+And sigma is conductivity, and rho is resistivity. So from here, when we combine this so this is basically what we have said that, okay, this j being equal to sigma times e or e divided by rho, that is the definition of the Ohm's law. And the most famous definition of the Ohm's law that we describe is the the potential difference is equal to I times r and where r is equal to rho times l divided by a. So this is what we call resistance. Okay.
+
+So here, the, in this table, the constants are given for resistivity constants, this rho. And the unit for rho is ohm times meter. So we're gonna come to the units later. But what we see in the metals is silver, copper, gold, and aluminum has the, the least amount of values. So here, we want what we want for resistance to be very small, and and these are in the order of 10 to the minus 8 here, which is a small number.
+
+That's good, but it it changes, like, even though this is 10 to the minus 8 and then tungsten, which is 5 times this, and then you can make, for example, some bulb out of tungsten. And, if you make this resistance a little bit higher, that means you can hit the the metal. And then when the heated metal is, you know, not burned or damaged, you can it can give out some light. So here in the semiconductors, so there are a 3, classes here. 1 is conductors, metals, and alloys, and, and semiconductors, which is half conductor, half insulator.
+
+And then those low, value for those, the resistivity values, have been dropped to 10 to the minus 5 to up to maybe 10 to the 3 or so. And the insulators, it's the number is 10 to the 14 and 10 10 to 16, 10 to the 11. It changes from material to material. But from here to here, that is, like, 10 to the, so the highest is 60. So 10 to the 24, the order of magnitude difference.
+
+So you put partially. Right? So this is this is the resistance. So let's look into the the units as we always do. So what is the unit for this one?
+
+We we're gonna call this volt, and then that's equal to ampere and times, and then we're gonna call this ohm. Right? And, so it's going to be the potential is equal to I and ohm. So I should write here volts and a, the ampere. So so the resistance the unit for resistance is ohm and which is equal to volt divided by ampere.
+
+And, so if we look into here also So anytime if you see any volt divided by ampere, that is equal to, the ohm, and r is equal to rho times l divided by a. So the unit analysis for this one is ohm is equal to, let's say, rho and meter divided by meter square and which gives the unit for rho ohms times meter, which is the unit that is given here, ohms times meter. And another property of, the resistance that the the alloys are made, like when we are doing with lab, the the experiments or any circuits, we use some, like, resistors with color codes. And then if you look into the color codes, you can name them, and and then we're gonna do it in the laboratory. So I'm gonna leave that part later.
+
+Okay. So let's do some, exercises to understand these concept a little bit better. So for example, a copper wire, copper copper wire has a diameter of 1.02 millimeters. And, and the the 3 electron charge density, which is the letter n, is given as 8.5 times 10 to 28, 1 divided by a meter cube. And, and the current that is going through through this copper wire is given as 1.67 ampere.
+
+And the first question is, what is charge density j? So, so j is equal to I divided by the area, and that is 1.68 ampere divided by the area, which is so it it it has a diameter, so that means what is the area on this one is pi d by 2 square, right, like this. So it's going to be 314 and 0.5 1 square, and I wanna write this in terms of meters as well. So it's going to be 10 to the minus 6 meter square. Okay.
+
+So ampere per meter square is the the the j the value for j, and, that thing is, 2.6. So this value is 2.6 times 10 to 6 ampere per meter square. Okay. And the next question is, what is the drift velocity? So calculate the drift velocity under these situations.
+
+So what do we know about drift velocity? The current is equal to qe times n times area times the drift velocity. So all of them are given to us, right, except v d. So, just plug in the values, then bd is, equal to 1.67 divided by the charge, 1.6 times 10 to the minus 19 coulomb. I'm gonna write the unit's later, and this n.
+
+So n is 8.5 times 10 to 28. We have continue and divide by the area, 314 times 0.51 squared times 10 to the minus 6. And if I wanna write the units here, so the units are so that's going to be ampere and divided by this guy, which is and divided by this one, which is 1 divided by meter cube, the unit for this one, and this is meter square. So let's look into the the units. So ampere and, meter squared, it cancels out here.
+
+So meter comes up. Ampere, I can write this 1, what what ampere is equal to coulomb per second, top here, divided by coulomb and divided by 1 over meter, and that's going to give you meter per second, which is the unit for and we come up with a number which is so this value is point 15 millimeter per second or 1.5 times 10 to the minus 4 meter per second. So as, we have already discussed that this this value is small. And in one second, it goes like 1.5, 0 point, like, 15 millimeters. And so that's also, like, if you increase if you increase the current if you increase the current, you can increase the drift velocity, because these are all constant.
+
+So that if you if you increase the the current, like, 10 times, this can be, like, millimeter per second, And it all depends how much of current you are applying, but it is in the order of millimeter per second, and then and then it's a small number. Okay. Alright. So we're gonna use, the for the rest of the the the the lecture, we're gonna use the Ohm's law and try to get a better understanding of, of the resistance and better understanding of what the potential is. So for example, another example is, so the area of the wire is given as 8.2 times 10 to the minus 7 meter square.
+
+And, and l is 50 meters, and I is, again, the same number, 1.67 amp pair. And for copper, this is a copper. For copper, the raw value is 1.72 times 10 to the minus 8 ohms times meter. And, so for this situation, for example, we have a wire like this, and there's some type of l, length l, and some area here, a. And some rho is given, and the current is given.
+
+So the current is going through on this wire. So what is the resistance? So the resistance is So r is equal to rho times l divided by area. So if you plug in the values here, so it's going to be 1.72 times 10 to the minus 7, 8, and then, times 50. The Wi Fi, 8.2 times 10 to the minus 7.
+
+So here again, the the the units are, for this one, this is ohms times meter. This one is meter divided by meter squared. So that's gonna give us ohms. And at the end, what we get here is Yep. So what is the potential difference?
+
+So 1.05. So 1.05 is ohms. So that is the resistance of this copper wire. And I'll send this, the shade. Alright.
+
+So this is 1.05 ohms for the resistance of a 50 meters of copper cable. And, so the next question is so this is a. So what the b is what is the electric field inside? And, so there are more than one ways to do this, but, so you can write e is equal to j divided by sigma or rho times j. So you can write it this way, or you can write e is equal to the potential difference divided by l.
+
+So these 2 will give you the same number. And what do we have? We have a current and we have, so we have, do we have potential difference? No. I cannot use it.
+
+And, maybe I'll be able to use since I know the current, I know j, And row times j, I can find out what e is. So here again so the value is 1.72 times 10 to the minus 8, and j j is the current divided by the the area. 8.2 times 10 to the minus 7 meter square. And this thing is going to give us an electric value of, 0.035. 35.
+
+Okay. So what is the unit for electric field? Electric arm eliminated? Another one? So you can write this thing as also point post 35 volt per meter.
+
+Okay? And next question is, so what is the then, the potential difference? So that's going to be, e times l, or I times r. So you can always, calculate that. And, so this will give you 1.75 volts.
+
+So that means so if you have a potential of here at an initial point, 1.75 volts, So here, you will have 0 volts. Or if you have, let's say, 51.75 volts here, then you will have 50 volts there. So the potential difference is going to be accounted for the, for the length of the wire. Okay. So next thing about resistivity of metals is that, resistance is a function of temperature.
+
+Resistance changes with temperature. Yeah. Why is that? So we we, so we use this formula for the resistance. So if you know resistance so, okay.
+
+So how does it look like is if you have a resistance r with respect to temperature. So it sort of looks like this. Okay. It increases linearly with time with temperature. So, so if you know, for example, let's say let's say at t 0, this has a value of r 0, and then at t, this has a value of r o t.
+
+So that r o t can be given as r zero plus so it's a linear function. It's a math problem. Right? And and r zero, can be written as something like this. So one plus alpha times t minus t zero.
+
+And you can also say that this one, which is r of t minus r zero equals, r 0. Okay? Then I can write this thing as anyway, so let me just, make it like so this delta r divided by delta t time, is going to give you the slope of this one here. And, oh, this is delta r and delta t here. So you can always find out, in this way.
+
+So here, alpha is, is a constant. So alpha, is basically, so with this formula, what do what do you think the unit for alpha is? Alpha formula? So it's going to be one of our Celsius or one of our Kelvin like that. And then alpha is, for example, let's say, 0.0039, for some material.
+
+So, let's just make up a, example. So this is within the example like this. So if, for example, the resistance at 25 Celsius, is going to be, let's say, 1.05 ohms. So what's the resistance at, 0 Celsius, 100 Celsius, and like that. Okay.
+
+So using the formula here, so just plug in the value. Right? So r o 100 will be, r 0, which is, 1.05, 1 +ussalphah00039 times the temperature difference. So it's 100 minus 25. Okay?
+
+So that's gonna give you a value of, you 1 point 38 ohms. So if you plug in, for example, so for 0 Celsius, right, for 0 Celsius, 0 here, everything is the same. It's going to be 0 minus 25, which will give you a negative value, which will bring down the, resistance value a little bit, and that's going to be 0 point 97 ohms. So for example, if I plug this into a graph so at 0 Celsius, it's going to be at this resistance is 0.97 at a 100, and that's going to be 1.38. Okay.
+
+So what happens if you cool RAM when you get rid of the resistance? So resistance. If we cool it way down, let's say. Choke. So what's going to happen so if we use the correct temperature scale, which is Kelvin, So nothing ever reached to 0 Kelvin, but let's say so this is the trend here.
+
+So this is the resistance, and it goes down like this. At certain temperature, it goes down to 0 immediately like this. So this there there will be some TC and some critical, temperature, and this is the superconductivity temperature. So here, this region is called superconducting. And we use it in our daily life in MR machines, MRI machines.
+
+So it goes on forever forever. So if for example, if there's a loop in this and then you are making a current, and then you can create a magnetic field magnetic field like this, and and, and then for free. So it's a quantum state or a quantum phenomenon. Quantum physics, let's say. Yeah.
+
+I'm Shranki Seamus. You sick. So we have t c of 180 Kelvin of, some materials. And these materials are really hard to do. So it's, like, quite expensive.
+
+Still expensive to create these materials. And so that's that's how the thing is, going to evolve, actually, like us. So we're not gonna talk about superconductivity, but later, we're gonna talk about electromagnetic fields and how to create the magnets magnetic fields with the current. And if you wanna do it efficiently, you have to use superconducting things here. Okay.
+
+So in my last 5 minutes, I'm gonna just, mention about our last concept of the chapter, which is ENAV, electromotor force Electromotor force. EMF. Electromotor cavity. So what is EMF? EMF, is something that makes current flow.
+
+So it's basically EMF is some voltage difference. And what are the materials that, that does this, is the the batteries, for example. So EMF, the batteries are sources of EMF. So battery, for example so let's say this is EMF, like, electromotor force in a in a, a substance that makes the current flow. So it's just that motor likes.
+
+A motor takes the current from one side to another. And, for example so here, let's say the current is flowing this way. So it's making, positive charges from here to and then giving it a, a push towards the left hand side. And this is basically what we, write it as like this. So this is basically a battery.
+
+And if the current is coming in like this and, the the current is pushed like this, So the action of EMF is happening within here. And, EMF is an unfortunate name, actually. So the unit for EMF is EMF unit is volts. So let's write it down. And, so battery is a source of EMF, and then sometimes, we show this the the potential difference between these 2 with a surelye, this letter, which is the EMF of the battery.
+
+Okay. So an ideal battery has no internal resistance, but in real life, in reality, every battery has internal resistance. So for example, if you take a battery, double a battery, let's say, The positive side and negative side, double a battery here. So it has so we, so this is basically equivalent to something like this. So it is the point a here and point b here.
+
+That's point b. That's point a. So EMF is, the voltage of the the pure battery, and this little r is the internal resistance. So and, hopefully, after the break by ramp, we will start with experiments for, for the computer guys. And in one of those experiments, we will be able to measure the internal resistance of a battery or the EMF or the the battery.
+
+But here, when they say that the the potential is 1.5 volts, that doesn't necessarily mean, this epsilon here, this e and f. So it's roughly within the order of 1.5, but it's not exactly the same. Anyways, so let's just take this battery and connect it with some resistance like this. So this is capital r, this is little r, and then I'm gonna call the the voltage of this is epsilon. And and then let's just give some letters to it.
+
+I'm gonna call this b, and I'm going to call this a here, this point a. So any wire that is a pure wire like this, so wires do not have resistance. So so this is the ideal case as well. But we know any copper wire. So, for example, for copper wire, so this is equal to actually something like this, this little resistance and a wire like this.
+
+So you can always put a little resistance or internal resistance with an extra extra, element there. Yeah. Normal resistance. So these do not have so no resistance here. So any resistance will be get into either this little r or this capital r here.
+
+Okay. And, so here, I can write, for example, if this is point a, this is point a, point a, and point a. So I'm gonna just say this is point a as well, And then we still write this as, so this will have the the the same potential step because there is no resistance in it. Okay? And then if this is point b and there is point b, there is point b like that, so, again, because there's no resistance, then I can write the same letter as well.
+
+So it's actually that means it's an equipotential or it's the the same potential, here as well. And, so here, what I can write this thing as, so little r like this. And, maybe let me just okay. So for example, if I do a similar version of this one, there's a little r, capital r, and and this has some epsilon, and a current is going in this direction. So if I wanna plot the potential with respect to some time some length here.
+
+So I'm gonna call this point b here, b b b, and then this point a, and then that will be point c here because that will be diff that will be different. So if I start from b and then, so if I start from b, for example, here, then I will have 0 volts. So as soon as I jump up to a, the potential will be, like, jumping up like this. So from b to a, like that. So from b to a, the the potential value has jumped up to epsilon from here to here.
+
+And then after going, so there's a constant value here up to, like, c point. Okay? And then at the end, so maybe up to 8, let's say. So this is a a a goes like that. And then once you cross to c, it's gonna drop down like this.
+
+K? That's the c. And then you you're gonna keep continuing, and then at the end, you're gonna end up with the capital r, which is the point b here. So these are all point c here, and at the end, this is point b. So what we get here from this one is this is the epsilon here, and there's a potential drop and potential drop from here to here.
+
+So this potential drop will be like I times little r, and there will be I times capital r potential drop. So any potential rise, the total potential rise will be equal to total potential decrease. So, so we can we can write that. So the the potential increase from, let's say, from b to a, and then like that, epsilon should be equal to the potential decrease I little r and I capital r. So from the the current, we can find out the current with this one.
+
+Alright. So for example, if epsilon is 12 volts, little r is 2 ohms, and capital r is 4 ohms. Right? So the current will be 12 divided by 2 +4, which is 2 ampere. Okay.
+
+So, we're gonna stop here and I'll continue, Friday. And and I think that's pretty much what I wanna say about this. This is the introductory part, and then probably you'll be most, you know, responsible for this one for for the midterm.

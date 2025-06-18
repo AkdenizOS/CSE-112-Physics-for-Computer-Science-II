@@ -1,0 +1,140 @@
+
+Now appears positive negative positive positive positive negative epsilon object. Capacitor so we're going to have another example on this. Right. So we have a battery here 4 volts, epsilon, and resistance which is 5 ohms, and it comes down like this. Another resistance here and which is 3 ohms.
+
+And then another loop, another resistance here like that. That is going to be 5 ohms and, that is 8 volts. That is 3. That is 5. So this is 5.
+
+That is 3. And another battery here, negative, positive, like that, and a capacitor. Yeah. Like this. And, so the currents are given as here, I 1, I 2, and i3, like that.
+
+And the question asks, what is what are those currents here? And, so here, I should give 3 volts, and this will have a 6 microfarad capacitance. And what is the, the potential of the capacitor as well? Okay. So, let's start from the q short laws.
+
+So the Q short log let's say Q short current log here, and then we look at the node, doom. So coming in, currents are i3, and going out, currents are i1+i2. So this is our, let's say, first equation. Okay. So most of the questions, they're not gonna tell you the direction of the current.
+
+And it shows So, I'm gonna make this small. So let's do a loop like this. So I'm gonna start from here and end up here. So I'm gonna call this, let's say the loop, the first loop. So first loop tells me I'm gonna go in this direction like this.
+
+So here, this is negative. Maybe I should blow it up a little bit. Okay. So this is negative and positive. The who your market.
+
+Okay. So, this is, positive and negative. And so here, for example, the current I 2 is got coming in like this. That means there's a positive, there's a negative, of the potential. And similarly, since I 3 is like this, so that is I like this, so that is I there's a positive and a negative potential of the resistance.
+
+So in our first loop here, we can write so we are starting from the negative end up at the positive. That means I am increasing my potential. That is 4 volts. Right? So here, 4 volts.
+
+So I end up coming in here. So I hit the positive and then, end up at the negative. That means minus 3 times I 2. Okay? So it's a negative potential difference.
+
+And this one will be also a negative potential difference, which will be minus 5 times I 3, and that's equal to 0. Okay. And so we can rewrite this, thing in terms of so we can end up writing it like this. 5 by 3, that is equal to 4. And let's pick another loop.
+
+So let's take another loop like this. So I'm gonna call this the second loop. And the second loop, so I'm gonna stop from this point. And here, I need to put in also the, polarities of the potentials. So there's a positive polarity here, negative polarity, and this guy has a negative and positive polarity like this.
+
+So if I go in this direction, so I'm go against the the current. So that means I should put here positive 3 times I 2 here like this. So I end up getting into a positive and negative like that. So so which is 5 times i1. And I turn up here, so it's going to be my state potential, which is plus 8, and that is equal to 0.
+
+So if I rewrite this thing, so 8 equals 5i1 minus 3i2. So I have 3 unknowns, 3 equations, and I can solve it. I can find out those currents. So, So that's going to be 3i2 +5 timesi3, which is 5i1+5i2, and I get 4. And here, I rewrite this, so that's going to be 8 I 2+5i1.
+
+That is equal to 4. And my second equation is, 5 I one here and positive, and a negative, 3 I 2, and that's equal to 8. So that's the first equation and second equation no. The second and the third equations. So the second equation and the third equation.
+
+And so if I do like 2 minus 3, right, here, So that's going to be 2 minuteus 3. I can get rid of the 5i1. So that's going to be 8i2 minuteus makes it plus, 3i2, and then that's going to be minus 4. And the. Right.
+
+So here, I 2 will be minus 4 divided by 11 ampere. So that means the direction is I 2 is actually in reverse, but I'm not gonna change and update. No? I mentioned, Yeah. We exit.
+
+So so take this one and plug back in here in one of the equations. So minus 3 times I 2, which is minus 4 by 11 plus 5 I 1, and that's equal to 8. And so that's going to be plus 12 by 11. So here, I one will be 8 minus, so let me write it like this. 1 over 5 8 minus 12 by 11, And I one will be, 88, so 78 6.
+
+Right? Divide by 55. Excel only key. Okay. Alright.
+
+So this is I 2, and I 3 will be I 1 plus I 2. So I end up getting, 76 by 55 plus I 2 is minus 4. So that's going to be minus 20 divided by 55. Right? Okay.
+
+So that's going to be 56 by 55. Alright. Something like this. So that's our answer. And most of the questions, you might numb some rational numbers.
+
+That's not a, you know, interview. That's okay. Yeah. Alright. So what about the the potential or the the capacitor here?
+
+So so this is almost done. And our next question was, so if I sketch the lower low lower loop and negative and positive, and I have a capacitor like this. So I know this is 8 volts and this is 3 volts. And so what is this v c? So again, if we do a loop like this, So this is positive, negative, negative, positive.
+
+K. And, so what we get from the loop so we end up lowering our potential. So that's going to be minus 8. And I end up getting here. I don't really know which one is the polarity, so I'm gonna keep it as plus v c for the time being.
+
+And and then I hit the positive part first and then end up in the negative part, which is minus 3 volts, and that's going to be 0. So vc will be 11 volts. The the the the is here such a way that, so you end up so, for example, if you put a voltmeter here, you measure 11 volts. So that means, the the positive parts are here, and the negative charges are there. So so remember the loop direction.
+
+Let me write the loop in red. So the loop direction is like this. So you end up gaining a positive capacitance, the or or positive potential of the capacitor. So that means you end up getting, like, 11 volts. So, so we can also ask what is the charge of the the capacitor.
+
+So q by c is going to be the the potential. So q will be equal to c times v, and c is given as, 6 microfarad. So that's going to be 6 microfarad times 11 volts, and then that's going to be 66 microcore. Eric. Okay.
+
+So it's going to be positive 3 votes. Yeah. Alright. So we have, this type of circuit. And this is connected with a battery like this.
+
+So in our question, so this is given as r, r, r, and 2 r. And in this case, r is equal to 1 ohm, and epsilon is 13 volts. And and so the question is, well, let's say the the currents are given. So this is I one, That is I 2, and that is I 3 here. And this is Epsilon.
+
+And so the question is, what is I 1, I 2, and I 3? And what is the r equivalent equivalent resistance of the circuit. In it. So let me copy this for my page. Not to rewrite this, everything once more.
+
+Right. I'm gonna paste it here and make it a little bit smaller. Okay. So first of all, I should write, let's say, a current here. Let me write let me write a current here.
+
+Statement there. So here, what should I write? My current I wanna use I 4 or I 5. I wanna write in terms of I 1, I 2, and I 3. Right?
+
+So if I look at this node, let's say, the a node, so what is coming in here, there is I one coming in and I three going out. So what is this current? So incoming current should be equal to an outgoing current. So that's going to be I one minus I 3. Right?
+
+So that's going to be I one minus I 3. And what about this 1? So I'm gonna call this p node. So node b. So node b.
+
+So incoming current is I 2, and there's also an incoming let's say, an outgoing current here. So that's going to be 2 incoming currents will be equal to 1 of the outgoing currents. So I'm gonna write I 2 plus I 3. So you can check this out that you know, here, for example, what is the current coming in here, I one plus I two, which should be equal to I one plus I two. So you can check out from, let's say, node c, this current plus that current should give us this one, which is the case.
+
+Alright. Okay. So let's take some, loops. And for the loop, let me use this color another color. So let's just try to take different, like, loops.
+
+So what I need is I need 3 equations. Right? I I need to take 3 loops. So, one of them you can take, for example, this this loop. Maybe I can take this loop like this.
+
+Okay. I can so let me call this the first loop, and let me call here a second loop like this. 2nd loop like this. And maybe I can take another loop here, or I can take another loop from outside. I have 2 options.
+
+So I'm gonna call this loop the 3rd loop. Okay. So before writing our loops or delta v, let's just put in, the the polarities. Okay? So maybe, yeah, let me just make a more striking color here.
+
+Okay. This color. So what is the, so in here, what is the, the polarity? Maybe Okay. So this is positive.
+
+This is negative. Here. So this is positive. This is negative. Again, positive negative.
+
+Positive negative. Positive negative. And positive negative. Okay. So, so let's write our first loop.
+
+So what does the first loop tells me? So I start from here. I come to this resistance, which is I'm going with the direction of the current. Right? So I'm going to write since r is 1 ohm, I'm I'm gonna drop that.
+
+So what I need what I wanna write is just minus I one. Right? From here, minus I one times 1. So I'm gonna drop this one. So I can write it to you if you want, but it's going to be more complex.
+
+So it's going to be just I one minus. And here, again, minus plus minus minus I one minus I three here. Okay. So, again, I'm hitting from positive and and I'm getting negative one. So here, I hit a minus part, end up getting a potential, which is positive epsilon is equal to 0.
+
+Okay. Any questions so far? So we have minus 2i1 plus, i3. That is equal to or plus epsilon is equal to 0. Well, this is the first.
+
+And what about the second loop here? So again, minus i2 here, and I'm going against the the current here. So So it's going to be positive I 3 here and against, and against the current one more time. So that's going to be plus I one that is equal to 0. Okay.
+
+That's my second equation. And let's just take this one as well. I start from here. I go with so my 3rd loop is I go with a negative here minus I 2, this one. And that's going to be so there's another 2 here.
+
+Okay? So it's going to be again another minus minus or plus, let's say minus 2 times I 2+i3. Because 2 times r and another post epsilon, and that's equal to 0. So if I tidy this up, so it's going to be minus 3i2 and minus i3+epsilon. That's equal to 0.
+
+Okay. So let me rewrite these formulas. So this is the first one. It's the third one and the second one. So the first one, minus or plus 2i1and minus I 3.
+
+That's equal to epsilon. And the second one is I one minus I two plus I three. That is equal to 0. And the third equation is again, I'm gonna keep the epsilon to be positive here. So that's going to be 3i2+i3.
+
+That's called. Pardon? At. Epsilon, they demonstrate the on each architecture and one of the. Okay.
+
+So let me get rid of I 2. So what is I 2? So from the second one, I 2 is equal to I 1+i3. And let me distribute it in or or in just here. So the 3rd equation will become, so it's going to be 3i23i1 plus 3i3plus2i3.
+
+That is equal to 13. So that is, 3i1 plus 5i3. That's that's my new equation here. So I'm gonna compare it with the first one. Okay.
+
+So, so 2i1 minus I 3, that is 13. And then the 3i1 plus 5 i3, that is equal to 13. So what do we do? We multiply it with 5. So multiply it with 5 and add it up.
+
+Oh, that's gonna be 10. So 10 plus, 3, that's going to be 13 I one. So I got rid of this. And then that's going to be equal to, like, 6 times 13. So from here, I one equals, 6 ampere and plug back in here, let's say, in the first equation.
+
+So t 2 times 6 minus i3 is equal to 13. So here, i3 is minus 1 ampere. Okay. So i2 is equal to i1+i3. So that's going to be 6 +1, which is equal to 5 on pair.
+
+And a shared also sah deter devrims. So these 2 will be series, and series they will be parallel to each other. Okay. So but I have so what if I have some some something here again? So this will be like, 2 will be parallel, 2 will parallel, and those 2 will be series.
+
+Again, no need of Q Shock. But if I have a resistance here, then I can figure out what is series and what is parallel. Sure. So what is the r equivalent of this one? So we know that this is 13 volts, and so it will be in such a way that this one, so I'm gonna replace that with just a single resistance, which is r equivalent, and I should get the same currents.
+
+So what is the current here? So the current here is so what was the current? So this was I one. This was I two. And the the the current total here is I one plus I 2.
+
+So this should have also I one plus I 2. Okay? So this is epsilon. So r equivalent times I one plus I two should be equal to epsilon. Okay?
+
+Since I know I one and I two, what what are those? So this is 6, this is 5 ampere. Equivalent, that is equal to 13. So our equivalent, in this case, will be 13 divided by 11 ohm. So so this whole thing is actually so if I sketch this thing, and this is basically equal to this.
+
+So you can write this thing as here like that or when you write it like this. This is actually the same thing. So not this one. It's actually the same. Right?
+
+So this is 1, 1, 1, 1, and 2. So it's going to be 1, 1, 1, 1, and 2 here. So sometimes there will not be a so let let let's just, so what are the values here again? What are the current values? Let's analyze this with the potential differences.
+
+So what is I one? So I one is 6 ampere here coming in and 5 ampere coming in, and there is I 3, which is minus 1 ampere. And here, that is equal to So 6 and minus 1. So these 2 if you add these 2, you should get this 1. So which means that's going to be so this is, So it's going to be positive one pair, and I'm gonna change the direction of this.
+
+So there for you. So it's going to be 7 ampere here. And and then this is 5 coming in, 1 going out. So it's going to be 4 ampere going out like this. So you should get 11 ampere and 11 ampere here.
+
+Okay. So if I call this point a and let's call this point b. So, and then let's say, what is the, let me write here again. I'm gonna sketch the the potential differences here. Okay.
+
+So here so what is the potential difference here? That's going to be 6 volts. Right? And the potential difference here is 5 volts. Okay.
+
+And the potential difference here is 7 volts, and the potential difference here is 8 volts. This time flat. And the potential difference from here is, let's say, what is it? 11 volt. So in order for a current to come in here, so any current that is coming in and out from between the point a and b, there must be a potential difference which is different than 0.
+
+Potential difference and I'm gonna they will be decent versus the objective versus the objective versus the objective. And will be 0. So there won't be any current. So the current coming in here will be 0.

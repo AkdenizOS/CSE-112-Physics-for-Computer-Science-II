@@ -1,0 +1,90 @@
+
+So our next, topic will be finding the energy energy stored in capacitors. So why do we talk about energy? Well, first of all, what you are doing is, you are basically taking or measuring you have plus, minus, plus, minus here. Again, minus, plus, minus, plus there. So what you're doing is that you are taking the charge and putting on here, the the positive charge here, and it of take it back and put here so that at the end, what you are doing is basically a positive and negative.
+
+So you are carrying the charges. So that's why we we have So at the end, what we get, like, positive on all sides and negative on the other side. So, again, why did the work, for example, is f times doctor. So what is the forced forces qE times doctor, like that. And and then this is equal to minus potential energy difference.
+
+So the potential energy was the charge divided by the potential, and the potential energy difference is q times the potential, potential difference. So because you know, why we are because we are carrying the the the charges, and, we are applying forces on them. That's why the there's a work there there's work to be done. So at the end, we are changing the potential energy of the system, and that's why it stores energy. And, so if we want to calculate, for example, here so if we think in terms of little bit of energy is equal to q times little bit of potential.
+
+Right? So what we need is just take the integral of this one and on that one. So what is q times v? V and q are related. Right?
+
+So they depend on each other. Right? So the capacity is equal to v q divided by v. So then if I wanna write dv, so v is equal to q by c, and we can write dv as dq by c. So we have to take this one, this expression, and put it in here.
+
+After we do that, then our potential will be q times dq by c, and this will be equal to, q squared divided by 2 c. So this is the potential of a charged capacitor, and you can write q since q is equal to c times v, you can write, here as well, c square times v square here. And if you plug that one in here, what you will get, c times b squared divided by 2. Also, you can write with, you can write here c is equal to q divided by potential. So you can plug that one in here, and you will find that will be equal to q times v divided by 2.
+
+Okay. So all the the expressions for energy, all of them. And what is the unit for energy? That is joules. Right?
+
+So here again, so the energy in joules let's remind ourselves. So for this formula, that will be column squared divided by farad is joules. Again, that is equal to c is farad times v volt square is joules as well, and that is equal to joule times v, which is coulomb times volt. So these are all equal to joules. Okay.
+
+So we can calculate, the the energy for each capacitor. So in our previous problem here. For example, if you want to let me just take the sky. So now previous problem, for example, if you want to write, so this was 4 divided by. So at the end, what we get was from here is 6 microfarad, and it was 120 volts.
+
+If you wanna calculate the energy, so that's going to be c times v squared divided by 2, right, cv squared by 2. So 6 times 120 squared divided by 2 is the total energy here. So that will be 43100,000 200, and that will be since this is a micro carat and this is volts, so that's going to be microjoules. So you can write this thing as 43.2 millijoules. So that would each be equal to this.
+
+So if it some letters to it, there's 1, 2, 3, 4, and 5. So it's going to be this u 1 plus u 2 plus u 3 plus u 4 plus u 5 will be equal to 43.2 millijoules. So I don't wanna do all of them, but just to for the sake of the argument, so previously, in, in the first step here, just a step before, so this was 18 microfarad, and this was 9 microfarad. And, again, this was, here 40 volts, and this was 80 volts. So let's check let's just check with this one rather than doing 5 other calculations.
+
+So for this one also, u 1 plus u 2 should be equal to 43.2. So here, so what is u 1? That is, so 18 times 40 squared divided by 2 and then 80 so 9 times 80 squared divided by 2. So so let me make my point. So this is 14,400 plus.
+
+So that will be 28 800 plus. So I'm just going to give you this much of microjubes. Okay. Next. Because u is c times v squared and Buddha formula Okay.
+
+So what is the energy density? Energy density of a capacitor. So energy density, we're gonna call this little u. So so it's going to be small u. So that will be energy divided by volume.
+
+So when you think of a capacitor, a parallel plate like that, So the there's some volume associated with this. So if this is the area and that's the thickness, so a times d is going to give us the volume. And, so this little u so what is the energy? So for example, the energy is d c times b squared divided by 2. That's the energy divided by the area volume.
+
+The answer the volume. So what about the the potential here? So this potential here is or the electric field times the distance. Right? And I can write this thing as well.
+
+So the capacity c what is v squared? That is e squared times little d squared. There's 1 over 2 here. So 1 over 2, that's 2, and a times d, like that. And I can also write the what is e.
+
+So there is some sigma, which is the charge density. Remember? So charge density is the charge divided by area. So here, or should I go that way? Maybe I shouldn't go that way.
+
+I should go the other way, which is the I can write the electric field in terms of charge density. So here, the electric field is equal to sigma divided by epsilon 0. Okay. So let me plug that information here. Let's see, the sigma squared times, one of the d cancels out.
+
+So d here. So this cancels with that. E square. I should get, what is 2 here? So there's an area.
+
+Very quick. Like that. Okay. And lastly okay. So I should have written it in no.
+
+I should have written it just once, not step by step, but what is capacity? Capacity is a epsilon 0 a all divided by d for parallel plate. So if I finally plug that information here again, so this little u is equal to this capacity, which is epsilon0a divided by b. So there's sigma square. There is 2.
+
+There is area. There is epsilon square, and there is little d here. Okay. So d cancels out, a cancels out, and, epsilon 0, one of them cancels out. So that's going to be sigma squared divided by 2epsilon.
+
+So there's the charge density. In terms of charge density, what is the energy So in our example, we are going to charge c 1. So c 1 is equal to 8 micro perad and is charged with This chart with, math. It's just has a charge, c one, like that, and has a charge of 960 microcoulomb. So that means charged with 120 volts.
+
+Next, c one is connected, disconnected, is disconnected from the battery, and connected to to c 2, which has 4 microfarad capacitor. And c 2. Let's say, s show that I'm gonna draw. So find find charges and potentials of each capacitor. So we have c one here, and c one is connected to a battery.
+
+So this is the battery, which is under 20 volts. Battery like that. And, so let me just write it this way. So it's connected, and then it's charged and disconnected. That means c one is like that.
+
+And now we are trying to connect it to oh, let me just write it this way. So so this is c 1, and that is c 2. So we are basically connecting to c 2, but now this has, charges like that. So what would be the charge distribution after we do this? So what do we know?
+
+So from here, so this is given, but, so the total charge here is equal to c times v and which is basically what what is given to us, 8 times, 120 volts is going to give us 960 microcoulombs. So that is the charge on c one. And c 2 is, c 2 initially is not charged. So after we, turn on the switch, what's going to happen? Hey.
+
+They make. Okay. This is c one. And after we connect it, it looks like this. So this is c 2, and this is c one.
+
+So, initially, the total charge here, the q total is 960 microcoulombs. So then the after we wait and after we turn on the switch and wait, this will have charge q one, and this will have charge q two. And this q1 plus q2 will be the total charge, which is 960 coulomb microcoulomb. Okay. So how do we, let's say, how do we distribute them?
+
+So we know that since this is point a, that is point b here, the potentials are the same for both capacitors. So for both capacitors, potentials are the same. So that means, I can distribute them according to here. So what is q so what is v v potential, v a b potential is, q 1 divided by c 1, which is equal to q 2 divided by c 2. Okay.
+
+So this one so what is q one? That is c onevab plus c two v a b, which is q two. That is equal to 960 microcoulomb. So from here, I can plug in the value and then find out what v a b is, or I can say also from here, I can also calculate q 1 and q 2 with respect to, the ratio as well. So here, c one is 8.
+
+So 8 times v plus 4 times v, and that's equal to 960 micro micro. So there's a, so that's going to be micro divided by micro, microfarad. So micro cancels out, and that's give that's gonna give you some voltage. Right? So that's going to be 960 divided by 12 is our new voltage.
+
+So what is that? 960. Yes. 80. So this will be 80 volts, which is our potentials of VAB here.
+
+So this is our new potential. So will be q one will be c one times b a b, and that will be 8 microcoulombs. 8 microcoulombs times, 80 volts, which is 6 40 micro, microcurrent here. Q one is this 1, and q two will be, similarly, 3 20 microcolumn. So if you add that up, you will get 6960 microcoulomb.
+
+Good. So if we as in summary of what we did, so we had this one. So, initially, all the charges were here, and this is empty. So in this case, the total charge is 960 microcoulomb, and the potential for v 1 was 120 volts, and v 2 was the 0 potential. So this is v 2.
+
+And the charge or let's say, this was the charge of q 1, and then q 2 was also 0. So after we wait, I mean, like, very short amount of time, so what we get here, 640 microcoulomb and 80 volts, and this guy, 320 microcoulomb and 80 volts. So this is 4 microfarads, 8 microfarads. Okay. So now let's calculate the energies.
+
+Okay? So what about the energy? So we are done with this. So what about uinitial and ufinal? And u is 1 over 2 c times b square, for example.
+
+So so the initial energy is 1 over 2. The the capacity here is 8, 88 microcoulomb, microfarad times the voltage square, 128 square, plus 0 from this one. There's no energy here. What about final? So this thing comes out to be a 120 times, a 120 times 4.
+
+Under microjoules. There's the energy. So final, this one, so that's going to be 1 over 2, 8 times our new potential is 80 squared plus 1 over 2 times 4. Our new potential is 80 squared again. So that's going to be times 80.
+
+It's under it. And then times oh, times 6. So that's going to be 38,400, if I'm not mistaken. The key. So here, your initial is greater than your final.
+
+What is going on? C 1, c 2. Really? Final. E 1 c.
+
+So this is initial. This is fine. For example, we can say also, c one is also charged. And maybe a scenario is also c 2 is charged, but the polarity is opposite. Meaning that, for example, this has a positive charge here, negative charge here.
+
+This has a negative charge there and positive charge. So if, for example, q one initial is, let's say, 100, microcoulomb, and q two initial is, let's say, 50 microcoulomb. So this is q total is 150 microcoulomb. If the so this is this case, for example. So for this one, let's say q one initial is 100 microcoulombs, and q two initial is, let's say, minus 50 microcoulombs.
+
+Then this will be positive 50 microcoulombs. So these are conserved, and you can you will distribute that then.

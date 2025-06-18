@@ -1,0 +1,78 @@
+
+So what is the magnetic field? What is the magnetic field of an infinitely long wire in the inside and outside. So, so we have this infinite long wire, let's say, like this, I. So what we know is, let's say, so this infinitely long wire this long wire is a cylinder with radius, let's say, capital r. So when this, little r is greater than capital r, that means we are outside of the the wire.
+
+So what we can do is, this is our I and this is r. And what we need to do is we draw we draw a dl like this. So this is our dl, and then we are r distance away. So b dot dl. So what we get from here, that's b times dl times cosine 0, and magnetic field is constant.
+
+So b times dl. So dl is 2 pi times little r. And on the right hand side, mu times I enclosed. So that is going to be equal to mu times I and mu times I. So the magnetic field outside of the sphere, which is, outside of the the wire, is going to be equal to m0 I divided by 2 pi r.
+
+So this is outside. Yeah. And in this time, So if we, sketch this So, for example, if we sketch this mu 0 I divided by 2 pi r. So what does it look like? This is r, so it's going to be be increasing, increasing, and increasing, but it's not gonna go to infinity.
+
+Right? So it's not going to go to infinity because this will have a capital r here, which is so this is the wire, and the wire has capital r radius. And if you are here, this little r here so on this little r. So let me just so what is the magnetic field here? The magnetic field here is I divided by 2 pi little r, and that's the r.
+
+But, this has a certain radius. This, you know, this is a cylinder, this wire. And at this point, for example, the magnetic field will be equal to so what is the magnetic field at little r equals capital r? So that's going to be 0 I divided by 2 pi capital r. So that is the the value here.
+
+So it's not gonna go to infinity. So it's gonna come to some constant value here, and that's going to be at the border. Right. So that's the answer. Nice.
+
+Okay. Okay. Next time, I will also try. So here, this was the, again, the cylinder that we had talked about like this. And if you are r distance away, that is measure I divided by 2 pi little r.
+
+But if you are, let's say, r distance capital r distance away, that's going to be measure I divided by 2 pi little r. And little r is the radius of the cylinder. Okay. So, what's going to and the direction is always like that. So what's going to happen when, this little r is less than capital r?
+
+That means we are inside the wire, And the wire is cylindrical and cylindrical. This each are the key by. So if I look into a top view so imagine this is the the wire itself, and this is capital r. So what I'm looking in here is, what I need to do is this I enclosed, that's equal to b.dl. That's how I'm going to find the magnetic field inside.
+
+So if I pick my dl to be like this so this is my dl, like that. And what is here, I enclosed within this portion. So what is I enclosed here? Enclosed this, shaver. So if, so this has this little r, little r here.
+
+So I enclosed. So if I say I zero is the total total current, so I enclosed divided by the total current will be equal to the area of the enclosed region and the total area. So so the area will be pi times little r square. The total area will be pi times capital r square. So it's the ratio of the r squares.
+
+So what I need is I enclosed is equal to I zero little r squared divided by capital r squared. So this information is going to be fed into here. Okay? So mu zero times I zero little r squared divided by capital r squared. So in here, I'm going to calculate b dot d l one more time.
+
+And the steps are, again, what is the direction of the magnetic field? The magnetic field is like this b. It's circulating on the loop. So that is b. And that means it is always that is b.
+
+Why do I know that is b? Because the current is in this direction. So here, again, b times dl times cosine 0. This is equal to 1, and this is constant. You can take out the integral.
+
+So that's going to be b times dl. So and then this is going to be 2 pi little r. And on the right hand side, mu zero I r squared divided by capital r squared. So So here, R square, capital R square is equal to b times 2 pi times little r. So what cancels out?
+
+So one of the r cancels out and the rest is the same. And the magnetic field inside will be, which is r less than capital R, is equal to mu 0 I divided by 2 pi r square times little r. So it's a functional r, so that means the magnetic field up to the capital r is going to be a linear function. This will be so here, the value of this one will be equal to mazeroi divided by 2 pi capital r. So this is inside.
+
+So what about outside? And outside goes like this. Means 0 I divided by 2 pi, little r. Put the key formula there, and we'll solve it to chart the audio record ID. So what we are going to discuss is the magnetic field a sole no need.
+
+So I'm going to take this picture, paste it here. Another yeah. So that's what I need. So this is Solenoid, for example. It's about.
+
+Okay. So we are going to find the magnetic field of, a solenoid. So why do we need, solenoid? Because we because a single circle is not enough, so we want to repeat. But once we repeat it, we can increase the magnitude.
+
+And so we know, from, just a single line or, like, single circle here. So what we know is if you have a wire like this, the current y, there will be a magnetic field out of the wire, which is equal to me 0 I divided by 2 times this radius r. Or I'm gonna just say, like, capital r like this. 2 r. We we don't have 2 pi here.
+
+Is so we want to find so if, for example, if we have bunch of wires like this, you know, circular wires, Is the magnetic field going to be n times I divided by 2 r or something else? So let's just keep that in mind. And down Oh, so the solenoid itself is you get to a single, like, wire here, and then, you keep, you know, rotating it like this. And then you take the wire out, so the current coming in and current going out are a single wire. So what we need is this picture.
+
+So in order to calculate this, we need this b dot dl. Here, mu zero times I enclosed. So let's figure out. So let's, so this picture, this one, Okay. So our d l is this.
+
+So this is our d l. So it goes like this and goes to a rectangle like this and goes like that. So here, how do we calculate the right hand side? So what is the right hand side tells us? That's going to be times I, but we don't know how many of them.
+
+Right? So I can just say here I times n, like, however many turns. So, like, how many turns? Number of turns here. And so that's the right hand side.
+
+So what about the left hand side? So the magnetic field, again, let's emphasize on this. The magnetic field direction here is in this direction. So here, the trick here is the magnetic field here. So, so these are the wires that we have like that.
+
+So the trick is when we are doing our dl, so it's a rectangle like this, and this is the center, but this is, like, very far away. And I know that the magnetic field here will be in this direction. Magnetic field is like this. Magnetic field is like that. You know, it's going to be so let's keep it like this.
+
+So here, this magnetic field is going to be 0 because it's, like, very far away. So remember, why I can take this to be 0? So remember, a single, going in and going out of wires, so the magnetic field here will be, like, max. And very far away, it sort of cancels itself out. So the magnetic field, you can take this to be 0.
+
+So here, so let's call this, side 1, and then this will be side 2, side 3, and side 4. So when we are doing b dottl so we will be doing b.tl for 1 and plus for 2 and 3 and 4. 3 and 4. So, rather easy one is this one. D l is the same direction here.
+
+So that is, what we get from here is b times d l, and then this takes out of the integral, b d l, and this will be just the length of this wire or the not the wire, it's the the path. So what we get from the first part, b dot the l is b times l. And so in the second and the third, no, second and the fourth. So the magnetic field is in this direction, and dl is in this direction. In the 4th one, the magnetic field, so this one, for example, this one creates a magnetic field like this in this direction, this one in that direction.
+
+But, so, yes. So it's going to be always like perpendicular. So d l is in this direction, and magnetic field is in this direction. So these are cosine 90, which gives us 0. So here, this one and that one is going to give us 0.
+
+And the third one is the one that is the magnetic field is 0 itself. So it's going to be 0 plus 0 plus 0, which is this is coming from the 4th one. And in the 4th one so in the 4th one, magnetic field itself is 0 times d l, and that's going to be a 0 anyway. So what we get here is b times l. And that's equal to m zero times I enclosed, which is I times n.
+
+Okay. So, it's just that the magnetic field is equal to mu 0 I n divided by l, and l being the length of the solenoid. So this is l. This is l, and this is n is number of turns. So, similarly, I can write this thing as m0i n divided by l.
+
+So it's number of turns per length. So that's the magnetic field inside the solenoid. We have to increase the current. We have to increase n. So these two things should be increased, but l should be this this, decreased.
+
+So how is that possible? So here, in reality, it kinda looks like this. So here, this one. Maybe I'll be telling. So another way of writing this will be, this n divided by l can be written as little n.
+
+So this is number of terms per length. So you can write it like this. So the magnetic, field will be mu zero I times little n. But in reality, it doesn't really go up to n here. So this is the maximum.
+
+So, like, in theory or in the ideal case, that's the the thing. But that means the magnetic field. So in this case, for example, when the length is 4 a and the radius or the diameter is 2 a, so when those things are comparable, the this one, the maximum magnetic field will be here. That magnetic field will be less than m times I. This one.
+
+And then that is also decreasing as you go towards the, to the edge. Yeah. Shoot picture. And So this is true when the radius is much less than l, and the magnetic field will be mu zero I times little n. So we wanna make sure that the radius so this is, let's say, capital r or diameter or this little r.
+
+So there's a little r. This is length. So we wanna make sure that length is much, much greater than r.
